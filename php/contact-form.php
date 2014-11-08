@@ -11,9 +11,8 @@ header('Expires: ' . gmdate('r', 0));
 header('Content-type: application/json');
 
 // Enter your email address below.
-$to = 'you@domain.com';
-
-$subject = $_POST['subject'];
+$to = 'kobukan@kobukan.com.br';
+$subject = "[contato enviado pelo site] ".$_POST['subject'];
 
 if($to) {
 	$name = $_POST['name'];
@@ -44,9 +43,11 @@ if($to) {
 	$headers .= 'From: ' . $name . ' <' . $email . '>' . "\r\n";
 	$headers .= "Reply-To: " .  $email . "\r\n";
 	$headers .= "MIME-Version: 1.0\r\n";
-	$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+	$headers .= "X-Priority: 3";
+	$headers .= "Content-Type: text/html; charset=UTF-8";
+	//MIME-Version: 1.0","X-Priority: 3","Content-Type: text/html; charset=UTF-8
 
-	if (mail($to, $subject, $message, $headers)){
+	if (mail($to, $subject, nl2br($message), $headers)){
 		$arrResult = array ('response'=>'success');
 	} else{
 		$arrResult = array ('response'=>'error');
