@@ -1060,6 +1060,8 @@ aside ul.nav-list > li > a {
 	font-size: 0.9em;
 }
 
+.no-pin { list-style: none; }
+
 /* Home Slider - Revolution Slider */
 .slider-container {
 	background: #171717;
@@ -1342,8 +1344,8 @@ aside ul.nav-list > li > a {
 .home-concept .process-image {
 	background: transparent url(../img/home-concept-item.png) no-repeat 0 0;
 	width: 160px;
-	height: 175px;
-	margin: 135px auto 0 auto;
+	height: 280px;
+	margin: 89px auto 0 auto;
 	padding-bottom: 50px;
 	position: relative;
 	z-index: 1;
@@ -1416,7 +1418,7 @@ aside ul.nav-list > li > a {
 	border-top: 4px solid #1F1F1F;
 	font-size: 0.9em;
 	margin-top: 50px;
-	padding: 80px 0 0;
+	/*padding: 80px 0 0;*/
 	position: relative;
 	clear: both;
 }
@@ -2147,4 +2149,15 @@ body.boxed .body {
 
 body.boxed #header {
 	padding: 15px 0;
+}
+
+.try-drop-caps { 
+	float: left;
+	font-size: 75px;
+	line-height: 60px;
+	padding: 4px;
+	margin-right: 5px;
+	margin-top: 5px;
+	font-family: Georgia;
+	color: #0088cc;
 }
