@@ -1,10 +1,12 @@
 <div class="container">
           <h1 class="logo">
             <a href="index.php">
-              <img alt="Porto" width="190" height="150" data-sticky-width="82" data-sticky-height="70" src="img/logo.jpg">
+              <img alt="Kobukan" width="190" height="150" data-sticky-width="82" data-sticky-height="70" src="img/logo.jpg">
             </a>
           </h1>
-          
+          <button class="btn btn-responsive-nav btn-inverse" data-toggle="collapse" data-target=".nav-main-collapse">
+            <i class="icon icon-bars"></i>
+          </button>
           
         </div>
         <div class="navbar-collapse nav-main-collapse collapse">

@@ -32,7 +32,7 @@ Version: 		3.1.0
 	#header .nav-main-collapse {
 		top: 8px;
 		position: relative;
-		background: #0088cc	;
+		background: #171717	;
 		max-height: none;
 		width: 100%;
 		overflow: hidden;
@@ -688,7 +688,7 @@ Version: 		3.1.0
 @media (max-width: 600px) {
   /* Header */
 	#header nav ul.nav-top li {
-		/*display: ;*/
+		display: none;
 	}
 
 	#header nav ul.nav-top li .phone {

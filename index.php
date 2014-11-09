@@ -123,7 +123,7 @@ include_once('header.php');
 									e da reconciliação universal.</p>
 									<p class="tall">Durante a vida de Morihei Ueshiba, e continuando até hoje, o aikido evolui apartir do "Aiki" que O'Sensei estudou em uma grande
 									variedade de expressões de artistas marciais de todo o mundo.</p>
-									<span><a href="mestres.html#Osensei">Continuar lendo...</a></span>
+									<span><a href="mestres.php#Osensei">Continuar lendo...</a></span>
 								</div>
 							</div>
 							<br>
@@ -138,7 +138,7 @@ include_once('header.php');
 									<p class="tall"></p>
 									<p class="tall">Durante a vida de Ueshiba e continuando até hoje, aikido evolui apartir do "Aiki" que O'Sensei estudou em uma grande
 									variedade de expressões de artistas marciais de todo o mundo.</p>
-									<span><a href="mestres.html#Kawaisensei">Continuar lendo...</a></span>
+									<span><a href="mestres.php#Kawaisensei">Continuar lendo...</a></span>
 								</div>
 								
 							</div>
@@ -158,7 +158,7 @@ include_once('header.php');
 											Paulo para treinar na principal academia da América Latina, sob a supervisão do introdutor 
 											do AIKIDO no Brasil, Kawai Shihan. Na mesma época inicia seu treinamento em jiu-jitsu, com 
 											mestre Raul Vieira e Souza, da Academia Lótus Clube- SP.</p>
-									<span><a href="mestres.html#Eduardosensei">Continuar lendo...</a></span>
+									<span><a href="mestres.php#Eduardosensei">Continuar lendo...</a></span>
 								</div>
 								
 							</div>
