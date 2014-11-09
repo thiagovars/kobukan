@@ -29,6 +29,12 @@ include_once('header.php');
 						<div class="col-md-12" data-appear-animation="fadeInUp">
 							<h3><strong>Acupuntura:</strong> Medicina tradicional chinesa</h3>
 
+							<p class='try-drop-caps'>A </p><p>Acupuntura é um tratamento milenar que busca a promoção da saúde e bem-estar através da
+							inserção de finíssimas agulhas especiais (esterilizadas, descartáveis, de uso ùnico) em determinadas regiões do corpo
+							(sem usar remédios). Também há tratamento sem agulhas (calor, pressão sementes). A eficácia da Acupuntura é reconhecida pelo
+							Ministério da Saúde do Brasil (Portaria 971/06), pela Organização Mundial da Saúde (OMS) e por vários Conselhos Federais da
+							área da Saúde.</p>
+
 							<p class="drop-caps">
 							A história da acupuntura se confunde com a história da medicina na China. 
 							Seus primórdios remontam à pré-história chinesa. A linguagem escrita milenar permitiu a continuidade do conhecimento. 
