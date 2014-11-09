@@ -41,7 +41,7 @@ Version: 		3.1.0
 	}
 
 	#header .nav-main-collapse.collapse {
-		/* display: none !important; */
+		 display: none !important; 
 	}
 
 	#header .nav-main-collapse.in {
