@@ -1,5 +1,5 @@
 <?php 
-$title = 'Album exame de faixa em 2013';
+$title = 'Album koshukai criciuma / tubarão 2014';
 include_once('header.php');
 ?>
 
@@ -17,7 +17,7 @@ include_once('header.php');
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>Exame de faixa - Içara - 2013</h2>
+								<h2>Exame de faixa - Içara - 2014</h2>
 							</div>
 						</div>
 					</div>
@@ -33,12 +33,12 @@ include_once('header.php');
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 							<?php
 							require_once 'urls_fotos.php';
-							for($i = 0; sizeof($exame_faixa_2013) > $i; $i++){
+							for($i = 0; sizeof($koshukai_criciuma_tubarao) > $i; $i++){
 								?>
 							<li class="col-md-3 no-pin">
 								<div class="portfolio-item img-thumbnail">
-									<a href="<?=$exame_faixa_2013[$i];?>" class="thumb-info">
-										<img alt="" class="img-responsive" src="<?=$exame_faixa_2013[$i];?>">
+									<a href="<?=$koshukai_criciuma_tubarao[$i];?>" class="thumb-info">
+										<img alt="" class="img-responsive" src="<?=$koshukai_criciuma_tubarao[$i];?>">
 									</a>
 								</div>
 							</li>

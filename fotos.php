@@ -53,7 +53,7 @@ include_once('header.php');
 							</li>
 							<li class="col-md-3 isotope-item koshukai">
 								<div class="portfolio-item img-thumbnail">
-									<a href="album-koshukai-circiuma-tubarao.php" class="thumb-info">
+									<a href="album-koshukai-criciuma-tubarao.php" class="thumb-info">
 										<img alt="" class="img-responsive" src="https://lh3.googleusercontent.com/-2DsFdkMbouY/UzocDRyYHiI/AAAAAAAAEkA/B_-k2bq3nqM/w1241-h822-no/DSC_0155.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Koshukai 2014</span>
