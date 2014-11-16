@@ -44,7 +44,7 @@
                   </ul>
                 </li>
                 <li>
-                  <a href="aikiken.php">Aikiken</a>
+                  <a href="iaido.php">Iaido</a>
                 </li>
                 <li>
                   <a href="aikijo.php">Aikijo</a>
