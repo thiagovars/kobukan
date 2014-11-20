@@ -38,60 +38,73 @@ include_once('header.php');
 					<div class="container">
 				
 						<div class="row center">
+							
 							<div class="col-md-2 col-md-offset-0">
 								<div class="process-image" data-appear-animation="bounceIn">
-									<a href="criciuma.html"><img src="img/map-dojo-criciuma.jpg" alt="" /></a>
+									<a href="criciuma.php"><img src="img/map-dojo-criciuma.jpg" alt="" /></a>
 									<strong>Criciúma-SC</strong>
 								</div>
 							</div>
 
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="200">
-									<a href="tubarao.html"><img src="img/map-dojo-tubarao.jpg" alt="" /></a>
+									<a href="tubarao.php"><img src="img/map-dojo-tubarao.jpg" alt="" /></a>
 									<strong>Tubarão-SC</strong>
 								</div>
 							</div>
 
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="400">
-									<a href="laguna.html"><img src="img/map-dojo-laguna.jpg" alt="" /></a>
+									<a href="laguna.php"><img src="img/map-dojo-laguna.jpg" alt="" /></a>
 									<strong>Laguna-SC</strong>
 								</div>
 							</div>
 							
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="600">
-									<a href="icara.html"><img src="img/map-dojo-icara.jpg" alt="" /></a>
+									<a href="icara.php"><img src="img/map-dojo-icara.jpg" alt="" /></a>
 									<strong>Içara-SC</strong>
 								</div>
 							</div>
 
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="800">
-									<a href="imarui.html"><img src="img/map-dojo-imarui.jpg" alt="" /></a>
+									<a href="imarui.php"><img src="img/map-dojo-imarui.jpg" alt="" /></a>
 									<strong>Imaruí-SC</strong>
 								</div>
 							</div>
-							
+
+						<!-- </div>
+						<div class="row center"> -->
+						
 							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1000">
-									<a href="farroupilha.html"><img src="img/map-dojo-farroupilha.jpg" alt="" /></a>
-									<strong>Farroupilha-RS</strong>
-								</div>
-							</div>
-							<div class="col-md-6">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="capivari.php"><img src="img/map-dojo-capivari.jpg" alt="" /></a>
 									<strong>Capivari de baixo-SC</strong>
 								</div>
 							</div>
-							<div class="col-md-6">
+
+							<div class="col-md-4">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1000">
+									<a href="farroupilha.php"><img src="img/map-dojo-farroupilha.jpg" alt="" /></a>
+									<strong>Farroupilha-RS</strong>
+								</div>
+							</div>
+
+							<div class="col-md-4">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
-									<a href="bento.html"><img src="img/map-dojo-bento.jpg" alt="" /></a>
+									<a href="bento.php"><img src="img/map-dojo-bento.jpg" alt="" /></a>
 									<strong>Bento Gonçalves-RS</strong>
 								</div>
 							</div>
 							
+              <div class="col-md-4">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+									<a href="ivoti.php"><img src="img/map-dojo-ivoti.jpg" alt="" /></a>
+									<strong>Ivoti-RS</strong>
+								</div>
+							</div>
+
 						</div>
 				
 					</div>
