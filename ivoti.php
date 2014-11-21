@@ -49,10 +49,10 @@ include_once('header.php');
 										<tbody>
 									<tr>
 										<td>
-											Terça
+											Segunda
 										</td>
 										<td>
-											19h30 - 20h30
+											19h15 - 21h45
 										</td>
 										<td>
 											Valim
@@ -60,10 +60,10 @@ include_once('header.php');
 									</tr>
 									<tr>
 										<td>
-											Quinta
+											Sexta
 										</td>
 										<td>
-											19h30 - 20h30
+											19h15 - 21h45
 										</td>
 										<td>
 											Valim
@@ -204,8 +204,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Rua Alberto Pasqualini, 75 - RS",
-				html: "<strong>Aldebaran - Terapias Complementares</strong><br>Rua Alberto Pasqualini, 75 - RS",
+				address: "Av. Sen. Alberto Pasqualine, 75 - Harmonia, RS",
+				html: "<strong>Aldebaran - Terapias Complementares</strong><br>Rua Alberto Pasqualini, 75",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -214,9 +214,10 @@ include_once('header.php');
 				popup: true
 			}];
 
+
 			// Map Initial Location
-			var initLatitude = -29.676582;
-			var initLongitude =  -51.062211;
+			var initLatitude = -29.606293;
+			var initLongitude =  -51.163699;
 
 			// Map Extended Settings
 			var mapSettings = {
