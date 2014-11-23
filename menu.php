@@ -67,7 +67,6 @@
                   <ul class="dropdown-menu">
                     <li><a href="fengshui.php">Fengshui</a></li>
                     <li><a href="ikebana.php">Ikebana</a></li>
-                    <li><a href="shiatsu.php">Shiatsu</a></li>
                     <li><a href="zazen.php">Zazen</a></li>
                   </ul>
                 </li>

@@ -189,8 +189,10 @@ include_once('header.php');
 										(na Academia Estação Vital). Em 2006 faz cursos de Quiropraxia e Iridologia. Em 2007 conclui 
 										sua segunda faculdade, formando-se em Educação Física pela UNESC/ Criciúma. Em abril de 
 										2008, por ter sido o introdutor do Aikido no Sul de Santa Catarina, forma os primeiros faixas 
-										pretas em Aikido desta região. Gregori Lino, instrutor de Criciúma, foi graduado nesta ocasião. 
+										pretas em Aikido desta região. Luciano Pereira e Gregori Lino, instrutor de Criciúma, foram graduado nesta ocasião. 
 										Também em 2008 Tubarão passa a ter dojo próprio.</p>
+									
+									<p class="tall">Em 2009 forma-se no pós graduação de acupuntura no CBES.</p>
 
 									<p class="tall">Em 2010 abre seu quarto dojo, na cidade de Laguna, onde fixou residência definitiva. 
 										Em dezembro graduou os instrutores Cristiano Salomão e Fabrício Benedet, responsáveis, 
