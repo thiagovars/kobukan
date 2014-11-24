@@ -88,7 +88,7 @@ include_once('header.php');
 										<li class="col-md-3 isotope-item leadership">
 											<div class="team-item thumbnail">
 												<span class="thumb-info team">
-													<img class="img-responsive" alt="" src="img/team/eduardo.jpg">
+													<img class="img-responsive" alt="" src="img/team/eduardo_iaido.jpg">
 													<span class="thumb-info-title">
 														<span class="thumb-info-inner">Eduardo Corrêa</span>
 														<span class="thumb-info-type">Ikkyu (1º kyu)</span>

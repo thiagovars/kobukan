@@ -236,7 +236,7 @@ include_once('header.php');
 										No mês de abril é aprovado por unanimidade para o 4o. Dan de Aikido por banca composta por 
 										oito integrantes na Academia Central de Aikido. No dia 3 de agosto comemorou 15 anos de 
 										Kobukan, recebendo a Dojosho, Lilba Kawai, filha de Kawai Shihan. Em agosto de 2014 
-										gradua-se Ikkyu de Iaido na cidade de Suzano, integrando da Akipa Nambukan, de Porto 
+										gradua-se Ikkyu de Iaido na cidade de Suzano, integrante da Akipa Nambukan, de Porto 
 										Alegre/RS, do qual participa. Em outubro seu aluno Samuel Medeiros inaugura um novo Dojo 
 										Kobukan (sexta unidade de Santa Catarina) na cidade de Capivari de Baixo. Desde o início, 
 										desde 1999, a Kobukan formou mais de 15 faixas-pretas, sendo destes três nidans. No estado 
