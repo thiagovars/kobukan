@@ -121,96 +121,21 @@ include_once('header.php');
 
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+									<?php 
+									for ($i=0; $i < 15; $i++) { 
+									 ?>
+									
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">
-											<a href="img/farroupilha/879.jpg" class="thumb-info">
-												<img src="img/farroupilha/879.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li><li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/farroupilha/farroupilha13.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha13.jpg" class="image-responsive" height="200" width="400">
+											<a href="img/farroupilha/farroupilha<?php echo $i;?>.jpg" class="thumb-info">
+												<img src="img/farroupilha/farroupilha<?php echo $i;?>.jpg" class="image-responsive" height="200" width="400">
 											</a>
 										</div>
 									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha2.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha2.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha3.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha3.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha4.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha4.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/farroupilha/farroupilha5.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha5.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha6.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha6.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha7.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha7.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha8.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha8.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha9.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha9.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha10.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha10.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha11.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha11.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/farroupilha/farroupilha12.jpg" class="thumb-info">
-												<img src="img/farroupilha/farroupilha12.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
+
+									<?php 
+									}
+									?>
 								</ul>
 							</div>						
 

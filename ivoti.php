@@ -24,7 +24,8 @@ include_once('header.php');
 				</section>
 
 				<div class="container">
-
+					
+					
 					<div class="row">
 						<div class="col-md-4">
 
@@ -89,6 +90,15 @@ include_once('header.php');
 					<hr class="tall" />
 
 					<div class="row center">
+						<div class="col-md-12 text-align-center">
+							<img class="img-responsive margin-auto" src="img/ivoti/logo.png" width="150" alt="">
+							<p class="tall">A Mileniumm arts é um dojo parceiro da <strong>Kobukan</strong></p>
+						</div>
+					</div>
+					
+					<hr class="tall" />
+
+					<div class="row center">
 						
 						<ul class="team-list sort-destination" data-sort-id="team">
 							<li class="col-md-3 isotope-item leadership">
@@ -105,6 +115,7 @@ include_once('header.php');
 									</span>
 								</div>
 							</li>
+							
 						</ul>
 					
 					</div>

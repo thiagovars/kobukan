@@ -1,1 +1,8 @@
 /* Add here all your CSS customizations */
+.text-align-center {
+  text-align: center;  
+}
+
+.margin-auto {
+  margin: auto;
+}

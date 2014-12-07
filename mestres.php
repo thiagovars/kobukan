@@ -163,7 +163,7 @@ include_once('header.php');
 										EDUARDO CORRÊA SENSEI<br>Responsável e idealizador Kobukan Dojo<br>
 										4o. Dan de Aikido<br><br>
 										Ikkyu (Faixa marrom) de Iaido<br><br>
-										Faixa-preta 1o. Dan de Jiu-jitsu<br><br>
+										Faixa preta 1o. Dan de Jiu-jitsu<br><br>
 									</h4>
 									
 									<p class="drop-caps">Sensei Eduardo Corrêa começou a treinar em 1994, em Porto Alegre, com Sensei
