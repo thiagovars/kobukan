@@ -20,7 +20,7 @@ if (isset($_REQUEST['email'])){
         //====================================================
         $email_destinatario = "contato@kobukan.com.br"; // qualquer email pode receber os dados
         $email_reply = "$email";
-        $email_assunto = "[contaot enviado pelo site] ".$subject;;
+        $email_assunto = "[contato enviado pelo site] ".$subject;;
         //====================================================
  
  

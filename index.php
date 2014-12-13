@@ -125,7 +125,9 @@ include_once('header.php');
 							<h2>Sobre <strong>Aikido</strong></h2>
 							<div class="row">
 								<div class="col-md-4">
-									<img src="img/osensei.jpg" width="200" />
+									<a href="mestres.php#Osensei">
+										<img src="img/osensei.jpg" width="200" />
+									</a>
 									<h4 class="shorter">O'Sensei</h4>
 									<p class="tall">Morihei Ueshiba - Criador da arte.</p>
 									
@@ -142,7 +144,9 @@ include_once('header.php');
 							<br>
 							<div class="row">
 								<div class="col-md-4">
-									<img src="img/kawai-sensei.jpg" width="200" />
+									<a href="mestres.php#Kawaisensei">
+										<img src="img/kawai-sensei.jpg" width="200" />
+									</a>
 									<h4 class="shorter">Kawai sensei</h4>
 									<p class="tall">Responsável pela introdução da<br> arte no brasil.</p>
 									
@@ -158,7 +162,9 @@ include_once('header.php');
 							<br>
 							<div class="row">
 								<div class="col-md-4">
-									<img src="img/eduardo-sensei.jpg" width="200" />
+									<a href="mestres.php#Eduardosensei">
+										<img src="img/eduardo-sensei.jpg" width="200" />
+									</a>
 									<h4 class="shorter">Eduardo Corrêa sensei</h4>
 									<p class="tall">Responsável e idealizador<br>Kobukan Dojo</p>
 									

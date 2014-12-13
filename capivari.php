@@ -31,8 +31,18 @@ include_once('header.php');
 							<div id="google-dojo" class="google-map"></div>
 
 						</div>
+						
+							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+								<li class="col-md-4	 no-pin isotope-item">
+									<div class="portfolio-item img">
+										<a href="img/capivari/fachada.jpg" class="thumb-info">
+											<img src="img/capivari/fachada.jpg" class="100Width image-responsive" height="365">
+										</a>
+									</div>
+								</li>
+							</ul>
 
-						<div class="col-md-8">
+						<div class="col-md-4">
 
 							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
 
