@@ -105,6 +105,13 @@ include_once('header.php');
 								</div>
 							</div>
 
+							<div class="col-md-4">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+									<a href="torres.php"><img src="img/map-dojo-torres.jpg" alt="" /></a>
+									<strong>Torres-RS</strong>
+								</div>
+							</div>
+
 						</div>
 				
 					</div>

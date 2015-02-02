@@ -21,9 +21,9 @@
                     <i class="icon icon-angle-down"></i>
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a href="aikido.php">Sobre Aikido</a></li>
-                    <li><a href="mestres.php#Osensei">O'Sensei</a></li>
-                    <li><a href="mestres.php#Kawaisensei">Kawai Shihan</a></li>
+                    <li><a href="aikido.php"               >Sobre Aikido</a></li>
+                    <li><a href="mestres.php#Osensei"      >O'Sensei</a></li>
+                    <li><a href="mestres.php#Kawaisensei"  >Kawai Shihan</a></li>
                     <li><a href="mestres.php#Eduardosensei">Eduardo Sensei</a></li>
                   </ul>
                 </li>
@@ -33,22 +33,23 @@
                     <i class="icon icon-angle-down"></i>
                   </a>
                   <ul class="dropdown-menu">
+                    <li><a href="bento.php"      >Bento Gonçalves</a></li>
+                    <li><a href="capivari.php"   >Capivari de baixo</a></li>
                     <li><a href="criciuma.php"   >Criciúma</a></li>
-                    <li><a href="tubarao.php"    >Tubarão</a></li>
-                    <li><a href="laguna.php"     >Laguna</a></li>
+                    <li><a href="farroupilha.php">Farroupilha</a></li>
                     <li><a href="icara.php"      >Içara</a></li>
                     <li><a href="imarui.php"     >Imarui</a></li>
-                    <li><a href="capivari.php"   >Capivari de baixo</a></li>
-                    <li><a href="farroupilha.php">Farroupilha</a></li>
-                    <li><a href="bento.php"      >Bento Gonçalves</a></li>
                     <li><a href="ivoti.php"      >Ivoti</a></li>
+                    <li><a href="laguna.php"     >Laguna</a></li>
+                    <li><a href="torres.php"     >Torres</a></li>
+                    <li><a href="tubarao.php"    >Tubarão</a></li>
                   </ul>
                 </li>
                 <li>
                   <a href="iaido.php">Iaido</a>
                 </li>
                 <li>
-                  <a href="aikijo.php">Aikijo</a>
+                  <a href="jodo.php">Jodo</a>
                 </li>
                 <!-- <li>
                   <a href="videos.php">Vídeos</a>

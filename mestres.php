@@ -163,6 +163,7 @@ include_once('header.php');
 										EDUARDO CORRÊA SENSEI<br>Responsável e idealizador Kobukan Dojo<br>
 										4o. Dan de Aikido<br><br>
 										Ikkyu (Faixa marrom) de Iaido<br><br>
+										Ikkyu (Faixa marrom) de Jodo<br><br>
 										Faixa preta 1o. Dan de Jiu-jitsu<br><br>
 									</h4>
 									
@@ -248,7 +249,9 @@ include_once('header.php');
 										Lá treinou na Associação de Kendo do Rio de Janeiro- Rio Kenyukai, com Endo Sensei e sob a 
 										orientação técnica de Sempai Alexandre Cavalcanti, a fim de conduzirem grupo de estudos da 
 										técnica na Associação Akipa Nambukan- Porto Alegre/RS, do qual também integram Thiago 
-										Silveira e Marcos Trindade.</p>									
+										Silveira e Marcos Trindade.</p>
+									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro. Também fez dois cursos 
+									ginástica natural com o Alvaro Romano.</p>
 
 								</div>
 							</div>
@@ -258,6 +261,34 @@ include_once('header.php');
 					</div>
 
 				</div>
+
+
+				<!-- fala malaco. tem 4 coisas pra por no site:  
+				1- por o dojo de
+				 torres na fita. pega as fotos que tem mandei do exame pra serem
+				 as fotos do dojo. o endereço te mando por msg de telefone.  
+			 2- no
+				 meu currículo põe que graduei em ikkyu de jodo no chile dia 11 de
+				 janeiro.põe tb que fiz 2 cursos de ginástica natural com
+				 professor alvaro romano(texto)  
+			 3-nas minhas graduações de luta
+				 no título do currículo põe ikkyu de jodo(cabeçalho)  
+			 4-troca o
+				 aikijo pelo jodo. põe que a angelica é a responsável técnica(como
+				 teu irmão no iai) põe minha foto embaixo instrutor(como no iai)
+				 ikkyu os 2. põe tua foto tb embaixo como instrutor do grupo de
+				 estudos.como angelica falou é pra pôr ela como instrutora da
+				 akipa responsável pelo grupo de estudos de jodo. vou te mandar a
+				 foto do diploma dela. valeu guri,abraço -->
+
+
+
+
+
+
+
+
+
 
 			</div>
 
