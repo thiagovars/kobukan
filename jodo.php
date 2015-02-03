@@ -106,7 +106,7 @@ include_once('header.php');
 									
 									<?php 
 
-									for ($i=1; $i < 12; $i++) { 
+									for ($i=1; $i < 14; $i++) { 
 										
 									?>
 									<li class="col-md-3 no-pin isotope-item">
