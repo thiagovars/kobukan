@@ -1,5 +1,5 @@
 <?php 
-$title = "Aikijo | A arma da paz";
+$title = "Jodo | A arma da paz";
 include_once('header.php');
 ?>
 
@@ -11,13 +11,13 @@ include_once('header.php');
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="./">Home</a></li>
-									<li class="active">Aikijo</li>
+									<li class="active">Jodo</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>Aikijo</h2>
+								<h2>Jodo</h2>
 							</div>
 						</div>
 					</div>
@@ -27,7 +27,7 @@ include_once('header.php');
 
 					<div class="row">
 						<div class="col-md-12" data-appear-animation="fadeInUp">
-							<h3><strong>Jodo:</strong> A Arte do Bastão</h3>
+							<h3><strong>Jodo:</strong> A Arte do Bastão Samurai</h3>
 							
 							<p class="drop-caps">Jô é um bastão de madeira roliça de 1,28 m que foi desenvolvido para enfrentar a espada japonesa. 
 							Foi a alternativa encontrada pelos Samurais para não cortar e matar os adversários, por isso é conhecido como <strong>a arma da paz</strong>. 
@@ -36,7 +36,7 @@ include_once('header.php');
 							<p class="tall">No treinamento do Jô ambas as extremidades são usadas, quer para segurar, quer para golpear: 
 							enquanto uma mão tem yin, a outra terá yang, trabalhando ambas em harmonia.</p>
 
-							<p class="tall">O treino com o bokken permite o desenvolvimento da harmonia entre o praticante e a arma de modo que 
+							<p class="tall">O treino com o Jô (pronuncia-se Diô) permite o desenvolvimento da harmonia entre o praticante e a arma de modo que 
 							essa se torne uma extensão do corpo do praticante. Graças a comunhão ente o ser humano e a espada que aprende-se a 
 							canalizar e projetar a energia conhecida como ki, através da arma para além do nosso corpo.</p>
 

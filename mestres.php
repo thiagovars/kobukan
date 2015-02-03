@@ -191,7 +191,7 @@ include_once('header.php');
 										sua segunda faculdade, formando-se em Educação Física pela UNESC/ Criciúma. Em abril de 
 										2008, por ter sido o introdutor do Aikido no Sul de Santa Catarina, forma os primeiros faixas 
 										pretas em Aikido desta região. Luciano Pereira e Gregori Lino, instrutor de Criciúma, foram graduado nesta ocasião. 
-										Também em 2008 Tubarão passa a ter dojo próprio.</p>
+										Também em 2008 Tubarão passa a ter dojo próprio. Também fez dois cursos de ginástica natural com o professor Alvaro Romano.</p>
 									
 									<p class="tall">Em 2009 forma-se no pós graduação de acupuntura no CBES.</p>
 
@@ -236,7 +236,7 @@ include_once('header.php');
 										para o Rio Grande do Sul, iniciando, em março, as atividades no município de Farroupilha/RS. 
 										No mês de abril é aprovado por unanimidade para o 4o. Dan de Aikido por banca composta por 
 										oito integrantes na Academia Central de Aikido. No dia 3 de agosto comemorou 15 anos de 
-										Kobukan, recebendo a Dojosho, Lilba Kawai, filha de Kawai Shihan. Em agosto de 2014 
+										Kobukan, recebendo a Dojo cho, Lilba Kawai, filha de Kawai Shihan. Em agosto de 2014 
 										gradua-se Ikkyu de Iaido na cidade de Suzano, integrante da Akipa Nambukan, de Porto 
 										Alegre/RS, do qual participa. Em outubro seu aluno Samuel Medeiros inaugura um novo Dojo 
 										Kobukan (sexta unidade de Santa Catarina) na cidade de Capivari de Baixo. Desde o início, 
@@ -250,8 +250,7 @@ include_once('header.php');
 										orientação técnica de Sempai Alexandre Cavalcanti, a fim de conduzirem grupo de estudos da 
 										técnica na Associação Akipa Nambukan- Porto Alegre/RS, do qual também integram Thiago 
 										Silveira e Marcos Trindade.</p>
-									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro. Também fez dois cursos 
-									ginástica natural com o Alvaro Romano.</p>
+									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro. Ainda em janeiro, foi reinaugurado o dojo de Torres, sob responsabilidade do kenshin Eduardo Monteiro, Ikkyu (faixa Marrom).</p>
 
 								</div>
 							</div>
@@ -261,34 +260,6 @@ include_once('header.php');
 					</div>
 
 				</div>
-
-
-				<!-- fala malaco. tem 4 coisas pra por no site:  
-				1- por o dojo de
-				 torres na fita. pega as fotos que tem mandei do exame pra serem
-				 as fotos do dojo. o endereço te mando por msg de telefone.  
-			 2- no
-				 meu currículo põe que graduei em ikkyu de jodo no chile dia 11 de
-				 janeiro.põe tb que fiz 2 cursos de ginástica natural com
-				 professor alvaro romano(texto)  
-			 3-nas minhas graduações de luta
-				 no título do currículo põe ikkyu de jodo(cabeçalho)  
-			 4-troca o
-				 aikijo pelo jodo. põe que a angelica é a responsável técnica(como
-				 teu irmão no iai) põe minha foto embaixo instrutor(como no iai)
-				 ikkyu os 2. põe tua foto tb embaixo como instrutor do grupo de
-				 estudos.como angelica falou é pra pôr ela como instrutora da
-				 akipa responsável pelo grupo de estudos de jodo. vou te mandar a
-				 foto do diploma dela. valeu guri,abraço -->
-
-
-
-
-
-
-
-
-
 
 			</div>
 
