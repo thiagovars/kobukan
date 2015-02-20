@@ -43,8 +43,16 @@ include_once('header.php');
 							<p class="tall">É uma arma simples que possui nobre história e extrema complexidade técnica. Desenvolve a intuição 
 							pois age flexivelmente sabendo evitar os diversos tipos de ataques. Os lutadores mudam frequentemente de base 
 							(lado de ataque do bastão) para ganhar maior versatilidade na luta.</p>
+							
+							<hr class="tall">
+							<h3><strong>Jodo:</strong> hoje em dia</h3>
 
-
+							<p class="drop-caps">
+								Sempai  Angélica Philippe Corrêa treina Jodo desde 2012 e é responsável técnica pelo grupo de estudos de Jodo da Akipa de Porto Alegre.
+								Tendo experiência no bastão do aikido(aikijo) desde 2009 buscou ampliar os estudos no bastão buscando outra escola(jodo seitei). 
+								Participou de treinamentos no Rio de Janeiro sob a orientação técnica de Sensei  Endo e Sempai Alex Cavalcanti do Rio Jodokai. 
+								Em janeiro de 2015 gradou Ikkyu(faixa marrom) em Santiago no Chile, sendo uma das primeiras jodokas brasileiras a ter graduação reconhecida pela Confederação Brasileira de Kendo.
+							</p>
 
 							<hr class="tall">
 

@@ -160,7 +160,7 @@ include_once('header.php');
 								<div class="col-md-8" data-appear-animation="fadeInRight">
 									
 									<h4 class="shorter" style="text-align: center; padding-bottom: 30px;">
-										EDUARDO CORRÊA SENSEI<br>Responsável e idealizador Kobukan Dojo<br>
+										EDUARDO CORRÊA SENSEI<br>Responsável técnico Kobukan Dojo </br></br>
 										4o. Dan de Aikido<br><br>
 										Ikkyu (Faixa marrom) de Iaido<br><br>
 										Ikkyu (Faixa marrom) de Jodo<br><br>
@@ -249,7 +249,7 @@ include_once('header.php');
 										Lá treinou na Associação de Kendo do Rio de Janeiro- Rio Kenyukai, com Endo Sensei e sob a 
 										orientação técnica de Sempai Alexandre Cavalcanti, a fim de conduzirem grupo de estudos da 
 										técnica na Associação Akipa Nambukan- Porto Alegre/RS, do qual também integram Thiago 
-										Silveira e Marcos Trindade.</p>
+										Silveira.</p>
 									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro. Ainda em janeiro, foi reinaugurado o dojo de Torres, sob responsabilidade do kenshin Eduardo Monteiro, Ikkyu (faixa Marrom).</p>
 
 								</div>
