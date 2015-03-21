@@ -53,7 +53,7 @@ include_once('header.php');
 											Segunda
 										</td>
 										<td>
-											19h - 20h30
+											19h30 - 21h
 										</td>
 										<td>
 											Fabrício
@@ -64,7 +64,7 @@ include_once('header.php');
 											Quarta
 										</td>
 										<td>
-											19h - 20h30
+											19h30 - 21h
 										</td>
 										<td>
 											Natália
