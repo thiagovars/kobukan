@@ -209,7 +209,7 @@ include_once('header.php');
 			// Map Markers
 			var mapMarkers = [{
 				address: "Rua Caxias, 1192, Torres - RS",
-				html: "<strong>Dojo Kobukan</strong><br>Rua Elizeu Küwer, 150, Torres - RS",
+				html: "<strong>Dojo Kobukan</strong><br>Rua Caxias, 1192, Torres - RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
