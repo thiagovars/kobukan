@@ -1,5 +1,5 @@
 <?php 
-$title = "Dojo Torres | Rua Elizeu Küwer, 150, Torres - RS";
+$title = "Dojo Torres | Rua Caxias 1192, Torres - RS";
 include_once('header.php');
 ?>
 
@@ -208,7 +208,7 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Rua Elizeu Küwer, 150, Torres - RS",
+				address: "Rua Caxias, 1192, Torres - RS",
 				html: "<strong>Dojo Kobukan</strong><br>Rua Elizeu Küwer, 150, Torres - RS",
 				icon: {
 					image: "img/pin.png",
@@ -219,8 +219,8 @@ include_once('header.php');
 			}];
 
 			// Map Initial Location
-			var initLatitude = -29.3420237;
-			var initLongitude =  -49.7449486;
+			var initLatitude = -29.350091;
+			var initLongitude =  -49.732995;
 
 			// Map Extended Settings
 			var mapSettings = {
