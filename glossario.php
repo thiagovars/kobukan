@@ -287,7 +287,7 @@ include_once('header.php');
 									<p class="tall"><strong>Atemi</strong> - golpe, soco;</p>
 									<p class="tall"><strong>Aikikai</strong> - organização mundial de Aikido, comanda pelo neto do fundador (Doshu);</p>
 									<p class="tall"><strong>Bonenkai</strong> - festa de final de ano, confraternização anual;</p>
-									<p class="tall"><strong>Bokken</strong> ou Bokuto - espada de madeira com forma de katana;</p>
+									<p class="tall"><strong>Bokken ou Bokuto</strong> - espada de madeira com forma de katana;</p>
 									<p class="tall"><strong>Budo</strong> - caminho do guerreiro;</p>
 									<p class="tall"><strong>Bushido</strong> - código de conduta do Samurai;</p>
 									<p class="tall"><strong>Buda</strong> - o iluminado, princípe sidarta gautama;</p>
@@ -300,37 +300,37 @@ include_once('header.php');
 									<p class="tall"><strong>Dojo</strong> - lugar do caminho, sala de exercícios marciais espirituais;</p>
 									<p class="tall"><strong>Deshi</strong> - discipulo, aprendiz;</p>
 									<p class="tall"><strong>Daitoryu</strong> Aikijujutsu - arte marcial que originou o Aikido;</p>
-									<p class="tall"><strong>De</strong>-Ai - o começo de uma técnica;</p>
+									<p class="tall"><strong>De-Ai</strong> - o começo de uma técnica;</p>
 									<p class="tall"><strong>Doshu</strong> - grão mestre da arte, atualmente Moriteru Ueshiba neto do fundador;</p>
 									<p class="tall"><strong>Eri</strong> - gola;</p>
-									<p class="tall"><strong>Fudo</strong> Myo - patriarca do Budo, divindade evocada pelos Samurais antes das batalhas;</p>
-									<p class="tall"><strong>Funakogi</strong> Undo - "remar para deus", exercício respiratório de fortalecimento dos quadris;</p>
-									<p class="tall"><strong>Futari</strong> Gake - defesa contra 2 adversários;</p>
+									<p class="tall"><strong>Fudo Myo</strong> - patriarca do Budo, divindade evocada pelos Samurais antes das batalhas;</p>
+									<p class="tall"><strong>Funakogi Undo</strong> - "remar para deus", exercício respiratório de fortalecimento dos quadris;</p>
+									<p class="tall"><strong>Futari Gake</strong> - defesa contra 2 adversários;</p>
 									<p class="tall"><strong>Gedan</strong> - kamae baixo, posição baixa;</p>
 									<p class="tall"><strong>Gashuku</strong> - treino na natureza, fora do Dojo;</p>
 									<p class="tall"><strong>Gi</strong> - kimono, roupa de treino;</p>
-									<p class="tall"><strong>Go</strong> kyo - quinta imobilização;</p>
-									<p class="tall"><strong>Go</strong> Dan - 5° Dan;</p>
+									<p class="tall"><strong>Go kyo</strong> - quinta imobilização;</p>
+									<p class="tall"><strong>Go Dan</strong> - 5° Dan;</p>
 									<p class="tall"><strong>Gomenasai</strong> - Desculpa;</p>
-									<p class="tall"><strong>Hakama</strong> - Saia calça tradicional usada por cima do Dogi;</p>
+									<p class="tall"><strong>Hakama</strong> - calça tradicional usada por cima do Dogi;</p>
 									<p class="tall"><strong>Hanmi</strong> - guarda, posição;</p>
 									<p class="tall"><strong>Hara</strong> - abdomen, barriga, cintura, dentro da energia ki;</p>
 									<p class="tall"><strong>Hidari</strong> - esquerda;</p>
-									<p class="tall"><strong>Hanmi</strong> Handachi - técnica em que o Uke fica em pé e o Tori ajoelhado;</p>
+									<p class="tall"><strong>Hanmi Handachi</strong> - técnica em que o Uke fica em pé e o Tori ajoelhado;</p>
 									<p class="tall"><strong>Hiji</strong> - cotovelo;</p>
 									<p class="tall"><strong>Hiza</strong> - joelho;</p>
-									<p class="tall"><strong>Hombo</strong> Dojo - quartel general do Aikido em Tóquio;</p>
+									<p class="tall"><strong>Hombu Dojo</strong> - quartel general do Aikido em Tóquio;</p>
 									<p class="tall"><strong>Ikkyo</strong> - primeira imobilização, técnica mais fundamental;</p>
 									<p class="tall"><strong>Irimi</strong> - entrada, 2° pilar do Aikido;</p>
 									<p class="tall"><strong>Jiywasa</strong> - Técnica livre;</p>
 									<p class="tall"><strong>Jo</strong> - bastão de madeira usado no treinamento;</p>
 									<p class="tall"><strong>Jutsu</strong> - técnica;</p>
-									<p class="tall"><strong>Kawai</strong> Shihan - introdutor do Aikido na América do Sul;</p>
+									<p class="tall"><strong>Kawai Shihan</strong> - introdutor do Aikido na América do Sul;</p>
 									<p class="tall"><strong>Kamae</strong> - posição de guarda, posição inicial;</p>
 									<p class="tall"><strong>Kaiso</strong> - fundador (Morihei Ueshiba);</p>
 									<p class="tall"><strong>Katadori</strong> - pegada no ombro;</p>
 									<p class="tall"><strong>Katate</strong> - uma mão;</p>
-									<p class="tall"><strong>Kaiten</strong> Nage - abrir e virar, 3° pilar do Aikido;</p>
+									<p class="tall"><strong>Kaiten Nage</strong> - abrir e virar, 3° pilar do Aikido;</p>
 								</div>
 								<div class="col-md-4" data-appear-animation="fadeInUp">
 									<p class="tall"><strong>Kamisa</strong> - parte do dojo destinada ao oratório aos guardiões;</p>
@@ -347,28 +347,27 @@ include_once('header.php');
 									<p class="tall"><strong>Kubi</strong> - pescoço;</p>
 									<p class="tall"><strong>Kohai</strong> - estudante, principiante;</p>
 									<p class="tall"><strong>Kuatsu</strong> - técnica de reanimação;</p>
-									<p class="tall"><strong>Lao</strong> Tsé - criador do Taoísmo;</p>
+									<p class="tall"><strong>Lao Tsé</strong> - criador do Taoísmo;</p>
 									<p class="tall"><strong>Maai</strong> - distância básica, espaço apropriado;</p>
 									<p class="tall"><strong>Mae</strong> - frente;</p>
-									<p class="tall"><strong>Men</strong> Uti - ataque à cabeça;</p>
+									<p class="tall"><strong>Men Uti</strong> - ataque à cabeça;</p>
 									<p class="tall"><strong>Migui</strong> - direita;</p>
-									<p class="tall"><strong>Myamoto</strong> Musashi - Samurai mais famoso;</p>
-									<p class="tall"><strong>Misogi</strong> - purificar, retirar a poluição física e espiritual para permitir a </p>
-									<p class="tall"><strong>entrada</strong> de novas energias;</p>
+									<p class="tall"><strong>Myamoto Musashi</strong> - Samurai mais famoso;</p>
+									<p class="tall"><strong>Misogi</strong> - purificar, retirar a poluição física e espiritual para permitir a entrada de novas energias;</p>
 									<p class="tall"><strong>Morote</strong> - duas mãos;</p>
 									<p class="tall"><strong>Nage</strong> - projeção, o mesmo que Tori;</p>
 									<p class="tall"><strong>Nikyo</strong> - 2a imobilização (mostrar Yin como oposto ao Yang);</p>
 									<p class="tall"><strong>Nidan</strong> - 2° grau;</p>
 									<p class="tall"><strong>Omote</strong> - entrada pela frente (técnica básica (Yang) na qual pratica a confrontação direta);</p>
-									<p class="tall"><strong>Omoto</strong>-Kyu - seita xintoísta frequentada pelo fundador na qual se baseou a seichonoie;</p>
+									<p class="tall"><strong>Omoto-Kyu</strong> - seita xintoísta frequentada pelo fundador na qual se baseou a seichonoie;</p>
 									<p class="tall"><strong>Oneigashimassu</strong> - por favor (solicitação de licença para a prática ou instrução);</p>
-									<p class="tall"><strong>O</strong>-Sensei - o grande mestre Morihei Ueshiba;</p>
+									<p class="tall"><strong>O-Sensei</strong> - o grande mestre Morihei Ueshiba;</p>
 									<p class="tall"><strong>Obi</strong> - faixa;</p>
 									<p class="tall"><strong>Rei</strong> - espírito;</p>
-									<p class="tall"><strong>Ryote</strong> Tori - duas mãos segurando 2 mãos;</p>
+									<p class="tall"><strong>Ryote Tori</strong> - duas mãos segurando 2 mãos;</p>
 									<p class="tall"><strong>Ryu</strong> - escola estilo;</p>
 									<p class="tall"><strong>Ronin</strong> - Samurai sem mestre;</p>
-									<p class="tall"><strong>Saika</strong> Tanden - lugar onde nasce o Ki, quatro dedos abaixo do umbigo</p>
+									<p class="tall"><strong>Saika Tanden</strong> - lugar onde nasce o Ki, quatro dedos abaixo do umbigo</p>
 									<p class="tall"><strong>Samurai</strong> - guerreiro do Japão feudal;</p>
 									<p class="tall"><strong>Sandan</strong> - 3° grau;</p>
 									<p class="tall"><strong>Sankyo</strong> - 3a imobilização (movimento em espiral, combinado com oposição YinYang);</p>
@@ -391,16 +390,16 @@ include_once('header.php');
 									<p class="tall"><strong>Shime</strong> - estrangulamento;</p>
 									<p class="tall"><strong>Sumi</strong> - canto;</p>
 									<p class="tall"><strong>Suminasen</strong> - com licença ( serve para desculpas);</p>
-									<p class="tall"><strong>Suwari</strong> Waza - a prática de joelhos (Seiza);</p>
-									<p class="tall"><strong>Sokaku</strong> Takeda - mestre do fundado do Aikido;</p>
-									<p class="tall"><strong>Shiho</strong> Nague - as quatro direções, gratidão, 1° pilar;</p>
-									<p class="tall"><strong>Tachi</strong> Waza - técnica executadas em pé;</p>
-									<p class="tall"><strong>Tai</strong> Sabakis - movimentos dos pés, esquivas, movimentos para desviar;</p>
+									<p class="tall"><strong>Suwari Waza</strong> - a prática de joelhos (Seiza);</p>
+									<p class="tall"><strong>Sokaku Takeda</strong> - mestre do fundado do Aikido;</p>
+									<p class="tall"><strong>Shiho Nague</strong> - as quatro direções, gratidão, 1° pilar;</p>
+									<p class="tall"><strong>Tachi Waza</strong> - técnica executadas em pé;</p>
+									<p class="tall"><strong>Tai Sabakis</strong> - movimentos dos pés, esquivas, movimentos para desviar;</p>
 									<p class="tall"><strong>Tambo</strong> - porrete, bastão curto;</p>
 									<p class="tall"><strong>Tanto</strong> - faca de madeira;</p>
 									<p class="tall"><strong>Tao</strong> - Do, caminho do meio;</p>
 									<p class="tall"><strong>Tatame</strong> - tablado onde se pratica artes marciais;</p>
-									<p class="tall"><strong>Tekubi</strong> Dori - prender pelos punhos;</p>
+									<p class="tall"><strong>Tekubi Dori</strong> - prender pelos punhos;</p>
 									<p class="tall"><strong>Tenchi</strong> - golpe céu terra (de baixo para cima);</p>
 									<p class="tall"><strong>Tenkan</strong> - movimento circular, virada em um giro;</p>
 									<p class="tall"><strong>Tori</strong> - pessoa que aplica o golpe de Aikido;</p>
@@ -432,16 +431,7 @@ include_once('header.php');
 			</div>
 
 			<footer id="footer">
-				
-				<div class="footer-copyright">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-7">
-								<p>© Copyright 2014. Todos direitos reservados.</p>
-							</div>
-						</div>
-					</div>
-				</div>
+				<?php include('footer.php'); ?>
 			</footer>
 		</div>
 

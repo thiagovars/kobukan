@@ -116,16 +116,7 @@ include_once('header.php');
 			</div>
 
 			<footer id="footer">
-				
-				<div class="footer-copyright">
-					<div class="container">
-						<div class="row">
-							<div class="col-md-7">
-								<p>© Copyright 2014. Todos direitos reservados.</p>
-							</div>
-						</div>
-					</div>
-				</div>
+				<?php include('footer.php'); ?>
 			</footer>
 		</div>
 
