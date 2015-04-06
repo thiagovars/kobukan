@@ -74,8 +74,8 @@ include_once('header.php');
 								</div>
 							</div>
 
-						<!-- </div>
-						<div class="row center"> -->
+						</div>
+						<div class="row center">
 						
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
@@ -84,28 +84,28 @@ include_once('header.php');
 								</div>
 							</div>
 
-							<div class="col-md-4">
+							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1000">
 									<a href="farroupilha.php"><img src="img/map-dojo-farroupilha.jpg" alt="" /></a>
 									<strong>Farroupilha-RS</strong>
 								</div>
 							</div>
 
-							<div class="col-md-4">
+							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="bento.php"><img src="img/map-dojo-bento.jpg" alt="" /></a>
 									<strong>Bento Gonçalves-RS</strong>
 								</div>
 							</div>
 							
-              <div class="col-md-4">
+              <div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="ivoti.php"><img src="img/map-dojo-ivoti.jpg" alt="" /></a>
 									<strong>Ivoti-RS</strong>
 								</div>
 							</div>
 
-							<div class="col-md-4">
+							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="torres.php"><img src="img/map-dojo-torres.jpg" alt="" /></a>
 									<strong>Torres-RS</strong>
