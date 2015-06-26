@@ -28,11 +28,11 @@ include_once('header.php');
 					<div class="row">
 						<div class="col-md-4">
 
-							<div id="google-dojo" class="google-map"></div>
+							<!-- <div id="google-dojo" class="google-map"></div> -->
 
 						</div>
 
-						<div class="col-md-8">
+						<!-- <div class="col-md-8">
 
 							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
 
@@ -83,7 +83,7 @@ include_once('header.php');
 								</tbody>
 							</table>
 
-						</div>
+						</div> -->
 					</div>
 
 					<hr class="tall" />
@@ -94,14 +94,14 @@ include_once('header.php');
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/eduardoMonteiro.jpg">
+										<img class="img-responsive" alt="" src="img/team/Geovani.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Eduardo</span>
+											<span class="thumb-info-inner">Geovani</span>
 											<span class="thumb-info-type">1º Kyu (Marrom)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
-										<p>Eduardo Monteiro</p>
+										<p>Geovani Francisco</p>
 									</span>
 								</div>
 							</li>
@@ -130,26 +130,26 @@ include_once('header.php');
 							<h3 class="short"><strong>Fotos</strong></h3>
 						</div>
 
-						<div class="row">
+						<!-- <div class="row">
 							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								<?php 
-								for ($i=1; $i < 8; $i++) { 
-								?>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/torres/torres<?php echo $i;?>.jpg" class="thumb-info">
-												<img src="img/torres/torres<?php echo $i;?>.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-					<?php
-					}
+					// 			for ($i=1; $i < 8; $i++) { 
+					// 			?>
+					// 				<li class="col-md-3 no-pin isotope-item">
+					// 					<div class="portfolio-item img-thumbnail">
+					// 						<a href="img/torres/torres<?php echo $i;?>.jpg" class="thumb-info">
+					// 							<img src="img/torres/torres<?php echo $i;?>.jpg" class="image-responsive" height="200" width="400">
+					// 						</a>
+					// 					</div>
+					// 				</li>
+					// <?php
+					// }
 					?>
 
 							</ul>
 
 						</div>
-
+ -->
 					</div>
 
 				</div>
