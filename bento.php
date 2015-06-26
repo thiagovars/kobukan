@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Bento Gonçalves | Av. Planalto, 1283 - Bento Gonçalves - RS';
+$title = 'Dojo Bento Gonçalves | R. Saldanha Marinho, 744 sala 101 - Centro - Bento Gonçalves - RS';
 include_once('header.php');
 ?>
 
@@ -187,8 +187,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Av. Planalto, 1283 - Bento Gonçalves - RS",
-				html: "<strong>Dojo Kobukan</strong><br>Av. Planalto, 1283 - Bento Gonçalves - RS",
+				address: "R. Saldanha Marinho, 744 sala 101 - Centro - Bento Gonçalves - RS",
+				html: "<strong>Dojo Kobukan</strong><br>R. Saldanha Marinho, 744 sala 101 - Centro - Bento Gonçalves - RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -197,9 +197,9 @@ include_once('header.php');
 				popup: true
 			}];
 
-			// Map Initial Location
-			var initLatitude = -29.169530;
-			var initLongitude =  -51.501889;
+			// Map Initial Location -29.167100, -51.512243
+			var initLatitude = -29.167100;
+			var initLongitude =  -51.512243;
 
 			// Map Extended Settings
 			var mapSettings = {
