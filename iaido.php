@@ -53,6 +53,10 @@ include_once('header.php');
 							A prática de iaido é regulamentada em conjunto com o kendo e jodo pela Confederação Brasileira de Kendo (CBK), filiada a Federação Internacional 
 							de Kendo (FIK). Graduações de iaido obtidas em exames oficiais da CBK tem validade aceita por todas associações membros da CBK assim como federações 
 							de outros paises filiadas a FIK.</p>
+
+							<p class='tall'>
+							Em porto alegre é possível treinar iaido com o Senpai Mathaeus Silveira(foto) na <a href="https://www.facebook.com/AKIPA.RS" target="_blank">AKIPA - Associação de Kendo e Iaido
+							de porto alegre.</a></p>
 							
 					<hr class="tall">
 
@@ -115,7 +119,7 @@ include_once('header.php');
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									
 								<?php 
-								for ($i=1; $i < 11; $i++) { 
+								for ($i=1; $i < 12; $i++) { 
 								?>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">
