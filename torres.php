@@ -1,4 +1,5 @@
 <?php 
+header('Location: index.php');
 $title = "Dojo Torres | Rua Caxias 1192, Torres - RS";
 include_once('header.php');
 ?>
@@ -86,7 +87,7 @@ include_once('header.php');
 						</div> -->
 					</div>
 
-					<hr class="tall" />
+					<!-- <hr class="tall" /> -->
 
 					<div class="row center">
 						
@@ -126,9 +127,9 @@ include_once('header.php');
 
 					<div class="row">
 
-						<div class="col-md-12">
+						<!-- <div class="col-md-12">
 							<h3 class="short"><strong>Fotos</strong></h3>
-						</div>
+						</div> -->
 
 						<!-- <div class="row">
 							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>

@@ -41,7 +41,7 @@
                     <li><a href="imarui.php"     >Imarui</a></li>
                     <li><a href="ivoti.php"      >Ivoti</a></li>
                     <li><a href="laguna.php"     >Laguna</a></li>
-                    <li><a href="torres.php"     >Torres</a></li>
+                    <!-- <li><a href="torres.php"     >Torres</a></li> -->
                     <li><a href="tubarao.php"    >Tubarão</a></li>
                   </ul>
                 </li>
