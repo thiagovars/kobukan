@@ -1,3 +1,25 @@
+<?php 
+$area = explode('.', $PHP_SELF);
+$area = explode(DIRECTORY_SEPARATOR, $area[0]);
+$area = $area[1];
+
+$aikido          = array('mestres', 'aikido');
+$dojos           = array('bento', 'capivari', 'criciuma', 'farroupilha', 'icara', 'imarui', 'ivoti', 'laguna', 'tubarao');
+$glossario       = array('glossario', 'tecnicas');
+$culturaOriental = array('fengshui', 'ikebana', 'sumie', 'CulturaOriental');
+$acupuntura      = array('acupuntura', 'shiatsu');
+
+$aikido          = (in_array($area, $aikido))          ? 'active' : '';
+$dojo            = (in_array($area, $dojos))           ? 'active' : '';
+$iaido           = ($area == 'iaido')                  ? 'active' : '';
+$jodo            = ($area == 'jodo')                   ? 'active' : '';
+$fotos           = ($area == 'fotos')                  ? 'active' : '';
+$glossario       = (in_array($area, $glossario))       ? 'active' : '';
+$culturaOriental = (in_array($area, $culturaOriental)) ? 'active' : '';
+$contato         = ($area == 'contato')                ? 'active' : '';
+$artigos         = ($area == 'artigos')                ? 'active' : '';
+$acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
+ ?>
 <div class="container">
           <h1 class="logo">
             <a href="index.php">
@@ -15,7 +37,7 @@
             <nav class="nav-main mega-menu">
               <ul class="nav nav-pills nav-main" id="mainMenu">
                 
-                <li class="dropdown">
+                <li class="dropdown <?php echo $aikido; ?>">
                   <a class="dropdown-toggle" href="#">
                     Aikido
                     <i class="icon icon-angle-down"></i>
@@ -27,7 +49,7 @@
                     <li><a href="mestres.php#Eduardosensei">Eduardo Sensei</a></li>
                   </ul>
                 </li>
-                <li class="dropdown">
+                <li class="dropdown <?php echo $dojo; ?>">
                   <a class="dropdown-toggle" href="#">
                     Dojos
                     <i class="icon icon-angle-down"></i>
@@ -45,22 +67,29 @@
                     <li><a href="tubarao.php"    >Tubarão</a></li>
                   </ul>
                 </li>
-                <li>
+                <li class="<?php echo $iaido; ?>">
                   <a href="iaido.php">Iaido</a>
                 </li>
-                <li>
+                <li class="<?php echo $jodo; ?>">
                   <a href="jodo.php">Jodo</a>
                 </li>
                 <!-- <li>
                   <a href="videos.php">Vídeos</a>
                 </li> -->
-                <li>
+                <li class="<?php echo $fotos; ?>">
                   <a href="fotos.php">Fotos</a>
                 </li>
-                <li>
-                  <a href="glossario.php">Glossário</a>
+                <li class="dropdown <?php echo $glossario; ?>">
+                  <a href="#" class="dropdown-toggle">
+                    Glossário
+                    <i class="icon icon-angle-down"></i>
+                  </a>
+                  <ul class="dropdown-menu">
+                    <li><a href="glossario.php">Informações sobre os treinos</a></li>
+                    <li><a href="tecnicas.php">Técnicas por graduação (5º ao 1º kyu)</a></li>
+                  </ul>
                 </li>
-                <li class="dropdown">
+                <li class="dropdown <?php echo $culturaOriental; ?>">
                   <a class="dropdown-toggle" href="#">
                     Cultura Oriental
                     <i class="icon icon-angle-down"></i>
@@ -68,16 +97,17 @@
                   <ul class="dropdown-menu">
                     <li><a href="fengshui.php">Fengshui</a></li>
                     <li><a href="ikebana.php">Ikebana</a></li>
-                    <li><a href="zazen.php">Zazen</a></li>
+                    <li><a href="sumie.php">Sumie</a></li>
+                    <li><a href="CulturaOriental.php">Fotos</a></li>
                   </ul>
                 </li>
-                <li>
+                <li class="<?php echo $contato; ?>">
                   <a href="contato.php">Contato</a>
                 </li>
-                <li>
+                <li class="<?php echo $artigos; ?>">
                   <a href="artigos.php">Artigos</a>
                 </li>
-                <li class="dropdown">
+                <li class="dropdown <?php echo $acupuntura; ?>">
                   <a class="dropdown-toggle" href="#">
                     Acupuntura
                     <i class="icon icon-angle-down"></i>

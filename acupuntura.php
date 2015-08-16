@@ -29,11 +29,21 @@ include_once('header.php');
 						<div class="col-md-12" data-appear-animation="fadeInUp">
 							<h3><strong>Acupuntura:</strong> Medicina tradicional chinesa</h3>
 
-							<p class='try-drop-caps'>A </p><p>Acupuntura é um tratamento milenar que busca a promoção da saúde e bem-estar através da
-							inserção de finíssimas agulhas especiais (esterilizadas, descartáveis, de uso ùnico) em determinadas regiões do corpo
-							(sem usar remédios). Também há tratamento sem agulhas (calor, pressão sementes). A eficácia da Acupuntura é reconhecida pelo
-							Ministério da Saúde do Brasil (Portaria 971/06), pela Organização Mundial da Saúde (OMS) e por vários Conselhos Federais da
-							área da Saúde.</p>
+							<p>“Acupuntura é um tratamento milenar que busca a promoção da saúde e bem-estar 
+							através da inserção de finíssimas agulhas especiais (esterilizadas, descartáveis, de uso 
+							único) em determinadas regiões do corpo (sem usar remédios). Também a tratamentos 
+							sem agulhas (calor, pressão, sementes). A eficácia da Acupuntura é reconhecida pelo 
+							Ministério da Saúde do Brasil (Portaria 971/06) pela Organização Mundial da Saúde 
+							(OMS) e por vários Conselhos Federais da área da Saúde.”
+							A acupuntura libera opiódes que são substâncias análogas à morfina, pois compartilham 
+							os mesmos receptores do Sistema Nervoso Central e produzem respostas semelhantes. 
+							Os opióides funcionam como neurotransmissores e estão relacionados com o humor, o 
+							estresse, o controle da dor, a memória e o aprendizado. Os mais importantes são a beta 
+							endorfina, metencefalina, dimorfina.
+							As agulhas, pouco mais espessas que um fio de cabelo, conseguem penetrar até sete 
+							centímetros na pele, alcançando músculos e tendões contraídos que, de outra forma, 
+							demorariam meses para serem tratados. A acupuntura diminui a necessidade do uso de 
+							medicamentos.</p>
 
 							<p class="drop-caps">
 							A história da acupuntura se confunde com a história da medicina na China. 
@@ -71,13 +81,6 @@ include_once('header.php');
 									<div class="portfolio-item img-thumbnail">
 										<a href="img/acupuntura/acupuncture.jpg" class="thumb-info">
 											<img class="image-responsive" src="img/acupuntura/acupuncture.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/acupuntura.caes_.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/acupuntura.caes_.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>

@@ -166,7 +166,7 @@ include_once('header.php');
 							<h3 class="short"><strong>Fotos</strong></h3>
 						</div>
 
-						<div class="row">
+						<div class="row"><!-- coloca dinâmico!  -->
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">
@@ -193,6 +193,13 @@ include_once('header.php');
 										<div class="img-thumbnail">
 											<a href="img/criciuma/criciuma4.jpg" class="thumb-info">
 												<img src="img/criciuma/criciuma4.jpg" class="image-responsive"  height="200" width="400">
+											</a>
+										</div>
+									</li>	
+									<li class="col-md-3 no-pin">
+										<div class="img-thumbnail">
+											<a href="img/fachadas/criciuma.jpg" class="thumb-info">
+												<img src="img/fachadas/criciuma.jpg" class="image-responsive"  height="200" width="400">
 											</a>
 										</div>
 									</li>								

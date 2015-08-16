@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Farroupilha | R. Cel. Pena de Moraes, 500 - Centro Farroupilha - RS';
+$title = 'Dojo Farroupilha | R. Bortolo Grendene, 275 Casa 03 - Imigrante - Farroupilha / RS';
 include_once('header.php');
 ?>
 
@@ -52,7 +52,18 @@ include_once('header.php');
 											Segunda
 										</td>
 										<td>
-											19h00 - 20h00
+											19h15 - 20h30
+										</td>
+										<td>
+											Eduardo
+										</td>
+									</tr>
+									<tr>
+										<td>
+											Terça
+										</td>
+										<td>
+											19h15 - 20h30
 										</td>
 										<td>
 											Eduardo
@@ -63,7 +74,7 @@ include_once('header.php');
 											Quarta
 										</td>
 										<td>
-											20h00 - 21h00
+											19h15 - 20h30
 										</td>
 										<td>
 											Eduardo
@@ -189,7 +200,7 @@ include_once('header.php');
 			// Map Markers
 			var mapMarkers = [{
 				address: "R. Cel. Pena de Moraes, 500 - Centro Farroupilha - RS",
-				html: "<strong>Dojo Kobukan</strong><br>R. Cel. Pena de Moraes, 500 - Centro Farroupilha - RS",
+				html: "<strong>Dojo Kobukan</strong><br>R. Bortolo Grendene, 275 Casa 03 - Imigrante - Farroupilha / RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -198,9 +209,9 @@ include_once('header.php');
 				popup: true
 			}];
 
-			// Map Initial Location
-			var initLatitude = -29.228689;
-			var initLongitude =  -51.347100;
+			// Map Initial Location -29.233141, -51.346953
+			var initLatitude = -29.233141;
+			var initLongitude =  -51.346953;
 
 			// Map Extended Settings
 			var mapSettings = {

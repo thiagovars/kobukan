@@ -82,11 +82,11 @@ include_once('header.php');
 									O-Sensei faleceu em 26 de abril de 1969, sabendo que seu amado Aikido já estava sendo ensinado e praticado não apenas no Japão, mas em vários lugares do mundo.
 									</p>
 									<img class="thumbnail"src="img/osensei4.jpg" width="350" style="margin: 0 auto; margin-bottom: 20px;">
-									
+									<div id="Kawaisensei"></div>
 								</div>
 							</div>
 
-							<hr class="tall" id="Kawaisensei" >
+							<hr class="tall">
 
 							<div class="row">
 								<div class="col-md-4"  data-appear-animation="fadeInLeft">
@@ -145,10 +145,11 @@ include_once('header.php');
 									Esse objetivo ele alcançou.</p>									
 
 									<span style="display: block; text-align: center;">Domo Arigatô Gozai Mashita<BR>Estimado e Inesquecível<BR><h4>Kawai Shihan</h4></span>
+									<div id="Eduardosensei"></div>
 								</div>
 							</div>
 							
-							<hr class="tall" id="Eduardosensei" >
+							<hr class="tall">
 
 							<div class="row">
 								<div class="col-md-4"  data-appear-animation="fadeInLeft">
@@ -162,7 +163,7 @@ include_once('header.php');
 									<h4 class="shorter" style="text-align: center; padding-bottom: 30px;">
 										EDUARDO CORRÊA SENSEI<br>Responsável técnico Kobukan Dojo </br></br>
 										4o. Dan de Aikido<br><br>
-										Ikkyu (Faixa marrom) de Iaido<br><br>
+										Ikkyu (Faixa marrom) de Iaido<br><br> <!-- mudar dia 30 para shodan  -->
 										Ikkyu (Faixa marrom) de Jodo<br><br>
 										Faixa preta 1o. Dan de Jiu-jitsu<br><br>
 									</h4>
@@ -250,7 +251,7 @@ include_once('header.php');
 										orientação técnica de Sempai Alexandre Cavalcanti, a fim de conduzirem grupo de estudos da 
 										técnica na Associação Akipa Nambukan- Porto Alegre/RS, do qual também integram Thiago 
 										Silveira.</p>
-									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro. Ainda em janeiro, foi reinaugurado o dojo de Torres, sob responsabilidade do kenshin Eduardo Monteiro, Ikkyu (faixa Marrom).</p>
+									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro.</p>
 
 								</div>
 							</div>
