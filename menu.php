@@ -63,8 +63,10 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                     <li><a href="imarui.php"     >Imarui</a></li>
                     <li><a href="ivoti.php"      >Ivoti</a></li>
                     <li><a href="laguna.php"     >Laguna</a></li>
-                    <!-- <li><a href="torres.php"     >Torres</a></li> -->
                     <li><a href="tubarao.php"    >Tubarão</a></li>
+                    <li><a href="gramado.php"    >Gramado</a></li>
+                    <li><a href="petropolis.php" >Nova Petrópolis</a></li>
+                    <li><a href="canela.php"     >Canela</a></li>
                   </ul>
                 </li>
                 <li class="<?php echo $iaido; ?>">
@@ -98,7 +100,7 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                     <li><a href="fengshui.php">Fengshui</a></li>
                     <li><a href="ikebana.php">Ikebana</a></li>
                     <li><a href="sumie.php">Sumie</a></li>
-                    <li><a href="CulturaOriental.php">Fotos</a></li>
+                    <li><a href="culturaoriental.php">Fotos</a></li>
                   </ul>
                 </li>
                 <li class="<?php echo $contato; ?>">

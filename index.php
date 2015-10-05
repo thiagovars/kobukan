@@ -107,11 +107,26 @@ include_once('header.php');
 
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
-									<a href="torres.php"><img src="img/map-dojo-torres.jpg" alt="" /></a>
-									<strong>Torres-RS</strong>
+									<a href="gramado.php"><img src="img/map-dojo-gramado.jpg" alt="" /></a>
+									<strong>Gramado-RS</strong>
 								</div>
 							</div>
 
+						</div>
+						<div class="row center">
+							<div class="col-md-6">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+									<a href="petropolis.php"><img src="img/map-dojo-petropolis.jpg" alt="" /></a>
+									<strong>Nova Petrópolis-RS</strong>
+								</div>
+							</div>
+
+							<div class="col-md-6">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+									<a href="canela.php"><img src="img/map-dojo-canela.jpg" alt="" /></a>
+									<strong>Canela-RS</strong>
+								</div>
+							</div>
 						</div>
 				
 					</div>

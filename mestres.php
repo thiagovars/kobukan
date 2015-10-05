@@ -104,15 +104,15 @@ include_once('header.php');
 									a acupuntura e shiatsu. Sua cura o motivou a estudar processos alternativos de 
 									terapêutica, e além do mestre saito Torataro que lhe curou. Diplomando-se me 
 									Medicina Oriental do prof. Mischimasa Nischiawa. Além dos estudos em Medicina 
-									Orienta; kawai Sensei também aprendeu técnica de Aikijiujitsu.
+									Oriental, kawai Sensei também aprendeu técnica de Aikijiujitsu.
 									</p>
 
 									<!-- <p class="tall"></p> -->
 									<p class="tall">Em 1957 transfere sua residência para o Brasil, onde inicia a peregrinação pelo interior
 									do Brasil, onde trabalhou com acupuntura, ministrou palestras e fez demonstrações. 
-									No ano de 961 transfere-se para a Europa onde recebe treinamento intensivo de seu 
-									mestre, Aritomo Murashique, 9o. Dan de Aikido. Dois anos depois recebe das mãos de 
-									Morihei Ueshiba (fundador do Aikido) o título de Shihan e recebeu a tarefa de divulgar 
+									No ano de 1961 transfere-se para a Europa onde recebe treinamento intensivo de seu 
+									mestre, Aritomo Murashigue, 9o. Dan de Aikido. Dois anos depois recebe das mãos de 
+									Morihei Ueshiba (fundador do Aikido) o título de Shihan recebendo a tarefa de divulgar 
 									o Aikido na América do Sul. Nesse mesmo ano casa-se com Letícia Minako, com 
 									quem teve duas filhas, Cristina e Lilba Kawai, e abre na Avenida Senador Queiroz, em 
 									São Paulo, a primeira academia de Aikido no Brasil.</p>
@@ -121,11 +121,11 @@ include_once('header.php');
 
 									<p class="tall">Em 1969 Kawai Sensei recebe seu 6o. Dan do grão mestre Morihei Ueshiba. Por 08
 									anos, desde 1976, ocupou o cargo de Vice-presidente da Federação Internacional de 
-									Aikido (FIA). Obteve o 7o. Dan em 1978, ocasião em que recebeu no Brasil Kishomaru 
+									Aikido (FIA). Obteve o 7o. Dan em 1978, ocasião em que recebeu no Brasil Kisshomaru 
 									Ueshiba, filho do fundador do Aikido, que veio ministrar treinamentos no Brasil, 
 									Uruguai e Argentina.</p>
 
-									<p class="tall">Em 1990 Kawai Sensei custeou, com recursos próprios, a nova vinda de Kishomaru 
+									<p class="tall">Em 1990 Kawai Sensei custeou, com recursos próprios, a nova vinda de Kisshomaru 
 									Ueshiba ao Brasil. Em 1997 recebeu o 8o. Dan de faixa Preta, outorgado pelo Hombu 
 									Dojo, no Japão.</p>
 
@@ -163,7 +163,7 @@ include_once('header.php');
 									<h4 class="shorter" style="text-align: center; padding-bottom: 30px;">
 										EDUARDO CORRÊA SENSEI<br>Responsável técnico Kobukan Dojo </br></br>
 										4o. Dan de Aikido<br><br>
-										Ikkyu (Faixa marrom) de Iaido<br><br> <!-- mudar dia 30 para shodan  -->
+										Shodan (Faixa preta 1 Dan) de Iaido<br><br> <!-- mudar dia 30 para shodan  -->
 										Ikkyu (Faixa marrom) de Jodo<br><br>
 										Faixa preta 1o. Dan de Jiu-jitsu<br><br>
 									</h4>
@@ -252,6 +252,9 @@ include_once('header.php');
 										técnica na Associação Akipa Nambukan- Porto Alegre/RS, do qual também integram Thiago 
 										Silveira.</p>
 									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro.</p>
+									<p class="tall">Em junho inicia seus estudos de shodo (caligrafia japonesa) com sensei Arima, da
+									colônia japonesa de ivoti. Em Agosto inicia os trabalhos na cidade de Gramado e no dia 29 gradua-se
+									faixa preta em Iaido na cidade de São Paulo. Em setembro inicia os trabalhos na cidade de Nova Petrópolis.</p>
 
 								</div>
 							</div>

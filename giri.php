@@ -65,7 +65,7 @@
               formação de equipes com melhores desempenhos, mais realizadas em suas atividades e com a 
               harmonia que tanto buscamos desenvolver em nossa Arte.</p>
               <div class="nota-rodape"></div>
-              <p class="tall">¹ Presidente da Associação KOBUKAN.<BR>
+              <p class="tall">¹ Responsável técnico da KOBUKAN.<BR>
               ² <strong>Justiça, obrigação</strong>. in Dicionário Japonês-Português São Paulo: Ed. Rideel)<BR>
               ³ <a href="http://japanese.about.com/od/japanesecultur1/a/071497.htm" target="_blank">
                 http://japanese.about.com/od/japanesecultur1/a/071497.htm

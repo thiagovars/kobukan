@@ -31,6 +31,7 @@ include_once('header.php');
 						<li data-option-value="*" class="active"><a href="#">Mostrar todos</a></li>
 						<li data-option-value=".exame-faixa"><a href="#">Exame de faixa</a></li>
 						<li data-option-value=".koshukai"><a href="#">koshukai</a></li>
+						<li data-option-value=".anos90"><a href="#">Fotos academia central anos 90</a></li>
 					</ul>
 
 					<hr />
@@ -100,6 +101,20 @@ include_once('header.php');
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Exame de faixa 2013</span>
 											<span class="thumb-info-type">Jaguaruna - SC</span>
+										</span>
+										<span class="thumb-info-action">
+											<span title="Universal" class="thumb-info-action-icon"><i class="icon icon-picture-o"></i></span>
+										</span>
+									</a>
+								</div>
+							</li>
+							<li class="col-md-3 isotope-item anos90">
+								<div class="portfolio-item img-thumbnail">
+									<a href="fotosanos90.php" class="thumb-info">
+										<img alt="" class="img-responsive" src="img/anos90/17.jpg">
+										<span class="thumb-info-title">
+											<span class="thumb-info-inner">Fotos anos 90</span>
+											<span class="thumb-info-type">Academia central - SP</span>
 										</span>
 										<span class="thumb-info-action">
 											<span title="Universal" class="thumb-info-action-icon"><i class="icon icon-picture-o"></i></span>

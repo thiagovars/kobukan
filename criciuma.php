@@ -168,41 +168,19 @@ include_once('header.php');
 
 						<div class="row"><!-- coloca dinâmico!  -->
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/criciuma/criciuma1.jpg" class="thumb-info">
-												<img src="img/criciuma/criciuma1.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/criciuma/criciuma2.jpg" class="thumb-info">
-												<img src="img/criciuma/criciuma2.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/criciuma/criciuma3.jpg" class="thumb-info">
-												<img src="img/criciuma/criciuma3.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/criciuma/criciuma4.jpg" class="thumb-info">
-												<img src="img/criciuma/criciuma4.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>	
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/fachadas/criciuma.jpg" class="thumb-info">
-												<img src="img/fachadas/criciuma.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>								
+									<?php 
+									for ($i=1; $i < 15; $i++) { 
+										?>
+										<li class="col-md-3 no-pin isotope-item">
+											<div class="portfolio-item img-thumbnail">
+												<a href="img/criciuma/<?php echo 'criciuma' . $i; ?>.jpg" class="thumb-info">
+													<img src="img/criciuma/<?php echo 'criciuma' . $i; ?>.jpg" class="image-responsive" height="200" width="400">
+												</a>
+											</div>
+										</li>
+									<?php
+									}
+									?>
 								</ul>
 							</div>						
 

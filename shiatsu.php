@@ -46,6 +46,16 @@ include_once('header.php');
 							desequilíbrio da energia que são os males da vida moderna, tais como: poluição, alimentação inadequada, ociosidade, distúrbio
 							do sono, perturbação emocional, trabalhar somente com um lado do corpo (ex.: computação).</p>
 
+							<ul class="lightbox list-unstyled" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}' data-appear-animation="fadeInLeft">
+								<li class="col-md-3 isotope-item alignRight">
+									<div class="portfolio-item img-thumbnail">
+										<a href="img/acupuntura/sensei-eduardo.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/acupuntura/sensei-eduardo.jpg" width="200"  align="right" />
+										</a>
+									</div>
+								</li>
+							</ul>
+
 							<p class="drop-caps">
 							O Shiatsu libera a dopamina (anti-depressiva) e endorfina, substância que funciona no organismo como anti-inflamatório natural.
 							Além do uso para relaxamento do corpo, a técnica é recomendada para os casos de torcicolo, lombalgia, dor ciática, enxaqueca, sinusite,
@@ -154,7 +164,6 @@ include_once('header.php');
 
 						</div>						
 					</div>
-					<!--
 					<hr class="tall">
 
 					 <div class="row">
@@ -162,57 +171,59 @@ include_once('header.php');
 							<ul class="lightbox list-unstyled" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}' data-appear-animation="fadeInLeft">
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/acupuncture.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/acupuncture.jpg" width="200" height="230" />
+										<a href="img/shiatsu/diploma.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/diploma.jpg" width="200" height="230" />
+										</a>
+									</div>
+								</li>
+							</ul>
+					<!--
+								<li class="col-md-3 isotope-item">
+									<div class="portfolio-item img-thumbnail">
+										<a href="img/shiatsu/shiatsu.caes_.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/shiatsu.caes_.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/Shiatsu.caes_.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/Shiatsu.caes_.jpg" width="200" height="230" />
+										<a href="img/shiatsu/shiatsu.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/shiatsu.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/Shiatsu.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/Shiatsu.jpg" width="200" height="230" />
+										<a href="img/shiatsu/shiatsu-03.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/shiatsu-03.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/Shiatsu-03.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/Shiatsu-03.jpg" width="200" height="230" />
+										<a href="img/shiatsu/shiatsu-pies.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/shiatsu-pies.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/Shiatsu-pies.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/Shiatsu-pies.jpg" width="200" height="230" />
+										<a href="img/shiatsu/shiatsu-sistemica-01.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/shiatsu-sistemica-01.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/Shiatsu-sistemica-01.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/Shiatsu-sistemica-01.jpg" width="200" height="230" />
+										<a href="img/shiatsu/auriculoterapia.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/auriculoterapia.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/auriculoterapia.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/auriculoterapia.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/Shiatsu/images.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/Shiatsu/images.jpg" width="200" height="230" />
+										<a href="img/shiatsu/images.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/shiatsu/images.jpg" width="200" height="230" />
 										</a>
 									</div>
 								</li>
