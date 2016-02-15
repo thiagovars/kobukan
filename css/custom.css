@@ -1,0 +1,18 @@
+/* Add here all your CSS customizations */
+.text-align-center { text-align: center; }
+
+.margin-auto { margin: auto; }
+
+.quadro-tecnicas { font-size: 12px; }
+
+.alignRight { float: right; }
+
+#gramadoFachada { position: relative; left: -55px; }
+
+#petropolisFachada { position: relative; left: -110px; }
+
+p.amarela  { border-bottom: 5px solid #DCDC34; }
+p.roxa     { border-bottom: 5px solid #800080; }
+p.verde    { border-bottom: 5px solid #008000; }
+p.azul     { border-bottom: 5px solid #3333E2; }
+p.marrom   { border-bottom: 5px solid #692F2F; }

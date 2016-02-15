@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><cteProc versao="1.04" xmlns="http://www.portalfiscal.inf.br/cte"><CTe xmlns="http://www.portalfiscal.inf.br/cte"><infCte Id="CTe43130812127134000157570010000000011014000067" versao="1.04"><ide><cUF>43</cUF><cCT>01400006</cCT><CFOP>5353</CFOP><natOp>FRETE</natOp><forPag>1</forPag><mod>57</mod><serie>1</serie><nCT>1</nCT><dhEmi>2013-08-27T15:27:00</dhEmi><tpImp>1</tpImp><tpEmis>1</tpEmis><cDV>7</cDV><tpAmb>1</tpAmb><tpCTe>0</tpCTe><procEmi>3</procEmi><verProc>1.2.13</verProc><cMunEnv>4322400</cMunEnv><xMunEnv>Uruguaiana</xMunEnv><UFEnv>RS</UFEnv><modal>01</modal><tpServ>0</tpServ><cMunIni>4323002</cMunIni><xMunIni>Viamao</xMunIni><UFIni>RS</UFIni><cMunFim>4316402</cMunFim><xMunFim>Rosario do Sul</xMunFim><UFFim>RS</UFFim><retira>1</retira><toma03><toma>3</toma></toma03></ide><compl><fluxo/></compl><emit><CNPJ>12127134000157</CNPJ><IE>1530177704</IE><xNome>TVC TRANSPORTES ROD. DE CARGA E LOCAÇÃO DE VEICULOS LTDA</xNome><xFant>TVC TRANSPORTES</xFant><enderEmit><xLgr>RUA SETEMBRINO DE CARVALHO</xLgr><nro>4160</nro><xBairro>IPIRANGA</xBairro><cMun>4322400</cMun><xMun>Uruguaiana</xMun><CEP>97507380</CEP><UF>RS</UF><fone>5534123322</fone></enderEmit></emit><rem><CNPJ>02808708003203</CNPJ><IE>1590189229</IE><xNome>COMPANHIA DE BEBIDAS DAS AMERICAS - AMBEV</xNome><xFant>AMBEV FILIAL AGUAS CLARAS DO SUL</xFant><enderReme><xLgr>ESTRADA GERAL ITAPUA A ESTIVA</xLgr><nro>S/Nº</nro><xCpl>FAXINAL</xCpl><xBairro>AGUAS CLARAS</xBairro><cMun>4323002</cMun><xMun>Viamao</xMun><CEP>94760000</CEP><UF>RS</UF><cPais>1058</cPais><xPais>BRASIL</xPais></enderReme><infNFe><chave>43130502808708003203550010002456111628153441</chave></infNFe><infNFe><chave>43130502808708003203550010002456151811269975</chave></infNFe><infNFe><chave>43130502808708003203550010002457491979412876</chave></infNFe><infNFe><chave>43130502808708003203550010002457601226477595</chave></infNFe><infNFe><chave>43130502808708003203550010002458021742575980</chave></infNFe></rem><dest><CNPJ>98417645001524</CNPJ><IE>1040041547</IE><xNome>CARGNELUTTI &amp; CIA. LTDA</xNome><enderDest><xLgr>ESTRADA BR 290 Km 481</xLgr><nro>73</nro><xBairro>INDUSTRIAL</xBairro><cMun>4316402</cMun><xMun>Rosario do Sul</xMun><CEP>97590000</CEP><UF>RS</UF><cPais>1058</cPais><xPais>BRASIL</xPais></enderDest></dest><vPrest><vTPrest>11250.00</vTPrest><vRec>11250.00</vRec></vPrest><imp><ICMS><ICMS45><CST>40</CST></ICMS45></ICMS></imp><infCTeNorm><infCarga><vCarga>274330.93</vCarga><proPred>CERVEJA</proPred><infQ><cUnid>03</cUnid><tpMed>GARRAFA</tpMed><qCarga>168080.0000</qCarga></infQ></infCarga><seg><respSeg>3</respSeg></seg><infModal versaoModal="1.04"><rodo><RNTRC>12914916</RNTRC><dPrev>2013-08-27</dPrev><lota>0</lota></rodo></infModal></infCTeNorm></infCte><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#CTe43130812127134000157570010000000011014000067"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>xMQqA45mN0Xp8VGbfThDzftRvCA=</DigestValue></Reference></SignedInfo><SignatureValue>dPrJ/jKP8sXaQ9fmon0iyoreI5sUnzYu6i4lYzb1A46VlNJUd+6tsHqO7YF1lKT/2gxF/aWFCCWR
+0BG2XYaT41SgZD+1qLujiAr0KwQiFXPZHshq3RbdHuU//L1XHmBHd9dQKwJ8qN1Je63xmx7tgQdE
+VijuAowTA9EFoiDnOiU=</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIGhzCCBW+gAwIBAgIIG0H3mNUqsjkwDQYJKoZIhvcNAQEFBQAwdTELMAkGA1UEBhMCQlIxEzAR
+BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs
+IGRvIEJyYXNpbCAtIFJGQjEZMBcGA1UEAxMQQUMgU0VSQVNBIFJGQiB2MTAeFw0xMTEyMDkxOTM3
+MDBaFw0xNDEyMDgxOTM3MDBaMIH4MQswCQYDVQQGEwJCUjELMAkGA1UECBMCUlMxFzAVBgNVBAcT
+DlJPU0FSSU8gRE8gU1VMMRMwEQYDVQQKEwpJQ1AtQnJhc2lsMTYwNAYDVQQLEy1TZWNyZXRhcmlh
+IGRhIFJlY2VpdGEgRmVkZXJhbCBkbyBCcmFzaWwgLSBSRkIxFjAUBgNVBAsTDVJGQiBlLUNOUEog
+QTMxEzARBgNVBAsTCkFSIFNBRkVXRUIxSTBHBgNVBAMTQFRWQyBUUkFOU1BPUlRFUyBST0RPVklB
+UklPUyBERSBDQVJHQSBFIExPQ0FDQU8gREU6MTIxMjcxMzQwMDAxNTcwgZ8wDQYJKoZIhvcNAQEB
+BQADgY0AMIGJAoGBAMFowBsCXjz8SbMcHJVr7jFrRfr/R2/jsTF+yxbuP0VbXFw5zg+AmakapNzb
+nOjnSvOwedLOlnbBJY5XcWcHniMEH+n3oIXtMKlu87s4C6RLmCThopFOIxhjwUSJ+kEEZsyQH8Yo
+BnK7Nuk8o50BrO/QzxHlVjQ7g2+1+dG7sREpAgMBAAGjggMZMIIDFTAJBgNVHRMEAjAAMA4GA1Ud
+DwEB/wQEAwIF4DAdBgNVHSUEFjAUBggrBgEFBQcDAgYIKwYBBQUHAwQwHwYDVR0jBBgwFoAUmt0i
+tvZ36UJvSMJRQKBW4vN0P7swgcwGA1UdEQSBxDCBwYEfRklTQ0FMVklMTUFSQENBUkdORUxVVFRJ
+LkNPTS5CUqArBgVgTAEDAqAiEyBUSEVMTU8gRUdJRElPIENBUkdORUxVVFRJIEpVTklPUqAZBgVg
+TAEDA6AQEw4xMjEyNzEzNDAwMDE1N6A9BgVgTAEDBKA0EzIyNzA3MTk3MDYxMDAzNDE3MDAwMDAw
+MDAwMDAwMDAwMDAwMDEwMDY5NTc1NjVTU1BSU6AXBgVgTAEDB6AOEwwwMDAwMDAwMDAwMDAwVwYD
+VR0gBFAwTjBMBgZgTAECAwowQjBABggrBgEFBQcCARY0aHR0cDovL3d3dy5jZXJ0aWZpY2Fkb2Rp
+Z2l0YWwuY29tLmJyL3JlcG9zaXRvcmlvL2RwYzCB8wYDVR0fBIHrMIHoMEqgSKBGhkRodHRwOi8v
+d3d3LmNlcnRpZmljYWRvZGlnaXRhbC5jb20uYnIvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYXJmYnYx
+LmNybDBEoEKgQIY+aHR0cDovL2xjci5jZXJ0aWZpY2Fkb3MuY29tLmJyL3JlcG9zaXRvcmlvL2xj
+ci9zZXJhc2FyZmJ2MS5jcmwwVKBSoFCGTmh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292
+LmJyL2xjci9TZXJhc2EvcmVwb3NpdG9yaW8vbGNyL3NlcmFzYXJmYnYxLmNybDCBmQYIKwYBBQUH
+AQEEgYwwgYkwSAYIKwYBBQUHMAKGPGh0dHA6Ly93d3cuY2VydGlmaWNhZG9kaWdpdGFsLmNvbS5i
+ci9jYWRlaWFzL3NlcmFzYXJmYnYxLnA3YjA9BggrBgEFBQcwAYYxaHR0cDovL29jc3AuY2VydGlm
+aWNhZG9kaWdpdGFsLmNvbS5ici9zZXJhc2FyZmJ2MTANBgkqhkiG9w0BAQUFAAOCAQEAWgntl61a
+YqJngbx5m1+lAURXcq9LNvyfSAgZ9jiqEv80ms1KBw1En9O4qmL60xOPlQXqos7h2dQJSDVLgnJJ
+sOWvLhYVrZA8dUtMuvBAILILN3ArZj37BymjztF5vOYOcDiyIpWv1HZMMwcwaoJSMJWSuzadVghR
+7MpsWfIcoOpEPPs3ln7KA/EzAJSsbn3B7bxN6WbdjQ89nzygXdmoN276gW4nVS/7jGZ4LEq4w9Vj
+ayVcYMv0WVu+CRyLbi/KVlNxkpdtIbJB3Tf26rsaHvjrKKOlwC4c8B2PsDk3Rmapendgnucl7ArW
+B9xIpgx5SdDqebnom9/b6wXTEkpyjw==</X509Certificate></X509Data></KeyInfo></Signature></CTe><protCTe versao="1.04"><infProt Id="CTe143130014170867"><tpAmb>1</tpAmb><verAplic>RS20130723133518</verAplic><chCTe>43130812127134000157570010000000011014000067</chCTe><dhRecbto>2013-08-28T15:57:28</dhRecbto><nProt>143130014170867</nProt><digVal>xMQqA45mN0Xp8VGbfThDzftRvCA=</digVal><cStat>100</cStat><xMotivo>Autorizado o uso do CT-e</xMotivo></infProt></protCTe></cteProc>

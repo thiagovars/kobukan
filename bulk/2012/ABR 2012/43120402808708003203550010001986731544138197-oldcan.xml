@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><procCancNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="2.00"><cancNFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="2.00"><infCanc Id="ID43120402808708003203550010001986731544138197"><tpAmb>1</tpAmb><xServ>CANCELAR</xServ><chNFe>43120402808708003203550010001986731544138197</chNFe><nProt>143120049910453</nProt><xJust>NF cancelada manualmente.</xJust></infCanc><Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#ID43120402808708003203550010001986731544138197"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/><Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>fmXQLbmaksExTCi2zCUQyeox/kk=</DigestValue></Reference></SignedInfo><SignatureValue>iECePoyewstq8xyHzy2ZPmITozv5iqUoOmLxvKED3hN7ulgq16Z9Gmr5e9Kmhcdcy02WZ8z10s1W
+clYKjsIHP7f14+UFcmrSNqt8ZBNHDj2wkMwDyWKNteNSecwcxinv1NVx1Rs3RxA3f0dvkH8ARKKl
+uCBloQvMV57Fqcms6OI=</SignatureValue><KeyInfo><X509Data><X509Certificate>MIIGtDCCBZygAwIBAgIQXpDV7NO1eJvhaGehoyEcaTANBgkqhkiG9w0BAQUFADB0MQswCQYDVQQG
+EwJCUjETMBEGA1UEChMKSUNQLUJyYXNpbDEtMCsGA1UECxMkQ2VydGlzaWduIENlcnRpZmljYWRv
+cmEgRGlnaXRhbCBTLkEuMSEwHwYDVQQDExhBQyBDZXJ0aXNpZ24gTXVsdGlwbGEgRzMwHhcNMTEw
+NDI4MDAwMDAwWhcNMTIwNDI2MjM1OTU5WjCCAQAxCzAJBgNVBAYTAkJSMRMwEQYDVQQKFApJQ1At
+QnJhc2lsMRUwEwYDVQQLFAxJRCAtIDE0ODU1MzgxITAfBgNVBAsUGEF1dGVudGljYWRvIHBvciBB
+UiBUQUxVQTEbMBkGA1UECxQSQXNzaW5hdHVyYSBUaXBvIEExMRQwEgYDVQQLFAsoZW0gYnJhbmNv
+KTEUMBIGA1UECxQLKGVtIGJyYW5jbykxMDAuBgNVBAMTJ0NPTVBBTkhJQSBERSBCRUJJREFTIERB
+UyBBTUVSSUNBUyBBTUJFVjEnMCUGCSqGSIb3DQEJARYYb3BvYnJpZ2FjZXNAYW1iZXYuY29tLmJy
+MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCXzqxZpEJr9rN8SABHnhXVmwk579ZmwmywRqpb
+5dusLiiQgDhQpgZKM6wipmjmteN5B2sewwTlfAy2gNgZZQ5aYbr06sY5kXphSjbTDqOGzTpsP2sy
+TqmRtrcU6N8L5VmQHeqwgo14JnQyRVte8tJHl6mrkLdAzm3gVAdYCwoBPwIDAQABo4IDNjCCAzIw
+gbEGA1UdEQSBqTCBpqA4BgVgTAEDBKAvBC0xNzAzMTk3MjAyNTIxNzU3NzgwMDAwMDAwMDAwMDAw
+MDAwMDAwMDAwMDAwMDCgHAYFYEwBAwKgEwQRTkVMU09OIEpPU0UgSkFNRUygGQYFYEwBAwOgEAQO
+MDI4MDg3MDgwMDAxMDegFwYFYEwBAwegDgQMMDAwMDAwMDAwMDAwgRhvcG9icmlnYWNlc0BhbWJl
+di5jb20uYnIwCQYDVR0TBAIwADAfBgNVHSMEGDAWgBSEsEIzNKNCJaUolz6D63fw6E/CVDAOBgNV
+HQ8BAf8EBAMCBeAwVQYDVR0gBE4wTDBKBgZgTAECAQswQDA+BggrBgEFBQcCARYyaHR0cDovL2lj
+cC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9kcGMwggElBgNVHR8EggEcMIIB
+GDBcoFqgWIZWaHR0cDovL2ljcC1icmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9s
+Y3IvQUNDZXJ0aXNpZ25NdWx0aXBsYUczL0xhdGVzdENSTC5jcmwwW6BZoFeGVWh0dHA6Ly9pY3At
+YnJhc2lsLm91dHJhbGNyLmNvbS5ici9yZXBvc2l0b3Jpby9sY3IvQUNDZXJ0aXNpZ25NdWx0aXBs
+YUczL0xhdGVzdENSTC5jcmwwW6BZoFeGVWh0dHA6Ly9yZXBvc2l0b3Jpby5pY3BicmFzaWwuZ292
+LmJyL2xjci9DZXJ0aXNpZ24vQUNDZXJ0aXNpZ25NdWx0aXBsYUczL0xhdGVzdENSTC5jcmwwHQYD
+VR0lBBYwFAYIKwYBBQUHAwQGCCsGAQUFBwMCMIGgBggrBgEFBQcBAQSBkzCBkDAoBggrBgEFBQcw
+AYYcaHR0cDovL29jc3AuY2VydGlzaWduLmNvbS5icjBkBggrBgEFBQcwAoZYaHR0cDovL2ljcC1i
+cmFzaWwuY2VydGlzaWduLmNvbS5ici9yZXBvc2l0b3Jpby9jZXJ0aWZpY2Fkb3MvQUNfQ2VydGlz
+aWduX011bHRpcGxhX0czLnA3YzANBgkqhkiG9w0BAQUFAAOCAQEAO1QBavwehMhSGEUykVNaTnA7
+zmEgME4+k/lneri0jmZUHu9rWh/BTr3RSqB+LRZy9raFck2DKREeyHGPlcEw1v6jmidkUorSgKZ7
+7EjfaRyxVPfIoLMa//755svjJnbXsVhz6z02F4MwJtaDAPDdG19RTGE57YNSHAPpbw5gXUgu/F0q
+Sx9siSj4dCcPGQHatP8Pad+mbW8hv5C6C+nlL4CoLS/xFlPfojYBWvgZHLahNZeAraVg5nPnnkrg
+3ZLyMHja7gT9lUxyvpeqRk70RuJzczDAfUDsCaURnE0jKkEPRk1ZDHVKFZKzYxb/H+SQu0czkUMm
+dBjEQaeXw6fVog==</X509Certificate></X509Data></KeyInfo></Signature></cancNFe><retCancNFe versao="2.00" xmlns="http://www.portalfiscal.inf.br/nfe"><infCanc Id="ID143120049911957"><tpAmb>1</tpAmb><verAplic>RS20100210111705</verAplic><cStat>101</cStat><xMotivo>Cancelamento de NF-e homologado</xMotivo><cUF>43</cUF><chNFe>43120402808708003203550010001986731544138197</chNFe><dhRecbto>2012-04-17T03:43:11</dhRecbto><nProt>143120049911957</nProt></infCanc></retCancNFe></procCancNFe>
