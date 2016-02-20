@@ -11,13 +11,14 @@ include_once('header.php');
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="index.php">Home</a></li>
-									<li class="active">capivari Dojo</li>
+
+									<li class="active">Capivari Dojo</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>capivari Dojo</h2>
+								<h2>Capivari Dojo</h2>
 							</div>
 						</div>
 					</div>

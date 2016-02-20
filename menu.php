@@ -5,6 +5,7 @@ $area = $area[1];
 
 $aikido          = array('mestres', 'aikido');
 $dojos           = array('capivari', 'criciuma', 'farroupilha', 'icara', 'imarui', 'ivoti', 'laguna', 'tubarao', 'gramado', 'canela', 'petropolis');
+
 $glossario       = array('glossario', 'tecnicas');
 $culturaOriental = array('fengshui', 'ikebana', 'sumie', 'CulturaOriental');
 $acupuntura      = array('acupuntura', 'shiatsu');
@@ -55,7 +56,7 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                     <i class="icon icon-angle-down"></i>
                   </a>
                   <ul class="dropdown-menu">
-                    <!-- <li><a href="bento.php"      >Bento Gonçalves</a></li> -->
+                    <!-- <li><a href="bento.php" >Bento Gonçalves</a></li> -->
                     <li><a href="capivari.php"   >Capivari de baixo</a></li>
                     <li><a href="criciuma.php"   >Criciúma</a></li>
                     <li><a href="farroupilha.php">Farroupilha</a></li>
