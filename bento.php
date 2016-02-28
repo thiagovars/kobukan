@@ -1,6 +1,6 @@
 <?php 
-die(utf8_decode('Você não deveria acessar esta página.'));
-$title = 'Dojo Bento Gonçalves | R. Saldanha Marinho, 744 sala 101 - Centro - Bento Gonçalves - RS';
+// die(utf8_decode('Você não deveria acessar esta página.'));
+$title = 'Dojo Bento Gonçalves | Rua Matheus Valduga, 179 - Bento Gonçalves - RS';
 include_once('header.php');
 ?>
 
@@ -188,8 +188,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "R. Saldanha Marinho, 744 sala 101 - Centro - Bento Gonçalves - RS",
-				html: "<strong>Dojo Kobukan</strong><br>R. Saldanha Marinho, 744 sala 101 - Centro - Bento Gonçalves - RS",
+				address: "Rua Matheus Valduga, 179 - Bento Gonçalves - RS",
+				html: "<strong>Dojo Kobukan</strong><br>Rua Matheus Valduga, 179 - Bento Gonçalves - RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -198,9 +198,9 @@ include_once('header.php');
 				popup: true
 			}];
 
-			// Map Initial Location -29.167100, -51.512243
-			var initLatitude = -29.167100;
-			var initLongitude =  -51.512243;
+			// Map Initial Location 
+			var initLatitude  = -29.169429;
+			var initLongitude = -51.501866;
 
 			// Map Extended Settings
 			var mapSettings = {

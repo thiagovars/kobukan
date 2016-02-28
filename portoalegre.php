@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Nova Petrópolis | Rua Frederico Michaelsen, 443 - Centro - Nova Petrópolis / RS';
+$title = 'Dojo Porto Alegre | Av. guilherme alves, 1315 - Porto Alegre - RS';
 include_once('header.php');
 ?>
 
@@ -11,13 +11,13 @@ include_once('header.php');
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="index.php">Home</a></li>
-									<li class="active">Nova Petrópolis Dojo</li>
+									<li class="active">Porto Alegre Dojo</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>Nova Petrópolis Dojo</h2>
+								<h2>Porto Alegre Dojo</h2>
 							</div>
 						</div>
 					</div>
@@ -31,18 +31,8 @@ include_once('header.php');
 							<div id="google-dojo" class="google-map"></div>
 
 						</div>
-						
-							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-								<li class="col-md-4	 no-pin isotope-item">
-									<div class="portfolio-item img">
-										<a href="img/petropolis/fachada.jpg" class="thumb-info">
-											<img src="img/petropolis/fachada.jpg" id="petropolisFachada" class="100Width image-responsive" height="365">
-										</a>
-									</div>
-								</li>
-							</ul>
 
-						<div class="col-md-4">
+						<div class="col-md-8">
 
 							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
 
@@ -53,31 +43,27 @@ include_once('header.php');
 									<tr>
 										<th>Dia</th>
 										<th>Hora</th>
-										<th>Instrutor</th>
+										<!-- <th>Instrutor</th> -->
 									</tr>									
-										</thead>
-										<tbody>
+								</thead>
+								<tbody>
 									<tr>
 										<td>
-											Segunda
+											Terças
 										</td>
 										<td>
-											10h30 - 11h30
+											19h30 - 20h30
 										</td>
-										<td>
-											
-										</td>
+										
 									</tr>
 									<tr>
 										<td>
-											Quinta
+											Sextas
 										</td>
 										<td>
-											10h30 - 11h30
+											19h30 - 20h30
 										</td>
-										<td>
-											
-										</td>
+										
 									</tr>
 								</tbody>
 							</table>
@@ -87,7 +73,7 @@ include_once('header.php');
 
 					<hr class="tall" />
 
-					<div class="row center">
+					<div class="row">
 						<h4><strong>Responsável</strong></h4>
 						<ul class="team-list sort-destination" data-sort-id="team">
 							<li class="col-md-3 isotope-item leadership">
@@ -105,49 +91,50 @@ include_once('header.php');
 								</div>
 							</li>							
 						</ul>
-					
+
 					</div>
 
 				</div>
-<!-- 
-				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/parallax-transparent.jpg);">
+
+				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/portoalegre/dojo.jpg);">
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
-				
-								<div style="height: 150px;"></div>
-				
+
+								<div style="height: 350px;"></div>
+
 							</div>
 						</div>
 					</div>
-				</section> -->
+				</section>
 				<div class="container">
 
-					<div class="row">
-
-					<div class="col-md-12">
+					<!-- <div class="row">
+					
+						<div class="col-md-12">
 							<h3 class="short"><strong>Fotos</strong></h3>
 						</div>
-
-						  <div class="row">
-							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-								
-								<?php 
-								for ($i=1; $i < 2; $i++) { 
-								?>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/petropolis/petropolis<?=$i;?>.jpg" class="thumb-info">
-												<img src="img/petropolis/petropolis<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
+					
+						<div class="row">
+								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+									<li class="col-md-3 no-pin isotope-item">
+										<div class="portfolio-item img-thumbnail">
+											<a href="img/bento/inauguracao_bento.jpg" class="thumb-info">
+												<img src="img/bento/inauguracao_bento.jpg" class="image-responsive" height="200" width="400">
 											</a>
 										</div>
 									</li>
-									<?								
-								} ?>
-							</ul> 
-						</div> 						
-
-					</div>
+									<li class="col-md-3 no-pin isotope-item">
+										<div class="portfolio-item img-thumbnail">
+											<a href="img/bento/bento2.jpg" class="thumb-info">
+												<img src="img/bento/bento2.jpg" class="image-responsive" height="200" width="400">
+											</a>
+										</div>
+									</li>
+								</ul>
+							</div>
+					
+					</div> -->
 
 				</div>
 
@@ -196,8 +183,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Rua Frederico Michaelsen, 443 - Nova Petrópolis / RS",
-				html: "<strong>Dojo Kobukan / Academia sport fitness</strong><br>Rua Frederico Michaelsen, 443 - Centro - Nova Petrópolis / RS",
+				address: "Av. guilherme alves, 1315 - Porto Alegre - RS",
+				html: "<strong>Dojo Kobukan</strong><br>Av. guilherme alves, 1315 - Porto Alegre - RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -207,8 +194,8 @@ include_once('header.php');
 			}];
 
 			// Map Initial Location
-			var initLatitude = -29.374935;
-			var initLongitude =  -51.112486;
+			var initLatitude  = -30.059142;
+			var initLongitude = -51.190560;
 
 			// Map Extended Settings
 			var mapSettings = {
@@ -225,7 +212,7 @@ include_once('header.php');
 				markers: mapMarkers,
 				latitude: initLatitude,
 				longitude: initLongitude,
-				zoom: 15
+				zoom: 16
 			};
 
 			var map = $("#google-dojo").gMap(mapSettings);

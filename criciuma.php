@@ -63,10 +63,10 @@ include_once('header.php');
 											Quarta
 										</td>
 										<td>
-											19h - 20h30
+											19h - 20h
 										</td>
 										<td>
-											Grégori
+											Leandro
 										</td>
 									</tr>
 									<tr>
@@ -77,7 +77,7 @@ include_once('header.php');
 											19h - 20h30
 										</td>
 										<td>
-											Grégori
+											Cristiano
 										</td>
 									</tr>
 									<tr>
@@ -119,7 +119,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/cristiano.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Cristiano</span>
-											<span class="thumb-info-type">Nidan (2º Dan)</span>
+											<span class="thumb-info-type">Sandan (3º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
@@ -130,14 +130,14 @@ include_once('header.php');
 							<li class="col-md-3 isotope-item marketing">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/gregori.jpg">
+										<img class="img-responsive" alt="" src="img/team/leandro.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Grégori</span>
-											<span class="thumb-info-type">Nidan (2º Dan)</span>
+											<span class="thumb-info-inner">Leandro</span>
+											<span class="thumb-info-type">Shodan (1º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
-										<p>Grégori Lino</p>										
+										<p>Leandro Sartor Pereira</p>										
 									</span>
 								</div>
 							</li>

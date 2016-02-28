@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Gramado | Rua Santos Dumont, 330 - Piratini, Gramado / RS';
+$title = 'Dojo Gramado | Rua Tristão de oliveira, 345 - Gramado / RS';
 include_once('header.php');
 ?>
 
@@ -103,10 +103,10 @@ include_once('header.php');
 										<tbody>
 									<tr>
 										<td>
-											Terça
+											Segunda
 										</td>
 										<td>
-											19h15 - 20h30 
+											20h - 21h 
 										</td>
 										<td>
 											Eduardo
@@ -114,10 +114,10 @@ include_once('header.php');
 									</tr>
 									<tr>
 										<td>
-											Quinta
+											Quarta
 										</td>
 										<td>
-											19h15 - 20h30
+											20h30 - 21h30
 										</td>
 										<td>
 											Eduardo
@@ -241,8 +241,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "R. Santos Dumont, Piratini - Gramado/RS",
-				html: "<strong>Dojo Kobukan Gramado</strong><br>R. Santos Dumont, Piratini - Gramado/RS",
+				address: "R. Tristão de oliveira, 345 - Gramado/RS",
+				html: "<strong>Dojo Kobukan Gramado</strong><br>R. Tristão de oliveira, 345 - Gramado/RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -251,9 +251,10 @@ include_once('header.php');
 				popup: true
 			}];
 
-			// Map Initial Location
-			var initLatitude = -28.440777;
-			var initLongitude =  -48.952442;
+			// Map Initial Location 
+
+			var initLatitude  = -29.374701;
+			var initLongitude = -50.881197;
 
 			// Map Extended Settings
 			var mapSettings = {

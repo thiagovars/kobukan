@@ -67,15 +67,17 @@ include_once('header.php');
 								</div>
 							</div>
 
+
+						</div>
+
+						<div class="row center">
+
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="800">
 									<a href="imarui.php"><img src="img/map-dojo-imarui.jpg" alt="" /></a>
 									<strong>Imaruí-SC</strong>
 								</div>
 							</div>
-
-						</div>
-						<div class="row center">
 						
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
@@ -97,14 +99,11 @@ include_once('header.php');
 									<strong>Bento Gonçalves-RS</strong>
 								</div>
 							</div>
-							
-              <div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
-									<a href="ivoti.php"><img src="img/map-dojo-ivoti.jpg" alt="" /></a>
-									<strong>Ivoti-RS</strong>
-								</div>
-							</div>
 
+						</div>
+
+						<div class="row center">
+						
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="gramado.php"><img src="img/map-dojo-gramado.jpg" alt="" /></a>
@@ -112,19 +111,31 @@ include_once('header.php');
 								</div>
 							</div>
 
-						</div>
-						<div class="row center">
-							<div class="col-md-6">
+							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="petropolis.php"><img src="img/map-dojo-petropolis.jpg" alt="" /></a>
 									<strong>Nova Petrópolis-RS</strong>
 								</div>
 							</div>
 
-							<div class="col-md-6">
+							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="canela.php"><img src="img/map-dojo-canela.jpg" alt="" /></a>
 									<strong>Canela-RS</strong>
+								</div>
+							</div>
+
+							<div class="col-md-2">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+									<a href="portoalegre.php"><img src="img/map-dojo-portoalegre.jpg" alt="" /></a>
+									<strong>Porto alegre-RS</strong>
+								</div>
+							</div>
+							
+        			<div class="col-md-2">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+									<a href="ivoti.php"><img src="img/map-dojo-ivoti.jpg" alt="" /></a>
+									<strong>Ivoti-RS</strong>
 								</div>
 							</div>
 						</div>
