@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Farroupilha | R. Bortolo Grendene, 275 Casa 03 - Imigrante - Farroupilha / RS';
+$title = 'Dojo Farroupilha | R. 14 de julho, 74 - Farroupilha / RS';
 include_once('header.php');
 ?>
 
@@ -199,8 +199,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "R. Cel. Pena de Moraes, 500 - Centro Farroupilha - RS",
-				html: "<strong>Dojo Kobukan</strong><br>R. Bortolo Grendene, 275 Casa 03 - Imigrante - Farroupilha / RS",
+				address: "Rua 14 de julho, 74 - Farroupilha - RS",
+				html: "<strong>Dojo Kobukan</strong><br>R. 14 de julho, 74 - Farroupilha / RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -209,9 +209,9 @@ include_once('header.php');
 				popup: true
 			}];
 
-			// Map Initial Location -29.233141, -51.346953
-			var initLatitude = -29.233141;
-			var initLongitude =  -51.346953;
+			// Map Initial Location -29.224404, -51.349635
+			var initLatitude = -29.224404;
+			var initLongitude =  -51.349635;
 
 			// Map Extended Settings
 			var mapSettings = {
