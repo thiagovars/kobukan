@@ -253,12 +253,13 @@ include_once('header.php');
 										Silveira.</p>
 									<p class="tall">Em 2015 graduou-se ikkyu de jodo no chile, no dia 11 de janeiro.</p>
 									<p class="tall">Em junho inicia seus estudos de shodo (caligrafia japonesa) com sensei Arima, da
-									colônia japonesa de ivoti. Em Agosto inicia os trabalhos na cidade de Gramado e no dia 29 gradua-se
-									faixa preta em Iaido na cidade de São Paulo. Em setembro inicia os trabalhos na cidade de Nova Petrópolis.</p>
-									<p class="tall">Em outubro participou de curso de bonsai, na loja <b>Bonsai Ideal</b> em Novo Hamburgo.</p>
+										colônia japonesa de ivoti. Em Agosto inicia os trabalhos na cidade de Gramado e no dia 29 gradua-se
+										faixa preta em Iaido na cidade de São Paulo. Em setembro inicia os trabalhos na cidade de Nova Petrópolis.</p>
+									<p class="tall">Em outubro participou de curso de bonsai, na loja <b>Bonsai Ideal</b> em Novo Hamburgo. Sensei
+										Thiago Silveira (dojo de porto alegre) também realizou um curso semelhante em 2010 na loja <b>Viva Bonsai</b> em porto alegre.</p>
 									<p class="tall">Em novembro iniciou estudos da cerimônia do chá, com a sensei Teresa Sell.</p>
 									<p class="tall">Em dezembro formou mais cinco shodans e um sandan. Também neste mesmo mês, organizou o 1º festival de
-									cultura japonesa de Nova Petrópolis.</p>
+										cultura japonesa de Nova Petrópolis.</p>
 
 								</div>
 							</div>
