@@ -49,35 +49,24 @@ include_once('header.php');
 								<tbody>
 									<tr>
 										<td>
-											Segunda
-										</td>
-										<td>
-											19h15 - 20h30
-										</td>
-										<td>
-											Eduardo
-										</td>
-									</tr>
-									<tr>
-										<td>
 											Terça
 										</td>
 										<td>
-											19h15 - 20h30
+											19h30 - 20h30
 										</td>
 										<td>
-											Eduardo
+											José Paulo
 										</td>
 									</tr>
 									<tr>
 										<td>
-											Quarta
+											Quinta
 										</td>
 										<td>
-											19h15 - 20h30
+											19h30 - 20h30
 										</td>
 										<td>
-											Eduardo
+											José Paulo
 										</td>
 									</tr>
 								</tbody>
@@ -104,7 +93,21 @@ include_once('header.php');
 										<p>Eduardo Corrêa</p>
 									</span>
 								</div>
-							</li>							
+							</li>	
+							<li class="col-md-3 isotope-item leadership">
+								<div class="team-item thumbnail">
+									<span class="thumb-info team">
+										<img class="img-responsive" alt="" src="img/team/ze.jpg">
+										<span class="thumb-info-title">
+											<span class="thumb-info-inner">José Paulo</span>
+											<span class="thumb-info-type">3º kuy</span>
+										</span>
+									</span>
+									<span class="thumb-info-caption">
+										<p>José Paulo Aquini Camargo</p>
+									</span>
+								</div>
+							</li>						
 						</ul>
 
 					</div>
