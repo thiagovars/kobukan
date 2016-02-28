@@ -57,7 +57,7 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i < 31; $i++) { 
+					for ($i=1; $i < 25; $i++) { 
 						$foto = str_pad($i, 3, 0, STR_PAD_LEFT);
 					 ?>
 							<li class="col-md-3 no-pin">

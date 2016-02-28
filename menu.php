@@ -1,13 +1,14 @@
 <?php 
+// esses nomes de página dizem qual é o menu ativo no menu superior. 
+// toda nova página deve ser inserida no array de sua respectiva área.
 $area = explode('.', $PHP_SELF);
 $area = explode(DIRECTORY_SEPARATOR, $area[0]);
 $area = $area[1];
 
 $aikido          = array('mestres', 'aikido');
 $dojos           = array('capivari', 'criciuma', 'farroupilha', 'icara', 'imarui', 'ivoti', 'laguna', 'tubarao', 'gramado', 'canela', 'petropolis', 'portoalegre');
-
 $glossario       = array('glossario', 'tecnicas');
-$culturaOriental = array('fengshui', 'ikebana', 'sumie', 'CulturaOriental');
+$culturaOriental = array('fengshui', 'ikebana', 'sumie', 'CulturaOriental', 'chanoyu', 'bonsai', 'shodo');
 $acupuntura      = array('acupuntura', 'shiatsu');
 
 $aikido          = (in_array($area, $aikido))          ? 'active' : '';
@@ -99,9 +100,12 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                     <i class="icon icon-angle-down"></i>
                   </a>
                   <ul class="dropdown-menu">
-                    <li><a href="fengshui.php">Fengshui</a></li>
-                    <li><a href="ikebana.php">Ikebana</a></li>
-                    <li><a href="sumie.php">Sumie</a></li>
+                    <li><a href="bonsai.php"         >Bonsai</a></li>
+                    <li><a href="chanoyu.php"        >Chanoyu</a></li>
+                    <li><a href="fengshui.php"       >Fengshui</a></li>
+                    <li><a href="ikebana.php"        >Ikebana</a></li>
+                    <li><a href="shodo.php"          >Shodo</a></li>
+                    <li><a href="sumie.php"          >Sumie</a></li>
                     <li><a href="culturaoriental.php">Fotos</a></li>
                   </ul>
                 </li>
