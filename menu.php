@@ -6,7 +6,7 @@ $area = explode(DIRECTORY_SEPARATOR, $area[0]);
 $area = $area[1];
 
 $aikido          = array('mestres', 'aikido');
-$dojos           = array('capivari', 'criciuma', 'farroupilha', 'icara', 'imarui', 'ivoti', 'laguna', 'tubarao', 'gramado', 'canela', 'petropolis', 'portoalegre');
+$dojos           = array('capivari', 'criciuma', 'farroupilha', 'icara', 'imarui', 'ivoti', 'laguna', 'tubarao', 'gramado', 'petropolis', 'portoalegre');
 $glossario       = array('glossario', 'tecnicas');
 $culturaOriental = array('fengshui', 'ikebana', 'sumie', 'CulturaOriental', 'chanoyu', 'bonsai', 'shodo');
 $acupuntura      = array('acupuntura', 'shiatsu');
@@ -59,7 +59,7 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                   <ul class="dropdown-menu">
                     <li><a href="bento.php"      >Bento Gonçalves</a></li>
                     <li><a href="capivari.php"   >Capivari de baixo</a></li>
-                    <li><a href="canela.php"     >Canela</a></li>
+                    <!-- <li><a href="canela.php"     >Canela</a></li> -->
                     <li><a href="criciuma.php"   >Criciúma</a></li>
                     <li><a href="farroupilha.php">Farroupilha</a></li>
                     <li><a href="gramado.php"    >Gramado</a></li>

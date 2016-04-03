@@ -61,11 +61,7 @@ include_once('header.php');
 									</tr>
 									<tr>
 										<td>
-<<<<<<< HEAD
 											Quinta
-=======
-											Quarta
->>>>>>> 36f00e3183aa6fbd40548d92cbd1a2c625fef465
 										</td>
 										<td>
 											19h30 - 21h
@@ -140,7 +136,6 @@ include_once('header.php');
 
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-<<<<<<< HEAD
 									<?php 
 									for ($i=1; $i < 12; $i++) { 
 										?>
@@ -154,43 +149,6 @@ include_once('header.php');
 									<?php
 									}
 									?>
-=======
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/tubarao/fabricio.jpg" class="thumb-info">
-												<img src="img/tubarao/fabricio.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/tubarao/natalia.jpg" class="thumb-info">
-												<img src="img/tubarao/natalia.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/tubarao/tubarao.jpg" class="thumb-info">
-												<img src="img/tubarao/tubarao.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/tubarao/tubarao3.jpg" class="thumb-info">
-												<img src="img/tubarao/tubarao3.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/tubarao/tubarao4.jpg" class="thumb-info">
-												<img src="img/tubarao/tubarao4.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
->>>>>>> 36f00e3183aa6fbd40548d92cbd1a2c625fef465
 								</ul>
 							</div>
 
