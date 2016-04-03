@@ -1,5 +1,5 @@
 <?php 
-$title = "Chanoyu | A Cerimônia do Chá";
+$title = "Chadô | A Cerimônia do Chá";
 include_once('header.php');
 ?>
 
@@ -11,13 +11,13 @@ include_once('header.php');
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="./">Home</a></li>
-									<li class="active">Chanoyu</li>
+									<li class="active">Chadô</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>Chanoyu</h2>
+								<h2>Chadô</h2>
 							</div>
 						</div>
 					</div>
@@ -27,7 +27,7 @@ include_once('header.php');
 
 					<div class="row">
 						<div class="col-md-12" data-appear-animation="fadeInUp">
-							<h3><strong>Chanoyu:</strong> A Cerimônia do Chá</h3>
+							<h3><strong>Chadô:</strong> A Cerimônia do Chá (Chanoyu)</h3>
 							<p class="drop-caps">
 								Embora o termo Cerimônia do Chá seja de origem japonesa foi na China que o arbusto do chá foi descoberto, mais especificamente
 								no sudoeste da China, nas províncias de Shichuan e Yunnan. Inicialmente a planta (da família das camélias) era utilizada como 
@@ -77,12 +77,12 @@ include_once('header.php');
 								dois dos maiores líderes do Japão, Oda Nobunaga e Toyotomi Hideyoshi, sendo este último responsável por seu sucesso e sua morte por Seppuku. 
 						  </p>
 							<p class="drop-caps">
-								Seu neto Sotan, que continuou o legado da família Sen, foi um monge dedicado apenas ao Chanoyu. Teve quatro filhos sendo que três deles foram 
+								Seu neto Sotan, que continuou o legado da família Sen, foi um monge dedicado apenas ao Chadô. Teve quatro filhos sendo que três deles foram 
 								os responsáveis pelas maiores escolas de chá do mundo: Urasenke, Omotesenke e Mushanokoji Senke. 
 						  </p>
 							<p class="drop-caps">
-								Sensei Angélica e Sensei Eduardo são discípulos da Sensei Teresa Sell, de Florianópolis, que pratica o Chadô há mais de vinte anos. A mestra 
-								que é responsável pelo espaço Wulin práticas orientais, também ensina Tai Chi Chuan e Chi Kung. 
+								Sensei Angélica e Sensei Eduardo são discípulos da Sensei Teresa Sell, de Florianópolis, que pratica o Chadô há mais de vinte anos. O Espaço Wulin
+								segue a escola Dai Nihon Saddo Gakai, de chá que fica no Japão. A mestra que é responsável pelo espaço Wulin práticas orientais, também ensina Tai Chi Chuan e Chi Kung.
 						  </p>
 						</div>
 					</div>

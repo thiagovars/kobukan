@@ -58,8 +58,8 @@ include_once('header.php');
 							<ul class="lightbox list-unstyled" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}' data-appear-animation="fadeInLeft">
 								<li class="col-md-3 isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/sensei-duardo.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/office-3.jpg" width="200" />
+										<a href="img/acupuntura/diploma.jpg" class="thumb-info">
+											<img class="image-responsive" src="img/acupuntura/diploma.jpg" width="200" />
 										</a>
 									</div>
 								</li>
@@ -69,6 +69,9 @@ include_once('header.php');
 							 e local (nas colônias japonesas) até meados da década de 80, quando ainda era foco de preconceito, apontada ao lado de casos de 
 							 charlatanismo e esoterismo.</p>
 
+							<p class="tall">Sensei Eduardo é formado em acupuntura pela escola CBES desde 2010 e atende atualmente na estética Lisa Beuty em
+							Nova Petrópolis.</p>
+
 						</div>						
 					</div>
 
@@ -77,62 +80,26 @@ include_once('header.php');
 					<div class="row">
 						<div class="col-md-12" data-appear-animation="fadeInUp">
 							<ul class="lightbox list-unstyled" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}' data-appear-animation="fadeInLeft">
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/acupuncture.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/acupuncture.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/acupuntura.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/acupuntura.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/acupuntura-03.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/acupuntura-03.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/acupuntura-pies.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/acupuntura-pies.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/acupuntura-sistemica-01.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/acupuntura-sistemica-01.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/auriculoterapia.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/auriculoterapia.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/images.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/images.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
-								<li class="col-md-3 isotope-item">
-									<div class="portfolio-item img-thumbnail">
-										<a href="img/acupuntura/diploma.jpg" class="thumb-info">
-											<img class="image-responsive" src="img/acupuntura/diploma.jpg" width="200" height="230" />
-										</a>
-									</div>
-								</li>
+								<li class="col-md-3 no-pin">
+										<div class="img-thumbnail">
+											<a href="img/acupuntura/diploma.jpg" class="thumb-info">
+												<img src="img/acupuntura/diploma.jpg" class="image-responsive"  height="200" width="400">
+											</a>
+										</div>
+									</li>
+								<?php 
+								for ($i=1; $i < 7; $i++) { 
+								?>
+									<li class="col-md-3 no-pin">
+										<div class="img-thumbnail">
+											<a href="img/acupuntura/acupuntura<?=$i;?>.jpg" class="thumb-info">
+												<img src="img/acupuntura/acupuntura<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
+											</a>
+										</div>
+									</li>
+									<?								
+								} ?>
+
 							</ul>
 						</div>
 					</div>

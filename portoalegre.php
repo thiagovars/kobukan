@@ -58,7 +58,7 @@ include_once('header.php');
 									</tr>
 									<tr>
 										<td>
-											Sextas
+											Quintas
 										</td>
 										<td>
 											19h30 - 20h30

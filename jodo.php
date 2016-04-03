@@ -37,7 +37,7 @@ include_once('header.php');
 							enquanto uma mão tem yin, a outra terá yang, trabalhando ambas em harmonia.</p>
 
 							<p class="tall">O treino com o Jô (pronuncia-se Diô) permite o desenvolvimento da harmonia entre o praticante e a arma de modo que 
-							essa se torne uma extensão do corpo do praticante. Graças a comunhão ente o ser humano e a espada que aprende-se a 
+							essa se torne uma extensão do corpo do praticante. Graças a comunhão ente o ser humano e o bastão que aprende-se a 
 							canalizar e projetar a energia conhecida como ki, através da arma para além do nosso corpo.</p>
 
 							<p class="tall">É uma arma simples que possui nobre história e extrema complexidade técnica. Desenvolve a intuição 
@@ -51,7 +51,9 @@ include_once('header.php');
 								Sempai  Angélica Philippe Corrêa treina Jodo desde 2012 e é responsável técnica pelo grupo de estudos de Jodo da Akipa de Porto Alegre.
 								Tendo experiência no bastão do aikido(aikijo) desde 2009 buscou ampliar os estudos no bastão buscando outra escola(jodo seitei). 
 								Participou de treinamentos no Rio de Janeiro sob a orientação técnica de Sensei  Endo e Sempai Alex Cavalcanti do Rio Jodokai. 
-								Em janeiro de 2015 gradou Ikkyu(faixa marrom) em Santiago no Chile, sendo uma das primeiras jodokas brasileiras a ter graduação reconhecida pela Confederação Brasileira de Kendo.
+								Em janeiro de 2015 gradou Ikkyu(faixa marrom) em Santiago no Chile, tendo aula com o sensei Shiori(4º Dan) e Guilhermo Vargas (3º Dan),
+								sendo uma das primeiras jodokas brasileiras a ter graduação reconhecida pela Confederação Brasileira de Kendo. Em março de 2016 participou
+								do primeiro seminário internacional de jodo ministrado por sensei Kim Taylor (5º Dan) do Canadá.
 							</p>
 
 							<hr class="tall">

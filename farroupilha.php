@@ -52,10 +52,10 @@ include_once('header.php');
 											Terça
 										</td>
 										<td>
-											19h30 - 20h30
+											19h00 - 20h30
 										</td>
 										<td>
-											José Paulo
+											Eduardo
 										</td>
 									</tr>
 									<tr>
@@ -63,10 +63,10 @@ include_once('header.php');
 											Quinta
 										</td>
 										<td>
-											19h30 - 20h30
+											19h00 - 20h30
 										</td>
 										<td>
-											José Paulo
+											Eduardo
 										</td>
 									</tr>
 								</tbody>
@@ -123,7 +123,7 @@ include_once('header.php');
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									<?php 
-									for ($i=0; $i < 15; $i++) { 
+									for ($i=0; $i < 5; $i++) { 
 									 ?>
 									
 									<li class="col-md-3 no-pin isotope-item">

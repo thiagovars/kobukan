@@ -27,7 +27,7 @@ include_once('header.php');
 
 					<div class="row">
 						<div class="col-md-12" data-appear-animation="fadeInUp">
-							<h3><strong>Bonsai:</strong> A Cerimônia do Chá</h3>
+							<h3><strong>Bonsai:</strong> A natureza em miniatura</h3>
 							<p class="drop-caps">
 								Embora o nome bonsai seja de origem japonesa, foi na China que a arte foi criada com o nome de pun-sai durante a 
 								dinastia ch´in (246aC - 207aC). Hoje na China é muito comum o uso do Bonsai com paisagens em miniatura, arte denominada 
@@ -71,7 +71,7 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i < 7; $i++) { 
+					for ($i=1; $i < 17; $i++) { 
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">

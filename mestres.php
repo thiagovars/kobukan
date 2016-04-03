@@ -241,7 +241,7 @@ include_once('header.php');
 										gradua-se Ikkyu de Iaido na cidade de Suzano, integrante da Akipa Nambukan, de Porto 
 										Alegre/RS, do qual participa. Em outubro seu aluno Samuel Medeiros inaugura um novo Dojo 
 										Kobukan (sexta unidade de Santa Catarina) na cidade de Capivari de Baixo. Desde o início, 
-										desde 1999, a Kobukan formou mais de 15 faixas-pretas, sendo destes, um shodan e dois nidans. 
+										desde 1999, a Kobukan formou mais de 15 faixas-pretas, sendo destes, um sandan e dois nidans. 
 										No estado do Rio Grande do Sul tem contribuído com assistência técnica ao Dojo Millenium Arts, do
 										Sensei Manuel Valim, na cidade de Ivoti, conduz grupo da Kobukan em Porto Alegre/RS e 
 										inicia em novembro os trabalhos em Bento Gonçalves, na Serra Gaúcha. Atualmente, além das 

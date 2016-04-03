@@ -59,8 +59,11 @@ include_once('header.php');
 							<p class="drop-caps">
 							O Shiatsu libera a dopamina (anti-depressiva) e endorfina, substância que funciona no organismo como anti-inflamatório natural.
 							Além do uso para relaxamento do corpo, a técnica é recomendada para os casos de torcicolo, lombalgia, dor ciática, enxaqueca, sinusite,
-							depressão, pressão alta e dores musculares em geral.
-							</p>
+							depressão, pressão alta e dores musculares em geral.</p>
+
+							<p class="drop-caps">
+							Sensei Eduardo é discipulo do grande mestre Yasui da escola Atsu-kaai de porto alegre, e aplica shiatsu desde 1999. Atualmente atende
+							na estética Lisa Buety em Nova Petrópolis.</p>
 							<p class="tall">&nbsp;</p>
 						</div>
 					</div>

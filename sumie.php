@@ -31,8 +31,8 @@ include_once('header.php');
 							<p class="drop-caps">
 							Originário da China, o Sumi-ê  (ou Sumie) foi conduzido 
 							ao Japão no século XIII por monges Zen budistas. Seu termo 
-							deriva de  Sumi (tinta preta) e ê (desenho, pintura): pintura 
-							em tinta preta. Muito mais como um caminho para paz espiritual 
+							deriva de  Sumi (carvão) e ê (desenho, pintura): pintura 
+							em carvão. Muito mais como um caminho para paz espiritual 
 							do que propriamente uma representação artística, o pintor deve 
 							buscar atingir a simplicidade em sua representação monocromática.
 							  Comparável ao movimento da espada, a pena (pincel), não permite 
@@ -49,6 +49,10 @@ include_once('header.php');
 						  representação captada pela observação atenta do objeto. A assimetria, 
 						  singeleza, naturalidade, profundidade, desapego, concentração, quietude 
 						  e serenidade são algumas de suas características.</p>
+						  <p class="drop-caps">
+					  	Sensei Angélica pinta sumies há seis anos e aceita encomendas de tema, ao
+					  	custo de R$ 50,00 a unidade.
+						  </p>
 						</div>
 					</div>
 

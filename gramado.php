@@ -59,10 +59,10 @@ include_once('header.php');
 										<tbody>
 									<tr>
 										<td>
-											Terça
+											Segunda
 										</td>
 										<td>
-											18h30 - 19h15 
+											20H00 - 21h00 
 										</td>
 										<td>
 											Eduardo
@@ -70,10 +70,10 @@ include_once('header.php');
 									</tr>
 									<tr>
 										<td>
-											Quinta
+											Quarta
 										</td>
 										<td>
-											18h30 - 19h15
+											20H00 - 21h00
 										</td>
 										<td>
 											Eduardo
@@ -106,7 +106,7 @@ include_once('header.php');
 											Segunda
 										</td>
 										<td>
-											20h - 21h 
+											21h00 - 22h00 
 										</td>
 										<td>
 											Eduardo
@@ -117,7 +117,7 @@ include_once('header.php');
 											Quarta
 										</td>
 										<td>
-											20h30 - 21h30
+											21h00 - 22h00
 										</td>
 										<td>
 											Eduardo
@@ -178,7 +178,7 @@ include_once('header.php');
 							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								
 								<?php 
-								for ($i=1; $i < 17; $i++) { 
+								for ($i=1; $i < 15; $i++) { 
 								?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">

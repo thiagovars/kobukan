@@ -62,10 +62,10 @@ include_once('header.php');
 											Segunda
 										</td>
 										<td>
-											10h30 - 11h30
+											10h30 - 12h00<BR> 17h00 - 18h30
 										</td>
 										<td>
-											
+											Eduardo
 										</td>
 									</tr>
 									<tr>
@@ -73,10 +73,10 @@ include_once('header.php');
 											Quinta
 										</td>
 										<td>
-											10h30 - 11h30
+											10h30 - 12h00
 										</td>
 										<td>
-											
+											Eduardo
 										</td>
 									</tr>
 								</tbody>

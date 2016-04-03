@@ -101,9 +101,9 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                   </a>
                   <ul class="dropdown-menu">
                     <li><a href="bonsai.php"         >Bonsai</a></li>
-                    <li><a href="chanoyu.php"        >Chanoyu</a></li>
+                    <li><a href="chanoyu.php"        >Chadô</a></li>
                     <li><a href="fengshui.php"       >Fengshui</a></li>
-                    <li><a href="ikebana.php"        >Ikebana</a></li>
+                    <li><a href="ikebana.php"        >kadô</a></li>
                     <li><a href="shodo.php"          >Shodo</a></li>
                     <li><a href="sumie.php"          >Sumie</a></li>
                     <li><a href="culturaoriental.php">Fotos</a></li>
