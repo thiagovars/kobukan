@@ -120,13 +120,6 @@ include_once('header.php');
 
 							<div class="col-md-2">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
-									<a href="canela.php"><img src="img/map-dojo-canela.jpg" alt="" /></a>
-									<strong>Canela-RS</strong>
-								</div>
-							</div>
-
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
 									<a href="portoalegre.php"><img src="img/map-dojo-portoalegre.jpg" alt="" /></a>
 									<strong>Porto alegre-RS</strong>
 								</div>
