@@ -178,7 +178,7 @@ include_once('header.php');
 							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								
 								<?php 
-								for ($i=1; $i < 15; $i++) { 
+								for ($i=1; $i < 17; $i++) { 
 								?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">

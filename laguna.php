@@ -144,7 +144,7 @@ include_once('header.php');
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									<?php 
-									for ($i=1; $i < 5; $i++) {
+									for ($i=1; $i < 10; $i++) {
 										?>
 										<li class="col-md-3 no-pin isotope-item">
 											<div class="portfolio-item img-thumbnail">

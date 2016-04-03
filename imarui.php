@@ -132,62 +132,21 @@ include_once('header.php');
 
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+									
+									<?php 
+								for ($i=1; $i < 11; $i++) { 
+								?>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">
-											<a href="img/imarui/imarui.jpg" class="thumb-info">
-												<img src="img/imarui/imarui.jpg" class="image-responsive" height="200" width="400">
+											<a href="img/imarui/imarui<?=$i;?>.jpg" class="thumb-info">
+												<img src="img/imarui/imarui<?=$i;?>.jpg" class="image-responsive" height="200" width="400">
 											</a>
 										</div>
 									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/imarui/imarui2.jpg" class="thumb-info">
-												<img src="img/imarui/imarui2.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/imarui/imarui3.jpg" class="thumb-info">
-												<img src="img/imarui/imarui3.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/imarui/imarui4.jpg" class="thumb-info">
-												<img src="img/imarui/imarui4.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/imarui/imarui5.jpg" class="thumb-info">
-												<img src="img/imarui/imarui5.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/imarui/imarui6.jpg" class="thumb-info">
-												<img src="img/imarui/imarui6.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/imarui/imarui7.jpg" class="thumb-info">
-												<img src="img/imarui/imarui7.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/imarui/imarui8.jpg" class="thumb-info">
-												<img src="img/imarui/imarui8.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
+								<?php
+								}
+								?>
+
 								</ul>
 							</div>						
 

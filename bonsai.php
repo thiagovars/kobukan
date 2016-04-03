@@ -71,7 +71,7 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i < 17; $i++) { 
+					for ($i=1; $i < 18; $i++) { 
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">

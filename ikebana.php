@@ -38,7 +38,7 @@ include_once('header.php');
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 							
 							<?php 
-							for ($i=1; $i < 17; $i++) { 
+							for ($i=1; $i < 19; $i++) { 
 								?>
 								<li class="col-md-3 no-pin isotope-item">
 									<div class="portfolio-item img-thumbnail">

@@ -116,7 +116,7 @@ include_once('header.php');
 									
 									<?php 
 
-									for ($i=1; $i < 14; $i++) { 
+									for ($i=1; $i < 26; $i++) { 
 										
 									?>
 									<li class="col-md-3 no-pin isotope-item">
@@ -129,35 +129,6 @@ include_once('header.php');
 									<?php
 									}
 									?>
-									<!-- 
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/aikijo/ch02-04.jpg" class="thumb-info">
-												<img src="img/aikijo/ch02-04.jpg" class="image-responsive"  height="200">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/aikijo/ueshiba_aikijo.jpg" class="thumb-info">
-												<img src="img/aikijo/ueshiba_aikijo.jpg" class="image-responsive"  height="200">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/aikijo/2004-07-02.jpg" class="thumb-info">
-												<img src="img/aikijo/2004-07-02.jpg" class="image-responsive"  height="200">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/aikijo/Jo.jpg" class="thumb-info">
-												<img src="img/aikijo/Jo.jpg" class="image-responsive"  height="200">
-											</a>
-										</div>
-									</li> -->
 
 								</ul>
 							</div>
