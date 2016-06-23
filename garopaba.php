@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Garopaba | Rua Tristão de oliveira, 345 - Garopaba / RS';
+$title = 'Dojo Garopaba | ESTRADA GERAL DO OUVIDOR, S/NO., SALA 4, BAIRRO CAMPO DUNA - Garopaba / SC';
 include_once('header.php');
 ?>
 
@@ -192,8 +192,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "R. Tristão de oliveira, 345 - Garopaba/RS",
-				html: "<strong>Dojo Kobukan Garopaba</strong><br>R. Tristão de oliveira, 345 - Garopaba/RS",
+				address: "ESTRADA GERAL DO OUVIDOR, BAIRRO CAMPO DUNA - Garopaba / SC",
+				html: "<strong>Dojo Kobukan Garopaba</strong><br>ESTRADA GERAL DO OUVIDOR, S/NO., SALA 4, BAIRRO CAMPO DUNA - Garopaba / SC",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
