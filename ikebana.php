@@ -38,12 +38,12 @@ include_once('header.php');
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 							
 							<?php 
-							for ($i=1; $i < 19; $i++) { 
+							for ($i=1; $i <= 22; $i++) { 
 								?>
 								<li class="col-md-3 no-pin isotope-item">
 									<div class="portfolio-item img-thumbnail">
-										<a href="img/ikebana/<?php echo 'ikebana' . $i; ?>.JPG" class="thumb-info">
-											<img src="img/ikebana/<?php echo 'ikebana' . $i; ?>.JPG" class="image-responsive" height="200" width="400">
+										<a href="img/ikebana/ikebana<?php echo $i; ?>.JPG" class="thumb-info">
+											<img src="img/ikebana/ikebana<?php echo $i; ?>.JPG" class="image-responsive" height="200" width="400">
 										</a>
 									</div>
 								</li>

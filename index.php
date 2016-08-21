@@ -10,11 +10,8 @@ include_once('header.php');
 							<li data-transition="fade" data-slotamount="13" data-masterspeed="300" >
 								<img src="img/slides/geral.jpg" data-bgfit="cover" data-bgposition="left 20%" data-bgrepeat="no-repeat">
 							</li>
-							<li data-transition="fade" data-slotamount="13" data-masterspeed="300" >
-								<img src="img/slides/slide.jpg" data-bgfit="cover" data-bgposition="left top" data-bgrepeat="no-repeat">
-							</li>
 						 	<li data-transition="fade" data-slotamount="13" data-masterspeed="300" >
-								<img src="img/slides/kawai-sensei2.jpg" data-bgfit="cover" data-bgposition="left 20%" data-bgrepeat="no-repeat">
+								<img src="img/slides/capa.jpg" data-bgfit="cover" data-bgposition="left 20%" data-bgrepeat="no-repeat">
 							</li>
 							<li data-transition="fade" data-slotamount="13" data-masterspeed="300" >
 								<img src="img/slides/slide2.jpg" data-bgfit="cover" data-bgposition="left 44%" data-bgrepeat="no-repeat">
@@ -39,28 +36,28 @@ include_once('header.php');
 				
 						<div class="row center">
 							
-							<div class="col-md-2 col-md-offset-0">
+							<div class="col-md-3 col-md-offset-0">
 								<div class="process-image" data-appear-animation="bounceIn">
 									<a href="criciuma.php"><img src="img/map-dojo-criciuma.jpg" alt="" /></a>
 									<strong>Criciúma-SC</strong>
 								</div>
 							</div>
 
-							<div class="col-md-2">
+							<div class="col-md-3">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="200">
 									<a href="tubarao.php"><img src="img/map-dojo-tubarao.jpg" alt="" /></a>
 									<strong>Tubarão-SC</strong>
 								</div>
 							</div>
 
-							<div class="col-md-2">
+							<div class="col-md-3">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="400">
 									<a href="laguna.php"><img src="img/map-dojo-laguna.jpg" alt="" /></a>
 									<strong>Laguna-SC</strong>
 								</div>
 							</div>
 							
-							<div class="col-md-2">
+							<div class="col-md-3">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="600">
 									<a href="icara.php"><img src="img/map-dojo-icara.jpg" alt="" /></a>
 									<strong>Içara-SC</strong>
@@ -72,29 +69,29 @@ include_once('header.php');
 
 						<div class="row center">
 
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="800">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn">
 									<a href="imarui.php"><img src="img/map-dojo-imarui.jpg" alt="" /></a>
 									<strong>Imaruí-SC</strong>
 								</div>
 							</div>
 						
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="200">
 									<a href="capivari.php"><img src="img/map-dojo-capivari.jpg" alt="" /></a>
 									<strong>Capivari de baixo-SC</strong>
 								</div>
 							</div>
 
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1000">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="400">
 									<a href="farroupilha.php"><img src="img/map-dojo-farroupilha.jpg" alt="" /></a>
 									<strong>Farroupilha-RS</strong>
 								</div>
 							</div>
 
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="600">
 									<a href="bento.php"><img src="img/map-dojo-bento.jpg" alt="" /></a>
 									<strong>Bento Gonçalves-RS</strong>
 								</div>
@@ -104,33 +101,44 @@ include_once('header.php');
 
 						<div class="row center">
 						
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn">
 									<a href="gramado.php"><img src="img/map-dojo-gramado.jpg" alt="" /></a>
 									<strong>Gramado-RS</strong>
 								</div>
 							</div>
 
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="200">
 									<a href="petropolis.php"><img src="img/map-dojo-petropolis.jpg" alt="" /></a>
 									<strong>Nova Petrópolis-RS</strong>
 								</div>
 							</div>
 
-							<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+							<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="400">
 									<a href="portoalegre.php"><img src="img/map-dojo-portoalegre.jpg" alt="" /></a>
 									<strong>Porto alegre-RS</strong>
 								</div>
 							</div>
 							
-        			<div class="col-md-2">
-								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="1200">
+		        			<div class="col-md-3">
+								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="600">
 									<a href="ivoti.php"><img src="img/map-dojo-ivoti.jpg" alt="" /></a>
 									<strong>Ivoti-RS</strong>
 								</div>
 							</div>
+						</div>
+
+						<div class="row center">
+						
+							<div class="col-md-12">
+								<div class="process-image" data-appear-animation="bounceIn">
+									<a href="garopaba.php"><img src="img/map-dojo-garopaba.jpg" alt="" /></a>
+									<strong>Garopaba-SC</strong>
+								</div>
+							</div>
+							
 						</div>
 				
 					</div>

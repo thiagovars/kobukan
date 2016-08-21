@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Garopaba | ESTRADA GERAL DO OUVIDOR, S/NO., SALA 4, BAIRRO CAMPO DUNA - Garopaba / SC';
+$title = 'Dojo Garopaba | Estrada Geral do Ouvidor 90, Campo Duna, Garopaba - SC';
 include_once('header.php');
 ?>
 
@@ -32,15 +32,15 @@ include_once('header.php');
 
 						</div>
 						
-							<!-- <ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								<li class="col-md-4	 no-pin isotope-item">
 									<div class="portfolio-item img">
-										<a href="img/Garopaba/fachada.jpg" class="thumb-info">
-											<img src="img/Garopaba/fachada.jpg" id="GaropabaFachada" class="100Width image-responsive" height="365">
+										<a href="img/garopaba/fachada.jpg" class="thumb-info">
+											<img src="img/garopaba/fachada.jpg" id="GaropabaFachada" class="100Width image-responsive" height="365">
 										</a>
 									</div>
 								</li>
-							</ul> -->
+							</ul>
 
 						<hr class="tall">
 
@@ -49,6 +49,8 @@ include_once('header.php');
 							<h2 class="shorter">Horários para treino de <strong>Aikido</strong></h2>
 
 							<hr class="tall">
+
+							<h4 class="shorter center"><strong>Kids</strong></h2>
 
 							<table class="table table-striped">
 								<thead>
@@ -63,7 +65,7 @@ include_once('header.php');
 											Terça
 										</td>
 										<td>
-											16h30 - 18h00 
+											17h30 - 18h30 
 										</td>
 									</tr>
 									<tr>
@@ -71,9 +73,46 @@ include_once('header.php');
 											Quinta
 										</td>
 										<td>
-											18h30 - 20h00
+											17h30 - 18h30
 										</td>
 									</tr>									
+								</tbody>
+							</table>
+
+							<h4 class="shorter center"><strong>Adultos</strong></h2>
+
+							<table class="table table-striped">
+								<thead>
+									<tr>
+										<th>Dia</th>
+										<th>Hora</th>
+									</tr>									
+										</thead>
+										<tbody>
+									<tr>
+										<td>
+											Terça
+										</td>
+										<td>
+											18h30 - 20h 
+										</td>
+									</tr>
+									<tr>
+										<td>
+											Quinta
+										</td>
+										<td>
+											18h30 - 20h
+										</td>
+									</tr>
+									<tr>
+										<td>
+											Sábado
+										</td>
+										<td>
+											20h
+										</td>
+									</tr>
 								</tbody>
 							</table>
 
@@ -89,14 +128,14 @@ include_once('header.php');
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/eduardo.jpg">
+										<img class="img-responsive" alt="" src="img/team/vinicius.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Eduardo</span>
-											<span class="thumb-info-type">Yondan (4º Dan)</span>
+											<span class="thumb-info-inner">Vinicius</span>
+											<span class="thumb-info-type">Shodan (1º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
-										<p>Eduardo Corrêa</p>
+										<p>Vinicius Algarve</p>
 									</span>
 								</div>
 							</li>							
@@ -105,8 +144,8 @@ include_once('header.php');
 					</div>
 
 				</div>
-<!-- 
-				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/parallax-transparent.jpg);">
+
+				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/garopaba/parallax.jpg);">
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
@@ -116,12 +155,12 @@ include_once('header.php');
 							</div>
 						</div>
 					</div>
-				</section> -->
+				</section>
 				<div class="container">
 
 					<div class="row">
 
-					<!-- <div class="col-md-12">
+					<div class="col-md-12">
 							<h3 class="short"><strong>Fotos</strong></h3>
 						</div>
 
@@ -129,12 +168,12 @@ include_once('header.php');
 							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								
 								<?php 
-								for ($i=1; $i < 17; $i++) { 
+								for ($i=1; $i <= 14; $i++) { 
 								?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">
-											<a href="img/Garopaba/Garopaba<?=$i;?>.jpg" class="thumb-info">
-												<img src="img/Garopaba/Garopaba<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
+											<a href="img/garopaba/garopaba<?=$i;?>.jpg" class="thumb-info">
+												<img src="img/garopaba/garopaba<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
 											</a>
 										</div>
 									</li>
@@ -143,7 +182,7 @@ include_once('header.php');
 							</ul> 
 						</div> 						
 
-					</div> -->
+					</div>
 
 				</div>
 
@@ -192,8 +231,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "ESTRADA GERAL DO OUVIDOR, BAIRRO CAMPO DUNA - Garopaba / SC",
-				html: "<strong>Dojo Kobukan Garopaba</strong><br>ESTRADA GERAL DO OUVIDOR, S/NO., SALA 4, BAIRRO CAMPO DUNA - Garopaba / SC",
+				address: "Estr. Grp | 396 (Ibiraquera | Praia Rosa | Ouvidor), 100, Garopaba - SC, 88495-000, Brasil",
+				html: "<strong>Dojo Kobukan Garopaba</strong><br>Estrada geral do ouvidor, Garopaba - SC, 88495-000, Brasil",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -204,8 +243,8 @@ include_once('header.php');
 
 			// Map Initial Location 
 
-			var initLatitude  = -29.374701;
-			var initLongitude = -50.881197;
+			var initLatitude  = -28.101645;
+			var initLongitude = -48.674278;
 
 			// Map Extended Settings
 			var mapSettings = {

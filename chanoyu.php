@@ -81,8 +81,8 @@ include_once('header.php');
 								os responsáveis pelas maiores escolas de chá do mundo: Urasenke, Omotesenke e Mushanokoji Senke. 
 						  </p>
 							<p class="drop-caps">
-								Sensei Angélica e Sensei Eduardo são discípulos da Sensei Teresa Sell, de Florianópolis, que pratica o Chadô há mais de vinte anos. O Espaço Wulin
-								segue a escola Dai Nihon Saddo Gakai, de chá que fica no Japão. A mestra que é responsável pelo espaço Wulin práticas orientais, também ensina Tai Chi Chuan e Chi Kung.
+								Sensei Angélica e Sensei Eduardo são discípulos da escola Urassenke da cidade de São Paulo. A escola oriunda da família
+								do maior mestre de chanoyu, Sen Rikkyu.
 						  </p>
 						</div>
 					</div>
@@ -92,12 +92,12 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i < 14; $i++) { 
+					for ($i=1; $i < 15; $i++) { 
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">
-									<a href="img/chanoyu/<?php echo $i; ?>.jpg" class="thumb-info">
-										<img src="img/chanoyu/<?php echo $i; ?>.jpg" class="image-responsive"  height="200" width="400">
+									<a href="img/chanoyu/chanoyu<?php echo $i; ?>.jpg" class="thumb-info">
+										<img src="img/chanoyu/chanoyu<?php echo $i; ?>.jpg" class="image-responsive"  height="200" width="400">
 									</a>
 								</div>
 							</li>

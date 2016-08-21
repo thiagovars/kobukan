@@ -260,7 +260,10 @@ include_once('header.php');
 									<p class="tall">Em novembro iniciou estudos da cerimônia do chá, com a sensei Teresa Sell.</p>
 									<p class="tall">Em dezembro formou mais cinco shodans e um sandan. Também neste mesmo mês, organizou o 1º festival de
 										cultura japonesa de Nova Petrópolis.</p>
-
+									<p class="tall">
+										Em Junho de 2016 inaugura 7º dojo no estado de Santa Catarina - SC, na cidade de Garopaba.
+										Em Julho de 2016 organiza o 1º evento de cultura japonesa em Torres - RS (1º Torres Matsuri).
+									</p>
 								</div>
 							</div>
 

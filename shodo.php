@@ -98,12 +98,12 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i < 20; $i++) { 
+					for ($i=1; $i <= 25; $i++) { 
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">
-									<a href="img/shodo/<?php echo $i; ?>.jpg" class="thumb-info">
-										<img src="img/shodo/<?php echo $i; ?>.jpg" class="image-responsive"  height="200" width="400">
+									<a href="img/shodo/shodo<?php echo $i; ?>.jpg" class="thumb-info">
+										<img src="img/shodo/shodo<?php echo $i; ?>.jpg" class="image-responsive"  height="200" width="400">
 									</a>
 								</div>
 							</li>

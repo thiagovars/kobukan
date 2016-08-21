@@ -32,7 +32,7 @@ include_once('header.php');
 
 						</div>
 						
-							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+							<!-- <ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								<li class="col-md-4	 no-pin isotope-item">
 									<div class="portfolio-item img">
 										<a href="img/gramado/fachada.jpg" class="thumb-info">
@@ -40,7 +40,7 @@ include_once('header.php');
 										</a>
 									</div>
 								</li>
-							</ul>
+							</ul> -->
 
 						<div class="col-md-4">
 
@@ -84,7 +84,6 @@ include_once('header.php');
 
 						</div>
 
-						<hr class="tall">
 
 						<div class="col-md-4">
 
@@ -144,11 +143,26 @@ include_once('header.php');
 											<span class="thumb-info-type">Yondan (4º Dan)</span>
 										</span>
 									</span>
-									<span class="thumb-info-caption">
+									<!-- <span class="thumb-info-caption">
 										<p>Eduardo Corrêa</p>
-									</span>
+									</span> -->
 								</div>
-							</li>							
+							</li>	
+
+							<li class="col-md-3 isotope-item leadership">
+								<div class="team-item thumbnail">
+									<span class="thumb-info team">
+										<img class="img-responsive" alt="" src="img/team/angelica.jpg">
+										<span class="thumb-info-title">
+											<span class="thumb-info-inner">Angélica Philippe</span>
+											<span class="thumb-info-type">Shodan (Faixa preta)</span>
+										</span>
+									</span>
+									<!-- <span class="thumb-info-caption">
+										<p>Mathaeus Silveira</p>
+									</span> -->
+								</div>
+							</li>						
 						</ul>
 					
 					</div>
@@ -178,7 +192,7 @@ include_once('header.php');
 							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								
 								<?php 
-								for ($i=1; $i < 17; $i++) { 
+								for ($i=1; $i <= 22; $i++) { 
 								?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">

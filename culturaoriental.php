@@ -33,7 +33,7 @@ include_once('header.php');
             <ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
               <?php
               require_once 'urls_fotos.php';
-              for($i = 0; 43 > $i; $i++){
+              for($i = 0; $i <= 49; $i++){
                 ?>
               <li class="col-md-3 no-pin">
                 <div class="portfolio-item img-thumbnail">

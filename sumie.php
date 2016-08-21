@@ -61,13 +61,13 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i < 25; $i++) { 
+					for ($i=1; $i <= 25; $i++) { 
 						$foto = str_pad($i, 3, 0, STR_PAD_LEFT);
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">
-									<a href="img/sumie/<?php echo $foto; ?>.jpg" class="thumb-info">
-										<img src="img/sumie/<?php echo $foto; ?>.jpg" class="image-responsive"  height="200" width="400">
+									<a href="img/sumie/sumie<?php echo $foto; ?>.jpg" class="thumb-info">
+										<img src="img/sumie/sumie<?php echo $foto; ?>.jpg" class="image-responsive"  height="200" width="400">
 									</a>
 								</div>
 							</li>
@@ -75,50 +75,6 @@ include_once('header.php');
 					<?php 
 					}
 					 ?>
-
-						<!-- 	<li class="col-md-3 no-pin">
-								<div class="img-thumbnail">
-									<a href="img/sumie/shodo2.jpg" class="thumb-info">
-										<img src="img/sumie/shodo2.jpg" class="image-responsive"  height="200" width="400">
-									</a>
-								</div>
-							</li>
-							<li class="col-md-3 no-pin">
-								<div class="img-thumbnail">
-									<a href="img/sumie/293.JPG" class="thumb-info">
-										<img src="img/sumie/293.JPG" class="image-responsive"  height="200" width="400">
-									</a>
-								</div>
-							</li>
-							<li class="col-md-3 no-pin">
-								<div class="img-thumbnail">
-									<a href="img/sumie/315.JPG" class="thumb-info">
-										<img src="img/sumie/315.JPG" class="image-responsive"  height="200" width="400">
-									</a>
-								</div>
-							</li>
-							<li class="col-md-3 no-pin">
-								<div class="img-thumbnail">
-									<a href="img/sumie/764.jpg" class="thumb-info">
-										<img src="img/sumie/764.jpg" class="image-responsive"  height="200" width="400">
-									</a>
-								</div>
-							</li>
-							<li class="col-md-3 no-pin">
-								<div class="img-thumbnail">
-									<a href="img/sumie/002.jpg" class="thumb-info">
-										<img src="img/sumie/002.jpg" class="image-responsive"  height="200" width="400">
-									</a>
-								</div>
-							</li>
-							<li class="col-md-3 no-pin">
-								<div class="img-thumbnail">
-									<a href="img/sumie/005.jpg" class="thumb-info">
-										<img src="img/sumie/005.jpg" class="image-responsive"  height="200" width="400">
-									</a>
-								</div>
-							</li> -->
-
 						</ul>
 					</div>
 
