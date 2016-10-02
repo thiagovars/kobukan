@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Içara | R. Cel Marcos Rovaris, 221 - Liri Içara - SC';
+$title = 'Dojo Içara | R. António Jesuino Figueira - Tereza Cristina Içara - SC';
 include_once('header.php'); 
 ?>
 
@@ -320,8 +320,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "R. Cel Marcos Rovaris, 221 - Liri Içara - SC",
-				html: "<strong>Dojo Kobukan</strong><br>R. Cel Marcos Rovaris, 221 - Liri Içara - SC",
+				address: "R. António Jesuino Figueira - Tereza Cristina Içara - SC 88820-000",
+				html: "<strong>Dojo Kobukan</strong><br>R. António Jesuino Figueira - Tereza Cristina Içara - SC",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -331,8 +331,8 @@ include_once('header.php');
 			}];
 
 			// Map Initial Location
-			var initLatitude = -28.709196;
-			var initLongitude =  -49.299635;
+			var initLatitude  = -28.704883;
+			var initLongitude = -49.290080;
 
 			// Map Extended Settings
 			var mapSettings = {
