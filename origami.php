@@ -1,5 +1,5 @@
 <?php 
-$title = "Sumi-ê | Pintura em carvão";
+$title = "Origami | Ori (dobrar) gami (papel)";
 include_once('header.php');
 ?>
 
@@ -11,13 +11,13 @@ include_once('header.php');
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="./">Home</a></li>
-									<li class="active">Sumi-ê</li>
+									<li class="active">Origami</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>Sumi-ê</h2>
+								<h2>Origami</h2>
 							</div>
 						</div>
 					</div>
@@ -27,31 +27,33 @@ include_once('header.php');
 
 					<div class="row">
 						<div class="col-md-12" data-appear-animation="fadeInUp">
-							<h3><strong>Sumi-ê:</strong> A Arte do Essencial</h3>
+							<h3><strong>Origami:</strong> Ori (dobrar) gami (papel)</h3>
 							<p class="drop-caps">
-							Originário da China, o Sumi-ê  (ou Sumie) foi conduzido 
-							ao Japão no século XIII por monges Zen budistas. Seu termo 
-							deriva de  Sumi (carvão) e ê (desenho, pintura): pintura 
-							em carvão. Muito mais como um caminho para paz espiritual 
-							do que propriamente uma representação artística, o pintor deve 
-							buscar atingir a simplicidade em sua representação monocromática.
-							  Comparável ao movimento da espada, a pena (pincel), não permite 
-							retoques ou correções: seus movimentos devem ser ágeis e objetivos. 
-							</p>
-							<p class="drop-caps">
-						  Antigamente os Samurais buscavam praticar o Zen e o Sumi-ê como 
-						  formas de desenvolver a concentração, precisão e equilíbrio e com 
-						  isso aprimorar o seu desempenho com o manejo da espada. Hoje a técnica 
-						  é praticada por executivos ou líderes para desenvolver os mesmos 
-						  potenciais, buscando com isso atingir a um melhor desempenho em suas 
-						  decisões e maior eficácia em suas ações.  O pintor de Sumi-ê  não se 
-						  propõe a uma retração realista, mas sim refletir o essencial de cada 
-						  representação captada pela observação atenta do objeto. A assimetria, 
-						  singeleza, naturalidade, profundidade, desapego, concentração, quietude 
-						  e serenidade são algumas de suas características.</p>
+								Arte japonesa baseada na execução de dobraduras e união de pequenas peças de papel transformando-as em verdadeiras obras de arte.
+						  </p>
 						  <p class="drop-caps">
-					  	Sensei Angélica pinta sumies há seis anos e aceita encomendas de tema, ao
-					  	custo de R$ 50,00 a unidade.
+						  	No início do século XVII os samurais foram responsáveis pela criação dos primeiros origamis que conhecemos atualmente. Até o início do século XIX o origami foi praticado como passatempo restrito aos adultos. A partir do período meiji (1868-1912) a arte começou a ser ensinada nas escolas e também passou a ser difundida em países estrangeiros.
+						  </p>
+						  <p class="drop-caps">
+						  	Hoje o origami é uma das mais populares expressões artísticas da cultura japonesa no mundo inteiro. Coloridos e graciosos que estimulam a curiosidade de saber o grau de dificuldade para sua elaboração, utilizado também como decoração de casamentos e materniadades, e também como lembrancinha ou presentes.
+						  </p>
+						  <p class="drop-caps">
+						  	Recurso pedagógico, origami é utilizado em escolas pois estimulam:
+						  	<ul>
+						  		<li>Motricidade fina (coordenação de mãos e dedos);</li>
+						  		<li>Memória visual, estimulando a memorização das sequencias das dobras;</li>
+						  		<li>Criatividade;</li>
+						  		<li>Concentração;</li>
+						  		<li>Noções básicas de medidas;</li>
+						  		<li>Perseverança;</li>
+						  	</ul>
+						  </p>
+						  <p class="drop-caps">
+						  	Recurso terapeutico:
+						  		O origami é um autêntico exercício de serenidade ajudando no combate ao estresse, pois predispõe a calma. É utilizado também em hospitais nos paciêntes que estão internados para evitar depressão.
+						  </p>
+						  <p class="drop-caps">
+						  	A sensei Angélica Correa é discipula da Akiko Kawashima que leciona cultura japonesa na rede municipal da cidade de Ivoti-RS.
 						  </p>
 						</div>
 					</div>
@@ -61,13 +63,12 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
-					for ($i=1; $i <= 25; $i++) { 
-						$foto = str_pad($i, 3, 0, STR_PAD_LEFT);
+					for ($i=1; $i <= 6; $i++) {
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">
-									<a href="img/sumie/sumie<?php echo $foto; ?>.jpg" class="thumb-info">
-										<img src="img/sumie/sumie<?php echo $foto; ?>.jpg" class="image-responsive"  height="200" width="400">
+									<a href="img/origami/origami<?php echo $i; ?>.jpg" class="thumb-info">
+										<img src="img/origami/origami<?php echo $i; ?>.jpg" class="image-responsive"  height="200" width="400">
 									</a>
 								</div>
 							</li>

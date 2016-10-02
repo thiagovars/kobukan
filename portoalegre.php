@@ -65,6 +65,15 @@ include_once('header.php');
 										</td>
 										
 									</tr>
+									<tr>
+										<td>
+											Sábado
+										</td>
+										<td>
+											10h - 12h
+										</td>
+										
+									</tr>
 								</tbody>
 							</table>
 
@@ -79,17 +88,26 @@ include_once('header.php');
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/eduardo.jpg">
+										<img class="img-responsive" alt="" src="img/team/mathaeus_aikido.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Eduardo</span>
-											<span class="thumb-info-type">Yondan (4º Dan)</span>
+											<span class="thumb-info-inner">Mathaeus</span>
+											<span class="thumb-info-type">Shodan (Faixa Preta)</span>
 										</span>
 									</span>
-									<span class="thumb-info-caption">
-										<p>Eduardo Corrêa</p>
-									</span>
 								</div>
-							</li>							
+							</li>	
+							<li class="col-md-3 isotope-item leadership">
+								<div class="team-item thumbnail">
+									<span class="thumb-info team">
+										<img class="img-responsive" alt="" src="img/team/thiago.jpg">
+										<span class="thumb-info-title">
+											<span class="thumb-info-inner">Thiago</span>
+											<span class="thumb-info-type">Shodan (Faixa Preta)</span>
+										</span>
+									</span>
+									
+								</div>
+							</li>						
 						</ul>
 
 					</div>
@@ -109,7 +127,7 @@ include_once('header.php');
 				</section>
 				<div class="container">
 
-					<!-- <div class="row">
+					<div class="row">
 					
 						<div class="col-md-12">
 							<h3 class="short"><strong>Fotos</strong></h3>
@@ -117,24 +135,23 @@ include_once('header.php');
 					
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/bento/inauguracao_bento.jpg" class="thumb-info">
-												<img src="img/bento/inauguracao_bento.jpg" class="image-responsive" height="200" width="400">
+								
+								<?php 
+								for ($i=1; $i <= 6; $i++) { 
+								?>
+									<li class="col-md-3 no-pin">
+										<div class="img-thumbnail">
+											<a href="img/portoalegre/portoalegre<?=$i;?>.jpg" class="thumb-info">
+												<img src="img/portoalegre/portoalegre<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
 											</a>
 										</div>
 									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/bento/bento2.jpg" class="thumb-info">
-												<img src="img/bento/bento2.jpg" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-								</ul>
+									<?								
+								} ?>
+							</ul>
 							</div>
 					
-					</div> -->
+					</div>
 
 				</div>
 

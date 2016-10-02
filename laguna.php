@@ -144,12 +144,12 @@ include_once('header.php');
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									<?php 
-									for ($i=1; $i < 10; $i++) {
+									for ($i=1; $i <= 11; $i++) {
 										?>
 										<li class="col-md-3 no-pin isotope-item">
 											<div class="portfolio-item img-thumbnail">
-												<a href="img/laguna/<?php echo 'laguna' . $i; ?>.jpg" class="thumb-info">
-													<img src="img/laguna/<?php echo 'laguna' . $i; ?>.jpg" class="image-responsive" height="200" width="400">
+												<a href="img/laguna/laguna<?php echo $i; ?>.jpg" class="thumb-info">
+													<img src="img/laguna/laguna<?php echo $i; ?>.jpg" class="image-responsive" height="200" width="400">
 												</a>
 											</div>
 										</li>
