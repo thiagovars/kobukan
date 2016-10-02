@@ -97,7 +97,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/junior.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Júnior</span>
-											<span class="thumb-info-type">Shodan (1º Dan)</span>
+											<span class="thumb-info-type">Nidan (2º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">

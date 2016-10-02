@@ -16,6 +16,9 @@ include_once('header.php');
 							<li data-transition="fade" data-slotamount="13" data-masterspeed="300" >
 								<img src="img/slides/slide2.jpg" data-bgfit="cover" data-bgposition="left 44%" data-bgrepeat="no-repeat">
 							</li>
+							<li data-transition="fade" data-slotamount="13" data-masterspeed="300" >
+								<img src="img/slides/kawai-sensei2.jpg" data-bgfit="cover" data-bgposition="left 44%" data-bgrepeat="no-repeat">
+							</li>
 						</ul>
 					</div>
 				</div>
@@ -132,10 +135,18 @@ include_once('header.php');
 
 						<div class="row center">
 						
-							<div class="col-md-12">
+							<div class="col-md-6">
 								<div class="process-image" data-appear-animation="bounceIn">
 									<a href="garopaba.php"><img src="img/map-dojo-garopaba.jpg" alt="" /></a>
 									<strong>Garopaba-SC</strong>
+								</div>
+							</div>
+							
+
+							<div class="col-md-6">
+								<div class="process-image" data-appear-animation="bounceIn">
+									<a href="canela.php"><img src="img/map-dojo-generico.jpg" alt="" /></a>
+									<strong>Canela-RS</strong>
 								</div>
 							</div>
 							

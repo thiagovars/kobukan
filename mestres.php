@@ -264,6 +264,9 @@ include_once('header.php');
 										Em Junho de 2016 inaugura 7º dojo no estado de Santa Catarina - SC, na cidade de Garopaba.
 										Em Julho de 2016 organiza o 1º evento de cultura japonesa em Torres - RS (1º Torres Matsuri).
 									</p>
+									<p class="tall">
+										Em 27 de Agosto, aprova em 2º Dan de iaido, em São Paulo - SP.
+									</p>
 								</div>
 							</div>
 

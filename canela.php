@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Canela | Rua Danton Correa da Silva, 400 - Canela / RS';
+$title = 'Dojo Canela | Rua jucelino k. de oliveira 490 bairro são rafael - Canela / RS';
 include_once('header.php');
 ?>
 
@@ -32,7 +32,7 @@ include_once('header.php');
 
 						</div>
 						
-							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+							<!-- <ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								<li class="col-md-4	 no-pin isotope-item">
 									<div class="portfolio-item img">
 										<a href="img/canela/fachadaCanela.jpg" class="thumb-info">
@@ -40,7 +40,7 @@ include_once('header.php');
 										</a>
 									</div>
 								</li>
-							</ul>
+							</ul> -->
 
 						<div class="col-md-4">
 
@@ -53,7 +53,6 @@ include_once('header.php');
 									<tr>
 										<th>Dia</th>
 										<th>Hora</th>
-										<th>Instrutor</th>
 									</tr>									
 										</thead>
 										<tbody>
@@ -62,11 +61,18 @@ include_once('header.php');
 											Sábado
 										</td>
 										<td>
-											10h - 11h30
+											15h - 16h
+										</td>
+										
+									</tr>
+									<tr>
+										<td>
+											Domingo
 										</td>
 										<td>
-											Eduardo
+											15h - 16h
 										</td>
+										
 									</tr>
 								</tbody>
 							</table>
@@ -77,7 +83,7 @@ include_once('header.php');
 					<hr class="tall" />
 
 					<div class="row center">
-						<h4><strong>Responsável</strong></h4>
+						<h4><strong>Responsável Técnico</strong></h4>
 						<ul class="team-list sort-destination" data-sort-id="team">
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
@@ -114,12 +120,12 @@ include_once('header.php');
 
 					<div class="row">
 
-					<div class="col-md-12">
+					<!-- <div class="col-md-12">
 							<h3 class="short"><strong>Fotos</strong></h3>
 						</div>
 
 						  <div class="row">
-							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+							  <ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								
 								<?php 
 								for ($i=1; $i < 4; $i++) { 
@@ -134,7 +140,7 @@ include_once('header.php');
 									<?
 								} ?>
 							</ul> 
-						</div> 						
+						</div>  -->						
 
 					</div>
 
@@ -185,8 +191,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Rua Rua Danton Correa da Silva, 400 - Canela/RS",
-				html: "<strong>Dojo Kobukan Canela</strong><br>Rua Rua Danton Correa da Silva, 400 - Canela/RS",
+				address: "Rua jucelino k. de oliveira 490 - Canela / RS",
+				html: "<strong>Dojo Kobukan Canela</strong><br>Rua jucelino k. de oliveira 490 bairro são rafael - Canela / RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -195,8 +201,8 @@ include_once('header.php');
 				popup: true
 			}];
 
-			var initLatitude = -29.374935; //-29.374935, -51.112486
-			var initLongitude =  -51.112486;
+			// var initLatitude = -29.374935; //-29.374935, -51.112486
+			// var initLongitude =  -51.112486;
 
 			// Map Extended Settings
 			var mapSettings = {
@@ -211,8 +217,8 @@ include_once('header.php');
 				},
 				scrollwheel: false,
 				markers: mapMarkers,
-				latitude: initLatitude,
-				longitude: initLongitude,
+				// latitude: initLatitude,
+				// longitude: initLongitude,
 				zoom: 16
 			};
 

@@ -95,7 +95,7 @@ include_once('header.php');
 													<img class="img-responsive" alt="" src="img/team/eduardo_iaido.jpg">
 													<span class="thumb-info-title">
 														<span class="thumb-info-inner">Eduardo Corrêa</span>
-														<span class="thumb-info-type">Shodan (1º Dan)</span>
+														<span class="thumb-info-type">Nidan (2º Dan)</span>
 													</span>
 												</span>
 												<!-- <span class="thumb-info-caption">
@@ -119,7 +119,7 @@ include_once('header.php');
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									
 								<?php 
-								for ($i=1; $i <= 26; $i++) { 
+								for ($i=1; $i <= 28; $i++) { 
 								?>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">

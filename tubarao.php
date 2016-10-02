@@ -101,7 +101,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/natalia.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Natália</span>
-											<span class="thumb-info-type">Shodan (1º Dan)</span>
+											<span class="thumb-info-type">Nidan (2º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
