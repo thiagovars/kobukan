@@ -101,7 +101,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/ze.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">José Paulo</span>
-											<span class="thumb-info-type">2º kyu</span>
+											<span class="thumb-info-type">1º kyu</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
