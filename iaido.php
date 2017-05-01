@@ -58,6 +58,7 @@ include_once('header.php');
 							Em porto alegre é possível treinar iaido com o Senpai Mathaeus Silveira(foto) na <a href="https://www.facebook.com/AKIPA.RS" target="_blank">AKIPA - Associação de Kendo e Iaido
 							de porto alegre.</a></p>
 							
+							<p class='tall'><img src="/img/iaido/partesIaito.jpg"></p>
 					<hr class="tall">
 
 					<div class="row">
@@ -119,7 +120,7 @@ include_once('header.php');
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									
 								<?php 
-								for ($i=1; $i <= 28; $i++) { 
+								for ($i=1; $i <= 29; $i++) { 
 								?>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">

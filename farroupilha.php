@@ -123,7 +123,7 @@ include_once('header.php');
 						<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									<?php 
-									for ($i=0; $i <= 6; $i++) { 
+									for ($i=0; $i <= 7; $i++) { 
 									 ?>
 									
 									<li class="col-md-3 no-pin isotope-item">

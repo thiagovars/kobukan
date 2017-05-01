@@ -81,9 +81,6 @@ include_once('header.php');
 																<span class="thumb-info-type">1°Kyu (Marrom)</span>
 															</span>
 														</span>
-														<!-- <span class="thumb-info-caption">
-															<p>Mathaeus Silveira</p>
-														</span> -->
 													</div>
 												</li>							
 												
@@ -96,9 +93,6 @@ include_once('header.php');
 																<span class="thumb-info-type">1° Kyu (Marrom)</span>
 															</span>
 														</span>
-														<!-- <span class="thumb-info-caption">
-															<p>Eduardo Corrêa</p>
-														</span> -->
 													</div>
 												</li>							
 
@@ -114,9 +108,9 @@ include_once('header.php');
 							<div class="row">
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									
-									<?php 
+									<?php
 
-									for ($i=1; $i <= 27; $i++) { 
+									for ($i=1; $i <= 32; $i++) {
 										
 									?>
 									<li class="col-md-3 no-pin isotope-item">

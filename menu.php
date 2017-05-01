@@ -8,7 +8,7 @@ $area = $area[1];
 $aikido          = array('mestres', 'aikido');
 $dojos           = array('capivari', 'canela', 'criciuma', 'farroupilha', 'garopaba', 'gramado', 'icara', 'imarui', 'ivoti', 'laguna', 'petropolis', 'portoalegre', 'tubarao');
 $glossario       = array('glossario', 'tecnicas');
-$culturaOriental = array('fengshui', 'ikebana', 'sumie', 'CulturaOriental', 'chanoyu', 'bonsai', 'shodo', 'origami');
+$culturaOriental = array('fengshui', 'ikebana', 'sumiePinturaCarvao', 'CulturaOriental', 'chanoyu', 'bonsai', 'shodo', 'origami');
 $acupuntura      = array('acupuntura', 'shiatsu');
 
 $aikido          = (in_array($area, $aikido))          ? 'active' : '';
@@ -107,7 +107,7 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                     <li><a href="ikebana.php"        >kadô</a></li>
                     <li><a href="origami.php"        >Origami</a></li>
                     <li><a href="shodo.php"          >Shodo</a></li>
-                    <li><a href="sumie.php"          >Sumie</a></li>
+                    <li><a href="sumiePinturaCarvao.php">Sumie</a></li>
                     <li><a href="culturaoriental.php">Fotos</a></li>
                   </ul>
                 </li>

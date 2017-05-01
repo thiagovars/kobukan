@@ -163,7 +163,7 @@ include_once('header.php');
 									<h4 class="shorter" style="text-align: center; padding-bottom: 30px;">
 										EDUARDO CORRÊA SENSEI<br>Responsável técnico Kobukan Dojo </br></br>
 										4o. Dan de Aikido<br><br>
-										Shodan (Faixa preta 1 Dan) de Iaido<br><br> <!-- mudar dia 30 para shodan  -->
+										Nidan (Faixa preta 2 Dan) de Iaido<br><br>
 										Ikkyu (Faixa marrom) de Jodo<br><br>
 										Faixa preta 1o. Dan de Jiu-jitsu<br><br>
 									</h4>
@@ -243,8 +243,7 @@ include_once('header.php');
 										Kobukan (sexta unidade de Santa Catarina) na cidade de Capivari de Baixo. Desde o início, 
 										desde 1999, a Kobukan formou mais de 15 faixas-pretas, sendo destes, um sandan e dois nidans. 
 										No estado do Rio Grande do Sul tem contribuído com assistência técnica ao Dojo Millenium Arts, do
-										Sensei Manuel Valim, na cidade de Ivoti, conduz grupo da Kobukan em Porto Alegre/RS e 
-										inicia em novembro os trabalhos em Bento Gonçalves, na Serra Gaúcha. Atualmente, além das 
+										Sensei Manuel Valim, na cidade de Ivoti, conduz grupo da Kobukan em Porto Alegre/RS. Atualmente, além das 
 										citadas artes marciais, Sensei Eduardo Corrêa, juntamente com sua esposa Angélica Corrêa, 
 										viajou ao Rio de Janeiro a fim de buscar a técnica da arte marcial do bastão Samurai – Jodo. 
 										Lá treinou na Associação de Kendo do Rio de Janeiro- Rio Kenyukai, com Endo Sensei e sob a 
@@ -257,7 +256,7 @@ include_once('header.php');
 										faixa preta em Iaido na cidade de São Paulo. Em setembro inicia os trabalhos na cidade de Nova Petrópolis.</p>
 									<p class="tall">Em outubro participou de curso de bonsai, na loja <b>Bonsai Ideal</b> em Novo Hamburgo. Sensei
 										Thiago Silveira (dojo de porto alegre) também realizou um curso semelhante em 2010 na loja <b>Viva Bonsai</b> em porto alegre.</p>
-									<p class="tall">Em novembro iniciou estudos da cerimônia do chá, com a sensei Teresa Sell.</p>
+									<p class="tall">Em novembro iniciou estudos da cerimônia do chá, na escola Urassenke.</p>
 									<p class="tall">Em dezembro formou mais cinco shodans e um sandan. Também neste mesmo mês, organizou o 1º festival de
 										cultura japonesa de Nova Petrópolis.</p>
 									<p class="tall">
@@ -266,6 +265,12 @@ include_once('header.php');
 									</p>
 									<p class="tall">
 										Em 27 de Agosto, aprova em 2º Dan de iaido, em São Paulo - SP.
+									</p>
+									<p class="tall">
+										Em setembro de 2016 formou 4 nidan (2º Dan) e 2 shodan, e em outubro do mesmo ano mais 2 nidans.
+									</p>
+									<p class="tall">
+										Começou os estudos de nagnata na Associação Brasileira de Naginata com sensei Morita.
 									</p>
 								</div>
 							</div>
