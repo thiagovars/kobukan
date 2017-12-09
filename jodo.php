@@ -51,9 +51,9 @@ include_once('header.php');
 								Sempai  Angélica Philippe Corrêa treina Jodo desde 2012 e é responsável técnica pelo grupo de estudos de Jodo da Akipa de Porto Alegre.
 								Tendo experiência no bastão do aikido(aikijo) desde 2009 buscou ampliar os estudos no bastão buscando outra escola(jodo seitei). 
 								Participou de treinamentos no Rio de Janeiro sob a orientação técnica de Sensei  Endo e Sempai Alex Cavalcanti do Rio Jodokai. 
-								Em janeiro de 2015 gradou Ikkyu(faixa marrom) em Santiago no Chile, tendo aula com o sensei Shiori(4º Dan) e Guilhermo Vargas (3º Dan),
+								Em janeiro de 2015 gradou Ikkyu(faixa marrom) em Santiago no Chile, tendo aula com o sensei Shiori(4º Dan) e Guilhermo Vargas (4º Dan),
 								sendo uma das primeiras jodokas brasileiras a ter graduação reconhecida pela Confederação Brasileira de Kendo. Em março de 2016 participou
-								do primeiro seminário internacional de jodo ministrado por sensei Kim Taylor (5º Dan) do Canadá.
+								do primeiro seminário internacional de jodo ministrado por sensei Kim Taylor (6º Dan) do Canadá.
 							</p>
 
 							<hr class="tall">
@@ -109,9 +109,11 @@ include_once('header.php');
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 									
 									<?php
-
+									$ignore = array(31);
 									for ($i=1; $i <= 32; $i++) {
-										
+										if (in_array($i, $ignore)) {
+											continue;
+										}
 									?>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">

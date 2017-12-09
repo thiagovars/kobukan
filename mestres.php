@@ -264,13 +264,26 @@ include_once('header.php');
 										Em Julho de 2016 organiza o 1º evento de cultura japonesa em Torres - RS (1º Torres Matsuri).
 									</p>
 									<p class="tall">
-										Em 27 de Agosto, aprova em 2º Dan de iaido, em São Paulo - SP.
+										Em 27 de Agosto, aprova em 2º Dan de iaido, em São Paulo.
 									</p>
 									<p class="tall">
 										Em setembro de 2016 formou 4 nidan (2º Dan) e 2 shodan, e em outubro do mesmo ano mais 2 nidans.
 									</p>
 									<p class="tall">
-										Começou os estudos de nagnata na Associação Brasileira de Naginata com sensei Morita.
+										Começou os estudos de nagnata na Associação Brasileira de Naginata com sensei Yasue Morita 4º Dan na cidade de 
+										São Paulo em Fevereiro de 2017.
+									</p>
+									<p class="tall">
+										Organizou 2º Festival de Cultura Japonesa de Nova Petrópolis em Dezembro 2016.
+									</p>
+									<p class="tall">
+										Formou mais um faixa preta (shodan) o aluno Rafael Leiria, que é o responsável técnico no dojo de Garopaba, em Junho de 2017.
+									</p>
+									<p class="tall">
+										Participou da organização do 1º Criciuma Matsuri em Agosto de 2017.
+									</p>
+									<p class="tall">
+										Organizou o 1º dia das crianças japonês no Instituto Federal de Santa Catarina em Garopaba em outubro de 2017.
 									</p>
 								</div>
 							</div>

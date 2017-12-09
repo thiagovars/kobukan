@@ -105,14 +105,6 @@ include_once('header.php');
 											18h30 - 20h
 										</td>
 									</tr>
-									<tr>
-										<td>
-											Sábado
-										</td>
-										<td>
-											20h
-										</td>
-									</tr>
 								</tbody>
 							</table>
 
@@ -128,14 +120,14 @@ include_once('header.php');
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/vinicius.jpg">
+										<img class="img-responsive" alt="" src="img/team/rafael.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Vinicius</span>
+											<span class="thumb-info-inner">Rafael</span>
 											<span class="thumb-info-type">Shodan (1º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
-										<p>Vinicius Algarve</p>
+										<p>Rafael Pereira Leiria</p>
 									</span>
 								</div>
 							</li>							

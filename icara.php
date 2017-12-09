@@ -34,7 +34,7 @@ include_once('header.php');
 
 						<div class="col-md-8">
 
-							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
+							<h2 class="shorter">Horários para <strong>Treino Teen</strong></h2>
 
 							<hr class="tall">
 
@@ -52,10 +52,10 @@ include_once('header.php');
 											Terça
 										</td>
 										<td>
-											19h30 - 21h
+											18h - 19h
 										</td>
 										<td>
-											Robson
+											Robson / Vinicius
 										</td>
 									</tr>
 									<tr>
@@ -63,10 +63,48 @@ include_once('header.php');
 											Quinta
 										</td>
 										<td>
-											19h30 - 21h
+											18h - 19h
 										</td>
 										<td>
-											Robson
+											Robson / Vinicius
+										</td>
+									</tr>
+								</tbody>
+							</table>
+
+							<h2 class="shorter">Horários para <strong>Treino Adulto</strong></h2>
+
+							<hr class="tall">
+
+							<table class="table table-striped">
+								<thead>
+									<tr>
+										<th>Dia</th>
+										<th>Hora</th>
+										<th>Instrutor</th>
+									</tr>									
+								</thead>
+								<tbody>
+									<tr>
+										<td>
+											Terça
+										</td>
+										<td>
+											19h - 20h
+										</td>
+										<td>
+											Robson / Vinicius
+										</td>
+									</tr>
+									<tr>
+										<td>
+											Quinta
+										</td>
+										<td>
+											19h - 20h
+										</td>
+										<td>
+											Robson / Vinicius
 										</td>
 									</tr>
 								</tbody>
@@ -120,158 +158,22 @@ include_once('header.php');
 						</div>
 
 						<div class="row">
-								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+								<?php 
+								for ($i=1; $i < 22; $i++) { 
+									?>
 									<li class="col-md-3 no-pin isotope-item">
 										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1407.JPG" class="thumb-info">
-												<img src="img/icara/1407.JPG" class="image-responsive" height="200" width="400">
+											<a href="img/icara/<?php echo 'icara' . $i; ?>.jpg" class="thumb-info">
+												<img src="img/icara/<?php echo 'icara' . $i; ?>.jpg" class="image-responsive" height="200" width="400">
 											</a>
 										</div>
 									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1408.JPG" class="thumb-info">
-												<img src="img/icara/1408.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1409.JPG" class="thumb-info">
-												<img src="img/icara/1409.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1410.JPG" class="thumb-info">
-												<img src="img/icara/1410.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1411.JPG" class="thumb-info">
-												<img src="img/icara/1411.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1412.JPG" class="thumb-info">
-												<img src="img/icara/1412.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1413.JPG" class="thumb-info">
-												<img src="img/icara/1413.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1414.JPG" class="thumb-info">
-												<img src="img/icara/1414.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1415.JPG" class="thumb-info">
-												<img src="img/icara/1415.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1416.JPG" class="thumb-info">
-												<img src="img/icara/1416.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1417.JPG" class="thumb-info">
-												<img src="img/icara/1417.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1418.JPG" class="thumb-info">
-												<img src="img/icara/1418.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1419.JPG" class="thumb-info">
-												<img src="img/icara/1419.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1420.JPG" class="thumb-info">
-												<img src="img/icara/1420.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1421.JPG" class="thumb-info">
-												<img src="img/icara/1421.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1422.JPG" class="thumb-info">
-												<img src="img/icara/1422.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1423.JPG" class="thumb-info">
-												<img src="img/icara/1423.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin isotope-item">
-										<div class="portfolio-item img-thumbnail">
-											<a href="img/Icara/1424.JPG" class="thumb-info">
-												<img src="img/icara/1424.JPG" class="image-responsive" height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/icara/icara2.jpg" class="thumb-info">
-												<img src="img/icara/icara2.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/icara/icara3.jpg" class="thumb-info">
-												<img src="img/icara/icara3.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>
-									<li class="col-md-3 no-pin">
-										<div class="img-thumbnail">
-											<a href="img/icara/icara4.jpg" class="thumb-info">
-												<img src="img/icara/icara4.jpg" class="image-responsive"  height="200" width="400">
-											</a>
-										</div>
-									</li>								
-								</ul>
-							</div>						
-
-					</div>
+								<?php
+								}
+								?>
+							</ul>
+						</div>
 
 				</div>
 

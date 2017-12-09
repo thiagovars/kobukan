@@ -135,22 +135,22 @@ include_once('header.php');
 						</div>
 
 						<div class="row">
-								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-									<?php 
-									for ($i=1; $i < 12; $i++) { 
-										?>
-										<li class="col-md-3 no-pin isotope-item">
-											<div class="portfolio-item img-thumbnail">
-												<a href="img/tubarao/<?php echo 'tubarao' . $i; ?>.jpg" class="thumb-info">
-													<img src="img/tubarao/<?php echo 'tubarao' . $i; ?>.jpg" class="image-responsive" height="200" width="400">
-												</a>
-											</div>
-										</li>
-									<?php
-									}
+							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+								<?php 
+								for ($i=1; $i < 12; $i++) { 
 									?>
-								</ul>
-							</div>
+									<li class="col-md-3 no-pin isotope-item">
+										<div class="portfolio-item img-thumbnail">
+											<a href="img/tubarao/<?php echo 'tubarao' . $i; ?>.jpg" class="thumb-info">
+												<img src="img/tubarao/<?php echo 'tubarao' . $i; ?>.jpg" class="image-responsive" height="200" width="400">
+											</a>
+										</div>
+									</li>
+								<?php
+								}
+								?>
+							</ul>
+						</div>
 
 					</div>
 

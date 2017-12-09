@@ -88,14 +88,14 @@ include_once('header.php');
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/rafael.jpg">
+										<img class="img-responsive" alt="" src="img/team/vinicius.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Rafael</span>
+											<span class="thumb-info-inner">Vinicius</span>
 											<span class="thumb-info-type">Shodan (1º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
-										<p>Rafael Pereira Leiria</p>
+										<p>Vinicius Algarve</p>
 									</span>
 								</div>
 							</li>							

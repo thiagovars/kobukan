@@ -98,7 +98,11 @@ include_once('header.php');
 					<div class="row" data-appear-animation="fadeInDown">
 						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 					<?php 
+					$ignore = array(20);
 					for ($i=1; $i <= 25; $i++) { 
+						if (in_array($i, $ignore)) {
+							continue;
+						}
 					 ?>
 							<li class="col-md-3 no-pin">
 								<div class="img-thumbnail">
