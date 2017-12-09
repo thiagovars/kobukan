@@ -81,8 +81,7 @@ include_once('header.php');
 								os responsáveis pelas maiores escolas de chá do mundo: Urasenke, Omotesenke e Mushanokoji Senke. 
 						  </p>
 							<p class="drop-caps">
-								Sensei Angélica e Sensei Eduardo são discípulos da Sensei Teresa Sell, de Florianópolis, que pratica o Chadô há mais de vinte anos. O Espaço Wulin
-								segue a escola Dai Nihon Saddo Gakai, de chá que fica no Japão. A mestra que é responsável pelo espaço Wulin práticas orientais, também ensina Tai Chi Chuan e Chi Kung.
+								Sensei Angélica e Sensei Eduardo são discípulos da escola Urassenke.
 						  </p>
 						</div>
 					</div>

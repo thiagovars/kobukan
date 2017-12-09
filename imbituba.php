@@ -1,5 +1,5 @@
 <?php 
-$title = "Dojo Criciuma | Rua. Anita Garibaldi, 190, Santa Catarina";
+$title = 'Dojo Imbituba';
 include_once('header.php');
 ?>
 
@@ -11,13 +11,13 @@ include_once('header.php');
 							<div class="col-md-12">
 								<ul class="breadcrumb">
 									<li><a href="index.php">Home</a></li>
-									<li class="active">Criciuma Dojo</li>
+									<li class="active">Imbituba Dojo</li>
 								</ul>
 							</div>
 						</div>
 						<div class="row">
 							<div class="col-md-12">
-								<h2>Criciuma Dojo</h2>
+								<h2>Imbituba Dojo</h2>
 							</div>
 						</div>
 					</div>
@@ -31,8 +31,18 @@ include_once('header.php');
 							<div id="google-dojo" class="google-map"></div>
 
 						</div>
+						
+							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+								<li class="col-md-4	 no-pin isotope-item">
+									<div class="portfolio-item img">
+										<a href="img/imbituba/fachada.jpg" class="thumb-info">
+											<img src="img/imbituba/fachada.jpg" id="imbitubaFachada" class="100Width image-responsive" height="365">
+										</a>
+									</div>
+								</li>
+							</ul>
 
-						<div class="col-md-8">
+						<div class="col-md-4">
 
 							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
 
@@ -43,64 +53,26 @@ include_once('header.php');
 									<tr>
 										<th>Dia</th>
 										<th>Hora</th>
-										<th>Instrutor</th>
 									</tr>									
-								</thead>
-								<tbody>
+										</thead>
+										<tbody>
 									<tr>
 										<td>
-											Segunda
-										</td>
-										<td>
-											19h - 20h30
-										</td>
-										<td>
-											Cristiano
-										</td>
-									</tr>
-									<tr>
-										<td>
-											Quarta
+											Terça
 										</td>
 										<td>
 											19h - 20h
 										</td>
-										<td>
-											Leandro
-										</td>
+										
 									</tr>
 									<tr>
 										<td>
-											Sexta
+											Quinta
 										</td>
 										<td>
-											19h - 20h30
+											19h - 20h
 										</td>
-										<td>
-											Cristiano
-										</td>
-									</tr>
-									<tr>
-										<td>
-											Sábado
-										</td>
-										<td>
-											14h - 15h30
-										</td>
-										<td>
-											Cristiano
-										</td>
-									</tr>
-									<tr>
-										<td>
-											Domingo
-										</td>
-										<td>
-											14h - 15h30
-										</td>
-										<td>
-											Cristiano
-										</td>
+										
 									</tr>
 								</tbody>
 							</table>
@@ -111,78 +83,64 @@ include_once('header.php');
 					<hr class="tall" />
 
 					<div class="row center">
-						
+						<h4><strong>Responsável Técnico</strong></h4>
 						<ul class="team-list sort-destination" data-sort-id="team">
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
 									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/cristiano.jpg">
+										<img class="img-responsive" alt="" src="img/team/rafael.jpg">
 										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Cristiano</span>
-											<span class="thumb-info-type">Sandan (3º Dan)</span>
-										</span>
-									</span>
-									<span class="thumb-info-caption">
-										<p>Cristiano Ávila Salomão</p>
-									</span>
-								</div>
-							</li>
-							<li class="col-md-3 isotope-item marketing">
-								<div class="team-item thumbnail">
-									<span class="thumb-info team">
-										<img class="img-responsive" alt="" src="img/team/leandro.jpg">
-										<span class="thumb-info-title">
-											<span class="thumb-info-inner">Leandro</span>
+											<span class="thumb-info-inner">Rafael</span>
 											<span class="thumb-info-type">Shodan (1º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
-										<p>Leandro Sartor Pereira</p>										
+										<p>Rafael Pereira Leiria</p>
 									</span>
 								</div>
-							</li>
+							</li>							
 						</ul>
-
+					
 					</div>
 
 				</div>
-
-				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/criciuma/dojo.jpg);">
+<!-- 
+				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/parallax-transparent.jpg);">
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
-
+				
 								<div style="height: 150px;"></div>
-
+				
 							</div>
 						</div>
 					</div>
-				</section>
+				</section> -->
 				<div class="container">
 
 					<div class="row">
 
-						<div class="col-md-12">
+					<div class="col-md-12">
 							<h3 class="short"><strong>Fotos</strong></h3>
 						</div>
 
-						<div class="row"><!-- coloca dinâmico!  -->
-								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-									<?php 
-									for ($i=1; $i <= 20; $i++) { 
-										?>
-										<li class="col-md-3 no-pin isotope-item">
-											<div class="portfolio-item img-thumbnail">
-												<a href="img/criciuma/<?php echo 'criciuma' . $i; ?>.jpg" class="thumb-info">
-													<img src="img/criciuma/<?php echo 'criciuma' . $i; ?>.jpg" class="image-responsive" height="200" width="400">
-												</a>
-											</div>
-										</li>
-									<?php
-									}
-									?>
-								</ul>
-							</div>						
+						  <div class="row">
+							  <ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+								
+								<?php 
+								for ($i=1; $i <= 4; $i++) { 
+								?>
+									<li class="col-md-3 no-pin">
+										<div class="img-thumbnail">
+											<a href="img/imbituba/imbituba<?=$i;?>.jpg" class="thumb-info">
+												<img src="img/imbituba/imbituba<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
+											</a>
+										</div>
+									</li>
+									<?
+								} ?>
+							</ul> 
+						</div> 						
 
 					</div>
 
@@ -233,8 +191,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Rua Anita Garibaldi, 190, Santa Catarina",
-				html: "<strong>Dojo Kobukan</strong><br>Rua Anita Garibaldi, 190, Criciuma - SC",
+				address: "",
+				html: "",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -243,9 +201,8 @@ include_once('header.php');
 				popup: true
 			}];
 
-			// Map Initial Location
-			var initLatitude = -28.678145;
-			var initLongitude =  -49.373288;
+			// var initLatitude = -29.374935; //-29.374935, -51.112486
+			// var initLongitude =  -51.112486;
 
 			// Map Extended Settings
 			var mapSettings = {
@@ -260,8 +217,8 @@ include_once('header.php');
 				},
 				scrollwheel: false,
 				markers: mapMarkers,
-				latitude: initLatitude,
-				longitude: initLongitude,
+				// latitude: initLatitude,
+				// longitude: initLongitude,
 				zoom: 16
 			};
 

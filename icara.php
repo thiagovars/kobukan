@@ -99,7 +99,7 @@ include_once('header.php');
 					</div>
 
 				</div>
-
+<!-- 
 				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/icara/dojo.jpg);">
 					<div class="container">
 						<div class="row center">
@@ -110,7 +110,7 @@ include_once('header.php');
 							</div>
 						</div>
 					</div>
-				</section>
+				</section> -->
 				<div class="container">
 
 					<div class="row">

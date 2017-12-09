@@ -122,7 +122,7 @@ include_once('header.php');
 
 				</div>
 
-				<section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/laguna/dojo.jpg);">
+				<!-- <section class="parallax" data-stellar-background-ratio="0.5" style="background-image: url(img/laguna/dojo.jpg);">
 					<div class="container">
 						<div class="row center">
 							<div class="col-md-12">
@@ -132,7 +132,7 @@ include_once('header.php');
 							</div>
 						</div>
 					</div>
-				</section>
+				</section> -->
 				<div class="container">
 
 					<div class="row">

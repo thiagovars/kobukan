@@ -145,8 +145,8 @@ include_once('header.php');
 
 							<div class="col-md-6">
 								<div class="process-image" data-appear-animation="bounceIn">
-									<a href="canela.php"><img src="img/map-dojo-generico.jpg" alt="" /></a>
-									<strong>Canela-RS</strong>
+									<a href="imbituba.php"><img src="img/map-dojo-generico.jpg" alt="" /></a>
+									<strong>Imbituba-SC</strong>
 								</div>
 							</div>
 							
