@@ -8,18 +8,19 @@ $area = $area[1];
 $aikido          = array('mestres', 'aikido');
 $dojos           = array('capivari', 'canela', 'farroupilha', 'garopaba', 'gramado', 'icara', 'imarui', 'imbituba', 'ivoti', 'laguna', 'petropolis', 'portoalegre', 'tubarao');
 $glossario       = array('glossario', 'tecnicas');
-$culturaOriental = array('fengshui', 'ikebana', 'sumiePinturaCarvao', 'CulturaOriental', 'chanoyu', 'bonsai', 'shodo', 'origami');
+$culturaOriental = array('fengshui', 'ikebana', 'sumiePinturaCarvao', 'CulturaOriental', 'chanoyu', 'bonsai', 'shodo', 'origami', 'furoshiki');
 $acupuntura      = array('acupuntura', 'shiatsu');
 
 $aikido          = (in_array($area, $aikido))          ? 'active' : '';
 $dojo            = (in_array($area, $dojos))           ? 'active' : '';
 $iaido           = ($area == 'iaido')                  ? 'active' : '';
 $jodo            = ($area == 'jodo')                   ? 'active' : '';
+$naginata        = ($area == 'naginata')               ? 'active' : '';
 $fotos           = ($area == 'fotos')                  ? 'active' : '';
 $glossario       = (in_array($area, $glossario))       ? 'active' : '';
 $culturaOriental = (in_array($area, $culturaOriental)) ? 'active' : '';
 $contato         = ($area == 'contato')                ? 'active' : '';
-$artigos         = ($area == 'artigos')                ? 'active' : '';
+// $artigos         = ($area == 'artigos')                ? 'active' : '';
 $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
  ?>
 <div class="container">
@@ -78,9 +79,9 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                 <li class="<?php echo $jodo; ?>">
                   <a href="jodo.php">Jodo</a>
                 </li>
-                <!-- <li>
-                  <a href="videos.php">Vídeos</a>
-                </li> -->
+                <li class="<?php echo $naginata; ?>">
+                  <a href="naginata.php">Naginata</a>
+                </li>
                 <li class="<?php echo $fotos; ?>">
                   <a href="fotos.php">Fotos</a>
                 </li>
@@ -103,6 +104,7 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                     <li><a href="bonsai.php"         >Bonsai</a></li>
                     <li><a href="chanoyu.php"        >Chadô</a></li>
                     <li><a href="fengshui.php"       >Fengshui</a></li>
+                    <li><a href="furoshiki.php"      >Furoshiki</a></li>
                     <li><a href="ikebana.php"        >kadô</a></li>
                     <li><a href="origami.php"        >Origami</a></li>
                     <li><a href="shodo.php"          >Shodo</a></li>
@@ -113,9 +115,9 @@ $acupuntura      = (in_array($area, $acupuntura))      ? 'active' : '';
                 <li class="<?php echo $contato; ?>">
                   <a href="contato.php">Contato</a>
                 </li>
-                <li class="<?php echo $artigos; ?>">
+                <!-- <li class="<?php echo $artigos; ?>">
                   <a href="artigos.php">Artigos</a>
-                </li>
+                </li> -->
                 <li class="dropdown <?php echo $acupuntura; ?>">
                   <a class="dropdown-toggle" href="#">
                     Acupuntura
