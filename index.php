@@ -48,7 +48,7 @@ include_once('header.php');
 
 							<div class="col-md-3">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="200">
-									<a href="tubarao.php"><img src="img/map-dojo-tubarao.jpg" alt="" /></a>
+									<a href="tubarao.php"><img src="img/map-dojo.png" width="145" alt="" /></a>
 									<strong>Tubarão-SC</strong>
 								</div>
 							</div>
@@ -120,7 +120,7 @@ include_once('header.php');
 
 							<div class="col-md-3">
 								<div class="process-image" data-appear-animation="bounceIn" data-appear-animation-delay="400">
-									<a href="portoalegre.php"><img src="img/map-dojo-portoalegre.jpg" alt="" /></a>
+									<a href="portoalegre.php"><img src="img/map-dojo.png" width="145" alt="" /></a>
 									<strong>Porto alegre-RS</strong>
 								</div>
 							</div>
@@ -145,7 +145,7 @@ include_once('header.php');
 
 							<div class="col-md-6">
 								<div class="process-image" data-appear-animation="bounceIn">
-									<a href="imbituba.php"><img src="img/map-dojo-generico.jpg" alt="" /></a>
+									<a href="imbituba.php"><img src="img/map-dojo.png" width="145" alt="" /></a>
 									<strong>Imbituba-SC</strong>
 								</div>
 							</div>

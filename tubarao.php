@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Tubarão | R. Simeão Esmeraldino de Menezes, 1492 - São João Tubarão - SC Brasil';
+$title = 'Dojo Tubarão |  Rua Prudente de Moraes 352 - Tubarão - SC Brasil';
 include_once('header.php');
 ?>
 
@@ -50,10 +50,10 @@ include_once('header.php');
 								<tbody>
 									<tr>
 										<td>
-											Segunda
+											Terça
 										</td>
 										<td>
-											20h - 21h30
+											19h30 - 21h30
 										</td>
 										<td>
 											Fabrício
@@ -64,7 +64,7 @@ include_once('header.php');
 											Quinta
 										</td>
 										<td>
-											20h - 21h30
+											19h30 - 21h30
 										</td>
 										<td>
 											Natália
@@ -87,7 +87,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/fabricio.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Fabricio</span>
-											<span class="thumb-info-type">Nidan (2º Dan)</span>
+											<span class="thumb-info-type">Sandan (3º Dan)</span>
 										</span>
 									</span>
 									<span class="thumb-info-caption">
@@ -201,8 +201,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "R. Simeão Esmeraldino de Menezes, 1492 - São João Tubarão - SC Brasil",
-				html: "<strong>Dojo Kobukan</strong><br>R. Simeão Esmeraldino de Menezes, 1492 - São João Tubarão - SC Brasil",
+				address: "Rua Prudente de Moraes 352 - Tubarão - SC Brasil",
+				html: "<strong>Dojo Kobukan</strong><br>Rua Prudente de Moraes 352 - Tubarão - SC Brasil",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -212,8 +212,8 @@ include_once('header.php');
 			}];
 
 			// Map Initial Location
-			var initLatitude = -28.480263;
-			var initLongitude =  -49.021017;
+			var initLatitude = -28.486819;
+			var initLongitude =  -49.004696;
 
 			// Map Extended Settings
 			var mapSettings = {
@@ -234,7 +234,7 @@ include_once('header.php');
 			};
 
 			var map = $("#google-dojo").gMap(mapSettings);
-			var end = $("#endereco").html("R. Simeão Esmeraldino de Menezes, 1492 - São João Tubarão - SC Brasil");
+			var end = $("#endereco").html("Rua Prudente de Moraes 352 - Tubarão - SC Brasil");
 
 			// Map Center At
 			var mapCenterAt = function(options, e) {
