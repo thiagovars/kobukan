@@ -157,8 +157,7 @@ include_once('header.php');
 										</a>
 									</div>
 								</li>
-								<?php for ($i=1; $i < 20; $i++) { 
-								?>
+								<?php for ($i=1; $i < 20; $i++) {?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">
 											<a href="img/capivari/imagem<?=$i;?>.jpg" class="thumb-info">
@@ -166,8 +165,7 @@ include_once('header.php');
 											</a>
 										</div>
 									</li>
-									<?								
-								} ?>
+								<? } ?>
 							</ul>
 						</div> 						
 

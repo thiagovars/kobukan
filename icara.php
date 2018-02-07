@@ -34,7 +34,7 @@ include_once('header.php');
 
 						<div class="col-md-8">
 
-							<h2 class="shorter">Horários para <strong>Treino Teen</strong></h2>
+							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
 
 							<hr class="tall">
 
@@ -52,48 +52,10 @@ include_once('header.php');
 											Terça
 										</td>
 										<td>
-											18h - 19h
+											19h30 - 21h
 										</td>
 										<td>
-											Robson / Vinicius
-										</td>
-									</tr>
-									<tr>
-										<td>
-											Quinta
-										</td>
-										<td>
-											18h - 19h
-										</td>
-										<td>
-											Robson / Vinicius
-										</td>
-									</tr>
-								</tbody>
-							</table>
-
-							<h2 class="shorter">Horários para <strong>Treino Adulto</strong></h2>
-
-							<hr class="tall">
-
-							<table class="table table-striped">
-								<thead>
-									<tr>
-										<th>Dia</th>
-										<th>Hora</th>
-										<th>Instrutor</th>
-									</tr>									
-								</thead>
-								<tbody>
-									<tr>
-										<td>
-											Terça
-										</td>
-										<td>
-											19h - 20h
-										</td>
-										<td>
-											Robson / Vinicius
+											Robson
 										</td>
 									</tr>
 									<tr>
@@ -101,10 +63,10 @@ include_once('header.php');
 											Quinta
 										</td>
 										<td>
-											19h - 20h
+											19h30 - 21h
 										</td>
 										<td>
-											Robson / Vinicius
+											Robson
 										</td>
 									</tr>
 								</tbody>

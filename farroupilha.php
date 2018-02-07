@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Farroupilha | R. 14 de julho, 74 - Farroupilha / RS';
+$title = 'Dojo Farroupilha | R. Pinheiro Machado, 152 - Farroupilha / RS';
 include_once('header.php');
 ?>
 
@@ -32,7 +32,17 @@ include_once('header.php');
 
 						</div>
 
-						<div class="col-md-8">
+						<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
+							<li class="col-md-4	 no-pin isotope-item">
+								<div class="portfolio-item img">
+									<a href="img/farroupilha/fachada.jpg" class="thumb-info">
+										<img src="img/farroupilha/fachada.jpg" class="100Width image-responsive" height="365">
+									</a>
+								</div>
+							</li>
+						</ul>
+
+						<div class="col-md-4">
 
 							<h2 class="shorter">Horários para <strong>Treino</strong></h2>
 
@@ -49,24 +59,24 @@ include_once('header.php');
 								<tbody>
 									<tr>
 										<td>
-											Terça
+											Segundas
 										</td>
 										<td>
-											19h00 - 20h30
+											21h - 22h
 										</td>
 										<td>
-											Eduardo
+											Juliano
 										</td>
 									</tr>
 									<tr>
 										<td>
-											Quinta
+											Quarta
 										</td>
 										<td>
-											19h00 - 20h30
+											20h - 21h
 										</td>
 										<td>
-											Eduardo
+											Juliano
 										</td>
 									</tr>
 								</tbody>
@@ -78,7 +88,7 @@ include_once('header.php');
 					<hr class="tall" />
 
 					<div class="row">
-						<h4><strong>Responsável</strong></h4>
+						<h4><strong>Responsável técnico</strong></h4>
 						<ul class="team-list sort-destination" data-sort-id="team">
 							<li class="col-md-3 isotope-item leadership">
 								<div class="team-item thumbnail">
@@ -94,6 +104,20 @@ include_once('header.php');
 									</span>
 								</div>
 							</li>	
+							<li class="col-md-3 isotope-item leadership">
+								<div class="team-item thumbnail">
+									<span class="thumb-info team">
+										<img class="img-responsive" alt="" src="img/team/juliano.jpg">
+										<span class="thumb-info-title">
+											<span class="thumb-info-inner">Juliano</span>
+											<span class="thumb-info-type">Shodan (1º Dan)</span>
+										</span>
+									</span>
+									<span class="thumb-info-caption">
+										<p>Juliano Alves</p>
+									</span>
+								</div>
+							</li>
 													
 						</ul>
 
@@ -189,8 +213,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Rua 14 de julho, 74 - Farroupilha - RS",
-				html: "<strong>Dojo Kobukan</strong><br>R. 14 de julho, 74 - Farroupilha / RS",
+				address: "Rua Pinheiro Machado 152 - Farroupilha - RS",
+				html: "<strong>Dojo Kobukan</strong><br>Rua Pinheiro Machado, 152A sala 102 - Farroupilha / RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -200,8 +224,8 @@ include_once('header.php');
 			}];
 
 			// Map Initial Location -29.224404, -51.349635
-			var initLatitude = -29.224404;
-			var initLongitude =  -51.349635;
+			var initLatitude  = -29.227756;
+			var initLongitude = -51.346968;
 
 			// Map Extended Settings
 			var mapSettings = {

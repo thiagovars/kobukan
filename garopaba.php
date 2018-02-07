@@ -157,20 +157,16 @@ include_once('header.php');
 						</div>
 
 						  <div class="row">
-							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
-								
-								<?php 
-								for ($i=1; $i <= 14; $i++) { 
-								?>
+							<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'> 
+								<?php foreach ($fotos as $foto) : ?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">
-											<a href="img/garopaba/garopaba<?=$i;?>.jpg" class="thumb-info">
-												<img src="img/garopaba/garopaba<?=$i;?>.jpg" class="image-responsive"  height="200" width="400">
+											<a href="/kobukan/img/garopaba/<?php echo $foto; ?>" class="thumb-info">
+												<img src="/kobukan/img/garopaba/<?php echo $foto; ?>" class="image-responsive"  height="200" width="400">
 											</a>
 										</div>
 									</li>
-									<?								
-								} ?>
+									<?php endforeach; ?>
 							</ul> 
 						</div> 						
 

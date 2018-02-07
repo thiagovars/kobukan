@@ -44,7 +44,7 @@ include_once('header.php');
 
 						<div class="col-md-4">
 
-							<h2 class="shorter">Horários para treino de <strong>Iaido</strong></h2>
+							<h2 class="shorter">Horários para treino de <strong>Iaido, Jodo e Naginata</strong></h2>
 
 							<hr class="tall">
 

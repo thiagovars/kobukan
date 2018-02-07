@@ -1,5 +1,5 @@
 <?php 
-$title = 'Dojo Porto Alegre | Av. guilherme alves, 1315 - Porto Alegre - RS';
+$title = 'Dojo Porto Alegre | Rua Joaquim Silveira, 466 - Porto Alegre - RS';
 include_once('header.php');
 ?>
 
@@ -91,7 +91,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/mathaeus_aikido.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Mathaeus</span>
-											<span class="thumb-info-type">Shodan (Faixa Preta)</span>
+											<span class="thumb-info-type">Nidan (2º Dan)</span>
 										</span>
 									</span>
 								</div>
@@ -102,7 +102,7 @@ include_once('header.php');
 										<img class="img-responsive" alt="" src="img/team/thiago.jpg">
 										<span class="thumb-info-title">
 											<span class="thumb-info-inner">Thiago</span>
-											<span class="thumb-info-type">Shodan (Faixa Preta)</span>
+											<span class="thumb-info-type">Nidan (2º Dan)</span>
 										</span>
 									</span>
 									
@@ -137,7 +137,7 @@ include_once('header.php');
 								<ul class="lightbox" data-plugin-options='{"delegate": "a", "type": "image", "gallery": {"enabled": true}}'>
 								
 								<?php 
-								for ($i=1; $i <= 6; $i++) { 
+								for ($i=1; $i <= 13; $i++) { 
 								?>
 									<li class="col-md-3 no-pin">
 										<div class="img-thumbnail">
@@ -200,8 +200,8 @@ include_once('header.php');
 
 			// Map Markers
 			var mapMarkers = [{
-				address: "Av. guilherme alves, 1315 - Porto Alegre - RS",
-				html: "<strong>Dojo Kobukan</strong><br>Av. guilherme alves, 1315 - Porto Alegre - RS",
+				address: "Rua Joaquim Silveira, 466 - Porto Alegre - RS",
+				html: "<strong>Dojo Kobukan</strong><br>Rua Joaquim Silveira, 466 - Porto Alegre - RS",
 				icon: {
 					image: "img/pin.png",
 					iconsize: [26, 46],
@@ -211,8 +211,8 @@ include_once('header.php');
 			}];
 
 			// Map Initial Location
-			var initLatitude  = -30.059142;
-			var initLongitude = -51.190560;
+			var initLatitude  = -30.0059031;
+			var initLongitude = -51.1429017;
 
 			// Map Extended Settings
 			var mapSettings = {
